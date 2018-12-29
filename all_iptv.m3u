@@ -169,7 +169,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:0,[COLOR red]» »ALEMANHA « «[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="daserste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="daserste" tvg-id="daserste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8
