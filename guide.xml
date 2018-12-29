@@ -32,6 +32,14 @@
     <display-name lang="en">RTP Madeira</display-name>
     <url>http://www.rpt.pt</url>
   </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.sic.sapto.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
   <programme start="20181229063000 +0000" stop="20181229063100 +0000" channel="RTP1">
     <title lang="en">Espaço Zig Zag</title>
     <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
@@ -408,19 +416,19 @@
     <desc lang="en">Corrupção e luta num negócio de muito dinheiro(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229123600 +0000" stop="20181229135700 +0000" channel="RTP Memória">
+  <programme start="20181229123600 +0000" stop="20181229134900 +0000" channel="RTP Memória">
     <title lang="en">TV Rural</title>
     <desc lang="en">Um magazine para os agricultores e pecuários, do Engº. Sousa Veloso, uma figura eterna na memória dos portugueses(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229135700 +0000" stop="20181229150000 +0000" channel="RTP Memória">
-    <title lang="en">Casino Royal</title>
-    <desc lang="en">Uma espetacular série, impregnada de humor hilariante(n)</desc>
+  <programme start="20181229134900 +0000" stop="20181229135700 +0000" channel="RTP Memória">
+    <title lang="en">Traz prá Frente</title>
+    <desc lang="en">Best of(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229150000 +0000" stop="20181229164500 +0000" channel="RTP Memória">
-    <title lang="en">Matrimónio à Italiana</title>
-    <desc lang="en">Uma irresistível comédia de Vittorio De Sica, com Sophia Loren e Marcello Mastroianni sobre as atribulações de uma mulher que tenta por todos os meios levar o seu amante dos últimos 20 anos ao altar(n)</desc>
+  <programme start="20181229135700 +0000" stop="20181229164500 +0000" channel="RTP Memória">
+    <title lang="en">Casino Royal</title>
+    <desc lang="en">Uma espetacular série, impregnada de humor hilariante(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20181229164500 +0000" stop="20181229182200 +0000" channel="RTP Memória">
@@ -680,5 +688,128 @@
     <title lang="en">Telejornal Madeira</title>
     <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20181229062000 +0000" stop="20181229065500 +0000" channel="SIC">
+    <title lang="pt">ETNIAS</title>
+    <rating system="PT">
+      <value>10AP</value>
+    </rating>
+  </programme>
+  <programme start="20181229065500 +0000" stop="20181229072500 +0000" channel="SIC">
+    <title lang="pt">LEGO NINJAGO - SÉRIE 9</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229072500 +0000" stop="20181229073500 +0000" channel="SIC">
+    <title lang="pt">ALVIN E OS ESQUILOS</title>
+    <desc lang="pt">INFANTIL(n)</desc>
+  </programme>
+  <programme start="20181229073500 +0000" stop="20181229075500 +0000" channel="SIC">
+    <title lang="pt">MARVELS SPIDER MAN - SÉRIE 1</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229075500 +0000" stop="20181229082500 +0000" channel="SIC">
+    <title lang="pt">POWER RANGERS NINJA STEEL</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229082500 +0000" stop="20181229101500 +0000" channel="SIC">
+    <title lang="pt">CINEMA: CINEMA: AS AVENTURAS DE ROBINSON CRUSOÉ</title>
+    <desc lang="pt">Nova emissão(n)</desc>
+  </programme>
+  <programme start="20181229101500 +0000" stop="20181229121000 +0000" channel="SIC">
+    <title lang="pt">CIRCO DE NATAL SIC ESPERANÇA</title>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229121000 +0000" stop="20181229130000 +0000" channel="SIC">
+    <title lang="pt">NOSSO MUNDO: LIFE FORCE</title>
+    <desc lang="pt">LIFE FORCE(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229130000 +0000" stop="20181229140000 +0000" channel="SIC">
+    <title lang="pt">PRIMEIRO JORNAL</title>
+  </programme>
+  <programme start="20181229140000 +0000" stop="20181229160500 +0000" channel="SIC">
+    <title lang="pt">CINEMA: SOZINHO EM CASA 2: PERDIDO EM NOVA IORQUE</title>
+    <desc lang="pt">SOZINHO EM CASA 2: PERDIDO NY(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229160500 +0000" stop="20181229180000 +0000" channel="SIC">
+    <title lang="pt">CINEMA: A HISTÓRIA DA CINDERELA</title>
+    <desc lang="pt">FILME(n)</desc>
+    <rating system="PT">
+      <value>12AP</value>
+    </rating>
+  </programme>
+  <programme start="20181229180000 +0000" stop="20181229195700 +0000" channel="SIC">
+    <title lang="pt">CINEMA: TRANSPORTER: POTÊNCIA MÁXIMA</title>
+    <desc lang="pt">Nova emissão(n)</desc>
+    <rating system="PT">
+      <value>12AP</value>
+    </rating>
+  </programme>
+  <programme start="20181229195700 +0000" stop="20181229213000 +0000" channel="SIC">
+    <title lang="pt">JORNAL DA NOITE</title>
+  </programme>
+  <programme start="20181229213000 +0000" stop="20181229220500 +0000" channel="SIC">
+    <title lang="pt">ALMA E CORAÇÃO</title>
+    <desc lang="pt">Nova emissão(n)</desc>
+    <rating system="PT">
+      <value>12AP</value>
+    </rating>
+  </programme>
+  <programme start="20181229220500 +0000" stop="20181229234000 +0000" channel="SIC">
+    <title lang="pt">CASADOS À PRIMEIRA VISTA - A ÚLTIMA SEMANA</title>
+    <desc lang="pt">CASADOS À PRIMEIRA VISTA - A SEMANA(n)</desc>
+    <rating system="PT">
+      <value>T</value>
+    </rating>
+  </programme>
+  <programme start="20181229234000 +0000" stop="20181230023000 +0000" channel="SIC">
+    <title lang="pt">CINEMA: THE REVENANT: O RENASCIDO</title>
+    <desc lang="pt">REVENANT(n)</desc>
+    <rating system="PT">
+      <value>12AP</value>
+    </rating>
+  </programme>
+  <programme start="20181229063000 +0000" stop="20181229101000 +0000" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20181229101000 +0000" stop="20181229130000 +0000" channel="TVI">
+    <title lang="pt">No monte do Manel</title>
+  </programme>
+  <programme start="20181229130000 +0000" stop="20181229140000 +0000" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20181229140000 +0000" stop="20181229143500 +0000" channel="TVI">
+    <title lang="pt">SOS 24</title>
+  </programme>
+  <programme start="20181229143500 +0000" stop="20181229161500 +0000" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+  </programme>
+  <programme start="20181229161500 +0000" stop="20181229191100 +0000" channel="TVI">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20181229191100 +0000" stop="20181229195700 +0000" channel="TVI">
+    <title lang="pt">Apanha se puderes</title>
+  </programme>
+  <programme start="20181229195700 +0000" stop="20181229214000 +0000" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20181229214000 +0000" stop="20181229225700 +0000" channel="TVI">
+    <title lang="pt">Valor da Vida</title>
+  </programme>
+  <programme start="20181229225700 +0000" stop="20181230001000 +0000" channel="TVI">
+    <title lang="pt">A Teia</title>
   </programme>
 </tv>
