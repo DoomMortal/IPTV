@@ -145,6 +145,8 @@ http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 #EXTINF:0,[COLOR cyan]» »ESPANHA « «[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV Galicia [/B][/I][/COLOR]
+http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR cyan][I][B]TELEMADRID [/B][/I][/COLOR]
@@ -162,7 +164,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/play
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR cyan][I][B]REAL MADRID TV [/B][/I][/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:0,[COLOR red]» »Alemanha « «[/COLOR]
+#EXTINF:0,[COLOR red]» »AlEMANHA « «[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
