@@ -40,6 +40,11 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.tvi.pt</url>
   </channel>
+  <channel id="Galicia TV">
+    <display-name lang="es">Galicia TV</display-name>
+    <icon src="http://www.elmundo.es//elmundo/iconos/v2.1/television/logos/grandes/Tvgalicia.gif" />
+    <url>http://www.elmundo.es</url>
+  </channel>
   <programme start="20181229063000 +0000" stop="20181229063100 +0000" channel="RTP1">
     <title lang="en">Espaço Zig Zag</title>
     <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
@@ -88,14 +93,14 @@
     <title lang="en">Movimento Gentil - Embaixadores</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229080000 +0000" stop="20181229143600 +0000" channel="RTP1">
+  <programme start="20181229080000 +0000" stop="20181229141000 +0000" channel="RTP1">
     <title lang="en">Bom Dia Portugal Fim de Semana</title>
     <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229143600 +0000" stop="20181229210000 +0000" channel="RTP1">
-    <title lang="en">Aqui Portugal</title>
-    <desc lang="en">Póvoa de Varzim(n)</desc>
+  <programme start="20181229141000 +0000" stop="20181229210000 +0000" channel="RTP1">
+    <title lang="en">Voz do Cidadão</title>
+    <desc lang="en">A opinião dos Telespectadores conta(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20181229210000 +0000" stop="20181229215000 +0000" channel="RTP1">
@@ -200,14 +205,9 @@
     <desc lang="en">Vem conhecer os quatros cantos do mundo com as incríveis viagens de Alex e Tanya(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229130600 +0000" stop="20181229142600 +0000" channel="RTP2">
+  <programme start="20181229130600 +0000" stop="20181229150000 +0000" channel="RTP2">
     <title lang="en">Vamos À Descoberta</title>
     <desc lang="en">Um magazine juvenil da descoberta e da ciência(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20181229142600 +0000" stop="20181229150000 +0000" channel="RTP2">
-    <title lang="en">Encontra-me em Paris</title>
-    <desc lang="en">Série juvenil, filmada em alguns dos locais mais emblemáticos de Paris, com uma mistura única de bailado clássico, dança contemporânea, comédia e drama(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20181229150000 +0000" stop="20181229155800 +0000" channel="RTP2">
@@ -289,14 +289,14 @@
     <desc lang="en">Fotobox é um programa de fotografia(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229120000 +0000" stop="20181229142500 +0000" channel="RTP3">
+  <programme start="20181229120000 +0000" stop="20181229141000 +0000" channel="RTP3">
     <title lang="en">JORNAL DAS 12</title>
     <desc lang="en">Informação do País e do Mundo(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20181229142500 +0000" stop="20181229150000 +0000" channel="RTP3">
-    <title lang="en">Olhar o Mundo</title>
-    <desc lang="en">Um espaço de reflexão sobre os principais assuntos da semana a nível internacional, com coordenação e apresentação de António Mateus(n)</desc>
+  <programme start="20181229141000 +0000" stop="20181229150000 +0000" channel="RTP3">
+    <title lang="en">3 às 14</title>
+    <desc lang="en">Notícias de Portugal e do Mundo(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20181229150000 +0000" stop="20181229151500 +0000" channel="RTP3">
