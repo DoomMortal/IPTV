@@ -5,6 +5,21 @@
     <icon src="https://senderlogos.images.dvbdata.com/302x190_w/71.png" />
     <url>http://www.tvdigital.de</url>
   </channel>
+  <channel id="Servus TV">
+    <display-name lang="de">Servus TV</display-name>
+    <icon src="https://senderlogos.images.dvbdata.com/302x190_w/660.png" />
+    <url>http://www.tvdigital.de</url>
+  </channel>
+  <channel id="ARD alpha">
+    <display-name lang="de">ARD alpha</display-name>
+    <icon src="https://senderlogos.images.dvbdata.com/302x190_w/104.png" />
+    <url>http://www.tvdigital.de</url>
+  </channel>
+  <channel id="NDR">
+    <display-name lang="de">NDR</display-name>
+    <icon src="https://senderlogos.images.dvbdata.com/302x190_w/47.png" />
+    <url>http://www.tvdigital.de</url>
+  </channel>
   <programme start="20181229053000 +0100" stop="20181229055500 +0100" channel="Das Erste">
     <title lang="de">Willi wills wissen</title>
     <sub-title lang="de">Kommt, lasst uns tanzen gehen</sub-title>
@@ -388,6 +403,1406 @@
     <category lang="de">Information</category>
     <category lang="de">Nachrichten</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229053500 +0100" stop="20181229062000 +0100" channel="Servus TV">
+    <title lang="de">Hotels zum Staunen - Ein Blick hinter die Kulissen</title>
+    <sub-title lang="de">Mashpi Lodge, Ecuador (2/6)</sub-title>
+    <desc lang="de">Mashpi Lodge, Ecuador (2/6) - Welche außergewöhnlichen Herausforderungen nehmen die Angestellten der schönsten und exklusivsten Hotels auf sich, um die Träume und Wünsche der Besucher vorauszusehen? Der britische Restaurantkritiker Giles Coren und die neuseeländische Chefköchin Monica Galetti reisen um die Welt, um das Hotelleben hautnah zu erleben, sowohl aus der Perspektive der Besucher als auch des Hotelpersonals. Die beiden Gourmets entdecken dabei oft übersehene Arbeitskräfte, die jeden Tag Wunder geschehen lassen. Der britische Restaurantkritiker Giles Coren und die neuseelandische Chefköchin Monica Galetti reisen in die Anden. Im ecuadorianischen Nebelwald besuchen sie die Mashpi Lodge auf, ein modernes 10-Millionen-Dollar-Hotel, das über eine Gondel verfügt, die Gäste in atemberaubender Höhe eine Meile über dem Boden durch die Krone des Dschungels chauffiert. Das Hotel wurde vom ehemaligen Bürgermeister Quitos erbaut, auf einem Gelände, auf dem die massenhafte Abholzung des Waldes vorangetrieben wurde. Ein Großteil der Hotelbelegschaft sind Ortsansässige, die selbst einst Holzfäller und Jäger waren. Nun sehen sie sich als stolze Umweltschützer. Die Gäste des Hotels, die an diesem abgelegenen Ort übernachten, auf einer Höhe von 900 Metern über dem Meeresspiegel, sind von einem einzigartigen Ökosystem umgeben, einem der letzten Biotope mit hoher Artenvielfalt. Giles und Monica erleben, was es bedeutet den Gästen Luxus und höchsten Komfort inmitten der unberührten Wildnis, von Schlamm und feuchtem Klima, zu bieten. Die Feuchtigkeit ist der größte Feind des Hotels, denn es herrscht bisweilen eine Luftfeuchtigkeit von bis zu 90 Prozent(n)</desc>
+    <credits>
+      <director>Max Shapira</director>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reisen</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2365_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229062000 +0100" stop="20181229070500 +0100" channel="Servus TV">
+    <title lang="de">Hotels zum Staunen - Ein Blick hinter die Kulissen</title>
+    <sub-title lang="de">Giraffe Manor, Kenia (3/6)</sub-title>
+    <desc lang="de">Giraffe Manor, Kenia (3/6) - In der dritten Episode brechen der britische Restaurantkritiker Giles Coren und die neuseeländische Chefköchin Monica Galetti nach Afrika auf: Sie besuchen das Giraffe Manor, ein einzigartiges Hotel, wo Giraffen, Gäste und Belegschaft alle an einem Ort zusammenleben, in einer im schottischen Stil der 1930er Jahre gehalteten Lodge am Rande des Nairobi Nationalparks. Die Betreiber dieser Lodge sind Tanya und Mikey Carr-Hartley, die bereits in vierter Generation in Kenia leben. Sie unterhalten drei weitere Luxus-Lodges in der Wildnis Kenias und in Ostafrika, aber keines der Hotels ist so besonders wie das Giraffe Manor. Denn hier frühstücken die Giraffen zeitgleich und gemeinsam mit den Gästen. Nach einem beeindruckenden Frühstück und einigen Küssen von Giraffen trifft Monica den Chefkoch des Hotels David Kisevu, der sie zum Einkaufen in einen vor Leben nur so sprühenden Stadtteil von Rongai mitnimmt. Danach fliegen Giles und Monica gemeinsam zur Sasaab Lodge, wo sie dem Stamm der Samburu begegnen. Die Samburu sind die Eigentümer des Landes, auf dem die Giraffe Manor steht. Sie erhalten eine Abgabe für jeden einzelnen Hotelgast, der im Luxusresort Giraffe Manor übernachtet. Auch bis zu 75 Prozent der Stammesangehörigen arbeiten für die Hotelbetreiber. Zum Schluss geht Giles auf eine Safari mit dem Samburu-Kämpfer Jacob, der eine dreijährige Ausbildung als Safari Guide absolviert hat. Eine Unternehmung, die Giles nicht so schnell vergessen wird(n)</desc>
+    <credits>
+      <director>Max Shapira</director>
+      <writer>Tom Peppiatt</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reisen</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2365_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229070500 +0100" stop="20181229075000 +0100" channel="Servus TV">
+    <title lang="de">Hotels zum Staunen - Ein Blick hinter die Kulissen</title>
+    <sub-title lang="de">Royal Mansour, Marokko (4/6)</sub-title>
+    <desc lang="de">Royal Mansour, Marokko (4/6) - Die neuseeländische Chefköchin Monica Galetti und der britische Restaurantkritiker Giles Coren sind in Marokko und besuchen die Royal Mansour, eines der diskretesten Luxushotels der Welt, versteckt im Herzen von Marrakechs altertümlicher Medina. Die Hotelbelegschaft legt großen Wert auf kleinste Details und erschafft dadurch für die Gäste der Royal Mansour ein absolut umwerfendes Erlebnis(n)</desc>
+    <credits>
+      <director>Max Shapira</director>
+      <writer>Tom Peppiatt</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reisen</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2365_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229075000 +0100" stop="20181229084500 +0100" channel="Servus TV">
+    <title lang="de">Hotels zum Staunen - Ein Blick hinter die Kulissen</title>
+    <sub-title lang="de">Fogo Island Inn, Kanada (5/6)</sub-title>
+    <desc lang="de">Fogo Island Inn, Kanada (5/6) - In dieser Episode besuchen Giles und Monica das entlegene "Fogo Island Inn in Kanada", ein Luxushotel, das sie durch seine spektakuläre Architektur und Lage sofort in den Bann zieht(n)</desc>
+    <credits>
+      <director>Max Shapira</director>
+      <writer>Tom Peppiatt</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reisen</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2365_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229084500 +0100" stop="20181229094000 +0100" channel="Servus TV">
+    <title lang="de">Moderne Wunder - Spezial</title>
+    <desc lang="de">Diese Dokumentarreihe widmet sich neuesten Erfindungen und Entwicklungen und gibt Einblicke in aktuelle Errungenschaften des täglichen Lebens. Zum Beispiel wird gezeigt, wie biologisch abbaubare Möbel aussehen und erklärt, was sich hinter dem Begriff "Clean Eating" verbirgt. Ungewöhnliche Reiseziele und skurrile Geschäftsideen werden ebenso porträtiert wie andersartige Produktionsmethoden(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229094000 +0100" stop="20181229103800 +0100" channel="Servus TV">
+    <title lang="de">Mega-Bauten</title>
+    <sub-title lang="de">Der Kreuzfahrt-Gigant</sub-title>
+    <desc lang="de">Der Kreuzfahrt-Gigant - In einer der größten Werften der Welt entsteht das gigantische Kreuzfahrtschiff MSC Meraviglia. Fast 6.000 Passagiere und über 1.000 Mitarbeiter sind bei der Jungfernfahrt dabei. Aber wie baut man einen solchen Ozeanriesen? Die Doku zeigt, wie aus riesigen Stahlblöcken ein schwimmender Kreuzfahrt-Gigant wird(n)</desc>
+    <credits>
+      <director>Mat Stimpson</director>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/4245_478x268.jpg" />
+    <country>GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229103800 +0100" stop="20181229104000 +0100" channel="Servus TV">
+    <title lang="de">Servus Wetter</title>
+    <sub-title lang="de">Das exklusive Wetter für den Alpenraum</sub-title>
+    <desc lang="de">Das exklusive Wetter für den Alpenraum - Servus Wetter zeigt Ihnen jeden Tag, wie das Wetter im Servus-Raum wird(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Wetterbericht</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1580_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229104000 +0100" stop="20181229123000 +0100" channel="Servus TV">
+    <title lang="de">Die Suche nach Atlantis</title>
+    <desc lang="de">Gab es die Stadt Atlantis tatsächlich? James Cameron, untersucht den unbekannten Standort der verlorenen Stadt(n)</desc>
+    <credits>
+      <director>Simcha Jacobovici</director>
+      <writer>Simcha Jacobovici</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5383633/5383633_478x268.jpg" />
+    <country>USA/CDN</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229123000 +0100" stop="20181229132300 +0100" channel="Servus TV">
+    <title lang="de">Body Hack - Körper am Limit</title>
+    <sub-title lang="de">Seenomaden in Borneo</sub-title>
+    <desc lang="de">Seenomaden in Borneo - Der Australier Todd Sampson, Abenteurer und menschliches Versuchskaninchen, nimmt einige der größten Herausforderungen seiner Lebens auf sich, um die außergewöhnlichsten Menschen der Welt zu erforschen(n)</desc>
+    <credits>
+      <presenter>Todd Sampson</presenter>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/218_478x268.jpg" />
+    <country>AUS</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229132300 +0100" stop="20181229132500 +0100" channel="Servus TV">
+    <title lang="de">Servus Wetter</title>
+    <sub-title lang="de">Das exklusive Wetter für den Alpenraum</sub-title>
+    <desc lang="de">Das exklusive Wetter für den Alpenraum - Servus Wetter zeigt Ihnen jeden Tag, wie das Wetter im Servus-Raum wird(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Wetterbericht</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1580_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229132500 +0100" stop="20181229143000 +0100" channel="Servus TV">
+    <title lang="de">Naturschützer im Einsatz</title>
+    <sub-title lang="de">Florida</sub-title>
+    <desc lang="de">Florida - Florida gilt als der "Sunshine State", der Sonnenschein-Staat! In der Nähe des nördlichen Wendekreises gelegen, ist Florida neben Hawaii der südlichste Bundesstaat der USA. Wasser gibt es hier überall. Von Nord nach Süd, und von Ost nach West, entstanden durch die Everglades eine Reihe von außergewöhnlichen Ökosystemen. Es ist ein Paradies für Tiere und Naturschützer. Im Apalachicola-Naturpark will Rebecca Means in den Feuchtgebieten den Gestreiften Wassermolch wieder ansiedeln, der auf Florida ausgestorben ist. Ein paar hundert Meilen südlicher kümmert sich Amy Teague seit 18 Jahren um Seekühe, die in der Kings Bay überwintern. Die heißen Quellen sorgen für angenehm warmes Wasser. Ken Nedymier arbeitet seit den 1970er-Jahren als Taucher auf den "Keys". Er züchtet in 10 Meter Tiefe Korallen. So möchte er Floridas Korallenriffe retten. Jerry Lorenz ist Experte für Rosalöffler. Schon vor 20 Jahren ist er durch die Bucht von Florida gefahren, auf der Suche nach diesem Wasservogel. Der Rosalöffler ist halb Pelikan und halb Flamingo, und gilt als stark bedroht(n)</desc>
+    <credits>
+      <director>Mélanie Dalsace</director>
+    </credits>
+    <date>2015</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/857_478x268.jpg" />
+    <country>F</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229143000 +0100" stop="20181229153000 +0100" channel="Servus TV">
+    <title lang="de">Galapagos - Perle des Pazifik</title>
+    <sub-title lang="de">Evolution (3/3)</sub-title>
+    <desc lang="de">Evolution (3/3) - Der renommierte Naturfilmer Sir David Attenborough wirft einen genaueren Blick auf Darwins Evolutionstheorie. Preisgekrönte Doku-Reihe. Ein Grund für die große Vielfalt auf dem Galapagos-Archipel ist der unmerkliche Kontinentaldrift. Denn dadurch hat sich die einzigartige Natur auf Galapagos in ein biologisches Wunderland entwickelt. Die einzelnen Inseln des Archipels haben sich von einander unabhängig entwickelt. Eine einzelne Spezies entfaltete sich oft auf dem Archipel auf unterschiedliche Weise. Mit Charles Darwins berühmten Besuch begann das Insel-Archipel in die Öffentlichkeit zu rücken. So kamen auch die ersten menschlichen Siedler nach Galapagos(n)</desc>
+    <credits>
+      <director>Martin Williams</director>
+      <actor>David Attenborough</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6030589/6030589_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229153000 +0100" stop="20181229153500 +0100" channel="Servus TV">
+    <title lang="de">Horizont</title>
+    <sub-title lang="de">Das Tropenhaus - wahrhaft tropische Verhältnisse in den Alpen</sub-title>
+    <desc lang="de">Das Tropenhaus - wahrhaft tropische Verhältnisse in den Alpen - Exotische Früchte wachsen in den Berner Alpen dank einem Tunnel(n)</desc>
+    <date>2010</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reportagereihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229153500 +0100" stop="20181229154000 +0100" channel="Servus TV">
+    <title lang="de">Servus Wetter</title>
+    <sub-title lang="de">Das exklusive Wetter für den Alpenraum</sub-title>
+    <desc lang="de">Das exklusive Wetter für den Alpenraum - Die Servus-TV-Meteorologen bereisen den Alpenraum und produzieren ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen. Außerdem erfahren Sie beim Servus Wetter nicht nur, wie das Wetter wird, sondern auch, warum es so wird(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Wetterbericht</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1580_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229154000 +0100" stop="20181229172500 +0100" channel="Servus TV">
+    <title lang="de">Zwei tolle Käfer räumen auf</title>
+    <desc lang="de">Goldmünzen im Wert von 20 Millionen Mark. Dieser Schatz wurde im Zweiten Weltkrieg von dem deutschen Major Russ gestohlen und befindet sich nun auf der Insel Lanzarote. Der Abenteurer und Tüftler "El Guancho" weiß, wo der Schatz versteckt ist, und sieht sich bald nicht nur von Major Russ, sondern auch von zwei Mafiosi bedroht. Aber El Guancho besitzt eine einzigartige Waffe, den Wunderkäfer Dudu(n)</desc>
+    <credits>
+      <director>Rudolf Zehetgruber</director>
+      <actor>Rudolf Rittberg</actor>
+      <actor>Kathrin Oginski</actor>
+      <actor>Salvatore Borghese</actor>
+      <actor>Sal Borgese</actor>
+      <actor>Fernando Sancho</actor>
+      <writer>Rudolf Zehetgruber</writer>
+    </credits>
+    <date>1978</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Komödie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/2694123/2694123_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>2.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229172500 +0100" stop="20181229180000 +0100" channel="Servus TV">
+    <title lang="de">Kulinarische Ausflüge</title>
+    <sub-title lang="de">Winterliche Spezialitäten</sub-title>
+    <desc lang="de">Winterliche Spezialitäten - Eine winterliche Reise ins Schneebergland, nach Wien und Slowenien: Vorgestellt wird unter anderem die Puchberger Festtags-Suppe. Ein weiterer Abstecher führt uns nach Hirschwang, wo seit 1873 der einzigartige Alber'sche Biskuit-Zwieback hergestellt wird. In Wien besuchen wir eine Nobel-Patisserie, die auf Weihnachten abgestimmte festliche Süßspeisen herstellt. Und in Slowenien wird auf traditionelle Art und Weise Lamm in einem Kamin gegart wird, ein Leckerbissen gerade in der kalten Jahreszeit(n)</desc>
+    <date>2013</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reise-und Kochmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1016_478x268.jpg" />
+    <country>A/D/CH</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229180000 +0100" stop="20181229180500 +0100" channel="Servus TV">
+    <title lang="de">Servus Nachrichten 18:00</title>
+    <sub-title lang="de">Servus Nachrichten Kompakt</sub-title>
+    <desc lang="de">Servus Nachrichten Kompakt - Servus Nachrichten Kompakt - Die wichtigsten KURZ-Nachrichten vom Tag aus Österreich und der Welt(n)</desc>
+    <credits>
+      <presenter>Hans Martin Paar</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/842_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229180500 +0100" stop="20181229181000 +0100" channel="Servus TV">
+    <title lang="de">Skiabfahrt entlang der Pallavicinirinne am Großglockner</title>
+    <desc lang="de">Abenteuer direkt vor unserer Haustür. Raus aus der Komfortzone, rein ins Ungewisse - das sind die Elemente unserer Kurz-Portraits. Die Reihe widmet sich den Menschen unserer Zeit, deren Leben spannende Abenteuergeschichten schreiben - emotional, hautnah und echt(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">kein Charakter</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229181000 +0100" stop="20181229191000 +0100" channel="Servus TV">
+    <title lang="de">Der Hund - Des Menschen bester Freund</title>
+    <sub-title lang="de">In der Wildnis</sub-title>
+    <desc lang="de">In der Wildnis - Wie wurde aus dem in der Wildnis lebenden Wolf der beste Freund des Menschen? Wodurch zeichnet sich der Hund als einer unserer beliebtesten Weggefährten aus? Über Jahrtausende hinweg dauert die Freundschaft zwischen Mensch und Hund bereits an. Die Doku-Reihe zeigt, wie sich das Verhältnis zum besten Freund des Menschen gestaltet hat und vermag anhand von bemerkenswerten Beispielen aus der ganzen Welt aufzuzeigen, was uns Menschen mittlerweile untrennbar mit dem Hund verbindet(n)</desc>
+    <credits>
+      <director>Scott Tankard</director>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229191000 +0100" stop="20181229201000 +0100" channel="Servus TV">
+    <title lang="de">Der Hund - Des Menschen bester Freund</title>
+    <sub-title lang="de">Zuchthunde und Raubtiere</sub-title>
+    <desc lang="de">Zuchthunde und Raubtiere - Wie wurde aus dem in der Wildnis lebenden Wolf der beste Freund des Menschen? Wodurch zeichnet sich der Hund als einer unserer beliebtesten Weggefährten aus? Über Jahrtausende hinweg dauert die Freundschaft zwischen Mensch und Hund bereits an. Die Doku-Reihe zeigt, wie sich das Verhältnis zum besten Freund des Menschen gestaltet hat und vermag anhand von bemerkenswerten Beispielen aus der ganzen Welt aufzuzeigen, was uns Menschen mittlerweile untrennbar mit dem Hund verbindet(n)</desc>
+    <credits>
+      <director>Jennie Hammond</director>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229201000 +0100" stop="20181229201500 +0100" channel="Servus TV">
+    <title lang="de">Servus Wetter</title>
+    <sub-title lang="de">Das exklusive Wetter für den Alpenraum</sub-title>
+    <desc lang="de">Das exklusive Wetter für den Alpenraum - Die Servus-TV-Meteorologen bereisen den Alpenraum und produzieren ihr Wetter jeden Tag von den schönsten Plätzen in den Regionen. Außerdem erfahren Sie beim Servus Wetter nicht nur, wie das Wetter wird, sondern auch, warum es so wird(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Wetterbericht</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1580_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229201500 +0100" stop="20181229221000 +0100" channel="Servus TV">
+    <title lang="de">Krieg und Frieden (3/4)</title>
+    <desc lang="de">Wenige Wochen vor der Hochzeit von Natascha Rostowa (Clémence Poésy) mit Andrej Bolkonski kommt es zum Eklat. Andrej erfährt, dass Natascha den Verführungsversuchen seitens Anatol Kuragin nicht abgeneigt ist und fordert von ihr eine Entscheidung. Kurz darauf wird Andrej nach Frankreich entsandt, um mit Napoleon zu verhandeln und einen drohenden Krieg abzuwehren. Anatol sieht seine Chance gekommen und will mit Natascha ein neues Leben beginnen. Pierre Besuchow, Andrejs bester Freund, gelingt es mittels einer hohen Geldsumme, Anatol dazu zu bringen, seine Pläne mit Natascha fallen zu lassen. Natascha bereut ihren Fehler und möchte ihre Beziehung mit Andrej wiederaufnehmen. Doch dieser kann seiner Ex-Verlobten nicht vergeben. Napoleon bricht den Friedensvertrag, seine Truppen nähern sich der russischen Grenze. Erneut herrscht Krieg zwischen Russland und Frankreich. Andrej wird direkt in das Kampfgeschehen miteinbezogen. Nach der siegreichen Schlacht von Borodino scheint die Eroberung Moskaus durch Napoleon nur eine Frage der Zeit. 15.000 Komparsen, 2.400 Kostüme, 1.500 eingesetzte Pferde und 105 Drehorte, darunter im großen Ballsaal des Puschkin-Palastes in Sankt Petersburg - mit Superlativen wie diesen kann Robert Dornhelms Adaptation von "Krieg und Frieden" aufwarten. Die opulente, vierteilige Verfilmung des Literaturklassikers von Leo Tolstois entwirft relativ vorlagengetreu ein Historiengemälde des zaristischen Russlands zu Beginn des 19. Jahrhunderts. Zur internationalen Besetzung gehören "Gossip Girl"-Clémence Poésy (Natascha), Hannelore Elsner (Gräfin Rostowa) und Malcolm McDowell (Fürst Bolkonski)(n)</desc>
+    <credits>
+      <director>Robert Dornhelm</director>
+      <actor>Alexander Beyer</actor>
+      <actor>Clémence Poésy</actor>
+      <actor>Alessio Boni</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Andrea Giordana</actor>
+      <writer>Enrico Medioli</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Historienfilm</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/839388/839388_478x268.jpg" />
+    <country>D/I/F/PL/RUS/GB</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229221000 +0100" stop="20181230001000 +0100" channel="Servus TV">
+    <title lang="de">Krieg und Frieden (3/4)</title>
+    <desc lang="de">Wenige Wochen vor der Hochzeit von Natascha Rostowa (Clémence Poésy) mit Andrej Bolkonski kommt es zum Eklat. Andrej erfährt, dass Natascha den Verführungsversuchen seitens Anatol Kuragin nicht abgeneigt ist und fordert von ihr eine Entscheidung. Kurz darauf wird Andrej nach Frankreich entsandt, um mit Napoleon zu verhandeln und einen drohenden Krieg abzuwehren. Anatol sieht seine Chance gekommen und will mit Natascha ein neues Leben beginnen. Pierre Besuchow, Andrejs bester Freund, gelingt es mittels einer hohen Geldsumme, Anatol dazu zu bringen, seine Pläne mit Natascha fallen zu lassen. Natascha bereut ihren Fehler und möchte ihre Beziehung mit Andrej wiederaufnehmen. Doch dieser kann seiner Ex-Verlobten nicht vergeben. Napoleon bricht den Friedensvertrag, seine Truppen nähern sich der russischen Grenze. Erneut herrscht Krieg zwischen Russland und Frankreich. Andrej wird direkt in das Kampfgeschehen miteinbezogen. Nach der siegreichen Schlacht von Borodino scheint die Eroberung Moskaus durch Napoleon nur eine Frage der Zeit. 15.000 Komparsen, 2.400 Kostüme, 1.500 eingesetzte Pferde und 105 Drehorte, darunter im großen Ballsaal des Puschkin-Palastes in Sankt Petersburg - mit Superlativen wie diesen kann Robert Dornhelms Adaptation von "Krieg und Frieden" aufwarten. Die opulente, vierteilige Verfilmung des Literaturklassikers von Leo Tolstois entwirft relativ vorlagengetreu ein Historiengemälde des zaristischen Russlands zu Beginn des 19. Jahrhunderts. Zur internationalen Besetzung gehören "Gossip Girl"-Clémence Poésy (Natascha), Hannelore Elsner (Gräfin Rostowa) und Malcolm McDowell (Fürst Bolkonski)(n)</desc>
+    <credits>
+      <director>Robert Dornhelm</director>
+      <actor>Alexander Beyer</actor>
+      <actor>Clémence Poésy</actor>
+      <actor>Alessio Boni</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Andrea Giordana</actor>
+      <writer>Enrico Medioli</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Historienfilm</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/839388/839388_478x268.jpg" />
+    <country>D/I/F/PL/RUS/GB</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230001000 +0100" stop="20181230020500 +0100" channel="Servus TV">
+    <title lang="de">Mein großer Freund Shane</title>
+    <desc lang="de">Joe Starrett hat sich mit seiner Familie im Westen Amerikas eine eigene Existenz aufgebaut, doch der skrupellose Ryker macht kleinen Farmern wie ihm das Leben schwer. Als der heimatlose Shane bei Joe Unterkunft und Arbeit findet, versucht Ryker, ihn auf seine Seite zu ziehen(n)</desc>
+    <credits>
+      <director>George Stevens</director>
+      <actor>Alan Ladd</actor>
+      <actor>Jean Arthur</actor>
+      <actor>Van Heflin</actor>
+      <actor>Jack Palance</actor>
+      <actor>Brandon de Wilde</actor>
+      <writer>Alfred Bertram Guthrie</writer>
+    </credits>
+    <date>1953</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Western</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1891967/1891967_478x268.jpg" />
+    <country>USA</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230020500 +0100" stop="20181230033500 +0100" channel="Servus TV">
+    <title lang="de">Krieg und Frieden (3/4)</title>
+    <desc lang="de">Wenige Wochen vor der Hochzeit von Natascha Rostowa (Clémence Poésy) mit Andrej Bolkonski kommt es zum Eklat. Andrej erfährt, dass Natascha den Verführungsversuchen seitens Anatol Kuragin nicht abgeneigt ist und fordert von ihr eine Entscheidung. Kurz darauf wird Andrej nach Frankreich entsandt, um mit Napoleon zu verhandeln und einen drohenden Krieg abzuwehren. Anatol sieht seine Chance gekommen und will mit Natascha ein neues Leben beginnen. Pierre Besuchow, Andrejs bester Freund, gelingt es mittels einer hohen Geldsumme, Anatol dazu zu bringen, seine Pläne mit Natascha fallen zu lassen. Natascha bereut ihren Fehler und möchte ihre Beziehung mit Andrej wiederaufnehmen. Doch dieser kann seiner Ex-Verlobten nicht vergeben. Napoleon bricht den Friedensvertrag, seine Truppen nähern sich der russischen Grenze. Erneut herrscht Krieg zwischen Russland und Frankreich. Andrej wird direkt in das Kampfgeschehen miteinbezogen. Nach der siegreichen Schlacht von Borodino scheint die Eroberung Moskaus durch Napoleon nur eine Frage der Zeit. 15.000 Komparsen, 2.400 Kostüme, 1.500 eingesetzte Pferde und 105 Drehorte, darunter im großen Ballsaal des Puschkin-Palastes in Sankt Petersburg - mit Superlativen wie diesen kann Robert Dornhelms Adaptation von "Krieg und Frieden" aufwarten. Die opulente, vierteilige Verfilmung des Literaturklassikers von Leo Tolstois entwirft relativ vorlagengetreu ein Historiengemälde des zaristischen Russlands zu Beginn des 19. Jahrhunderts. Zur internationalen Besetzung gehören "Gossip Girl"-Clémence Poésy (Natascha), Hannelore Elsner (Gräfin Rostowa) und Malcolm McDowell (Fürst Bolkonski)(n)</desc>
+    <credits>
+      <director>Robert Dornhelm</director>
+      <actor>Alexander Beyer</actor>
+      <actor>Clémence Poésy</actor>
+      <actor>Alessio Boni</actor>
+      <actor>Malcolm McDowell</actor>
+      <actor>Andrea Giordana</actor>
+      <writer>Enrico Medioli</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Historienfilm</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/839388/839388_478x268.jpg" />
+    <country>D/I/F/PL/RUS/GB</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229053000 +0100" stop="20181229060000 +0100" channel="ARD alpha">
+    <title lang="de">Backstage Talks|Zündfunk Netzkongress 2018</title>
+    <category lang="de">Show</category>
+    <category lang="de">Gespräch</category>
+  </programme>
+  <programme start="20181229060000 +0100" stop="20181229063000 +0100" channel="ARD alpha">
+    <title lang="de">Bob Ross - The Joy of Painting</title>
+    <sub-title lang="de">Valley View</sub-title>
+    <desc lang="de">Valley View - "Jeder Mensch ein Künstler!" Dies berühmt-berüchtigte Motto von Joseph Beuys könnte auch von Bob Ross (1942-1995) stammen. Allein, der amerikanische Fernsehmaler hat - anders als Beuys - keine großen sozialen und politischen Revolutionen im Sinn. Bob Ross will "nur" die einzelnen Menschen glücklicher machen, und das heißt, zu potenten Malern, die ihre eigene Welt erschaffen. Er will uns zeigen: Ein kleiner Künstler steckt in jedem von uns, wir müssen ihn nur herauslassen. Und das geschieht, indem wir lernen, das Malen zu lernen und das Lernen dabei nicht als Mittel zum Zweck, sondern als Selbstzweck begreifen - Spaß dran finden. Bob Ross wurde 1942 in Daytona Beach, Florida, als Sohn eines Zimmermanns geboren. Er studierte an verschiedenen amerikanischen Colleges Malerei und entdeckte schließlich seine spezifische Malweise: die Nass-auf-Nass-Methode. Nachdem er diese Technik gründlich ausgebaut und etliche Hilfsmittel und Tricks erprobt hat, fing er an, auch anderen beizubringen, wie man damit schöne Landschaftsbilder kreieren kann. Er reiste seit 1981 quer durch die Vereinigten Staaten, um diese Technik vorzustellen. Zwei Jahre später produzierte er die ersten Malkurse im Fernsehen: "The Joy of Painting" wurde zu einem Riesenerfolg. Mit freundlich säuselnder Stimme macht Bob Ross seinen Zuschauern Mut, ihre eigene Kreativität zu entdecken. Schritt für Schritt macht er vor, wie sie ihre Leinwand im Nu mit "heiteren kleinen Wölkchen" oder "fröhlichen kleinen Bergen" und Hütten bereichern und so ihre eigene Welt schaffen können. Das kommt an, seit 1983 reißen die Ross-Serien gar nicht mehr ab. Sein Fernseh-Malkurs ist ein gigantisches Unternehmen, das Millionen von Ross-Schülern mit dem nötigen Malwerkzeug, Anleitungsbüchern und Videos ausstattet. Bob Ross starb 1995 mit gerade einmal 52 Jahren in New Smyrna Beach, Florida, an Krebs. Seine Fernsehshow aber lebt weiter. Inspiriert von Ross hat eine Freundin von ihm, Annette Kowalski, selbst eine Methode entwickelt, wie man Blumen malt(n)</desc>
+    <date>1983</date>
+    <category lang="de">Musik</category>
+    <category lang="de">Malkurs</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1051106/1051106_478x268.jpg" />
+    <country>USA</country>
+    <episode-num system="onscreen">S21 E261</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229063000 +0100" stop="20181229070000 +0100" channel="ARD alpha">
+    <title lang="de">Englisch für Anfänger - Übung</title>
+    <desc lang="de">In 51 Lektionen werden die wichtigsten Grammatikstrukturen und der Grundwortschatz vermittelt. Wann sagt man "some" oder "any"? Wann heißt es "he was" und wann "he has been"? Die Antworten auf diese und viele andere Fragen, die Sie im Englischunterricht nie zu stellen wagten, liefert "Englisch für Anfänger" in witzigen Spielszenen und fundierten Erklärteilen(n)</desc>
+    <category lang="de">Information</category>
+    <category lang="de">Sprachkurs Englisch</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/4798_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229070000 +0100" stop="20181229071500 +0100" channel="ARD alpha">
+    <title lang="de">Pauk mit: Latein</title>
+    <sub-title lang="de">Grundkurs III (12/13)</sub-title>
+    <date>1976</date>
+    <category lang="de">Information</category>
+    <category lang="de">Bildungsprogramm</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/84_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229071500 +0100" stop="20181229073000 +0100" channel="ARD alpha">
+    <title lang="de">Pauk mit: Latein</title>
+    <sub-title lang="de">Grundkurs III (13/13)</sub-title>
+    <date>1976</date>
+    <category lang="de">Information</category>
+    <category lang="de">Bildungsprogramm</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/84_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229073000 +0100" stop="20181229080000 +0100" channel="ARD alpha">
+    <title lang="de">Esquisses de France</title>
+    <sub-title lang="de">Dans le Mâconnais - sur les traces de Lamartine</sub-title>
+    <desc lang="de">Dans le Mâconnais - sur les traces de Lamartine - Die Sendereihe stellt zehn ausgewählte Regionen Frankreichs in ihrer geografischen, gesellschaftlichen und kulturellen Besonderheit vor: landschaftliche Attraktionen ebenso wie Wirtschaftszentren, Stätten der bildenden Kunst und Schauplätze der Literatur. Interviews mit Franzosen unterschiedlichster Lebensbereiche vermitteln ein authentisches Bild des heutigen Frankreich. Die zehn musisch akzentuierten Filme orientieren sich an der Form der Skizze, um damit zu eigenen Entdeckungen anzuregen(n)</desc>
+    <credits>
+      <presenter>Anouk Charlier</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="de">Information</category>
+    <category lang="de">kein Charakter</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229080000 +0100" stop="20181229081500 +0100" channel="ARD alpha">
+    <title lang="de">Tele-Gym</title>
+    <sub-title lang="de">Nordic Walking</sub-title>
+    <desc lang="de">Nordic Walking - In der heutigen Welt resultieren viele körperliche Probleme aus Bewegungsarmut. Es kann nicht verkehrt sein, den Kreislauf etwas in Schwung zu bringen. Dafür muss man nicht unbedingt in ein Fitness-Center gehen. Man kann das auch zu Hause machen. Anleitungen dazu bietet täglich "Tele-Gym". Professionelle Fitness-Trainer präsentieren ihre Programme, um das Publikum zum Mitmachen zu animieren(n)</desc>
+    <date>2005</date>
+    <category lang="de">Sport</category>
+    <category lang="de">Gymnastik</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/9911_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229081500 +0100" stop="20181229093000 +0100" channel="ARD alpha">
+    <title lang="de">Panoramabilder</title>
+    <desc lang="de">Schon seit vielen Jahren eröffnen die allseits beliebten Panoramabilder aus Bayern, Österreich und Südtirol, begleitet von den lokalen und regionalen Wettermeldungen, allmorgendlich einen atemberaubenden Blick auf die Schönheit von Gebirgswelten, Landschaften und Städten im stetigen Wechsel der Jahreszeiten(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Landschaftsbilder</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/663_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229093000 +0100" stop="20181229100000 +0100" channel="ARD alpha">
+    <title lang="de">selbstbestimmt! Die Reportage</title>
+    <sub-title lang="de">Einfach nur teilhaben</sub-title>
+    <desc lang="de">Einfach nur teilhaben - Artikel 3 des Grundgesetzes verkündet: "Niemand darf wegen seiner Behinderung benachteiligt werden." Doch wird diese abstrakte Norm tagtäglich umgesetzt - und wenn ja, wie? Die Sendung "selbstbestimmt!" geht dieser Frage nach, sei es in Arbeit und Beruf, in der Schule, an der Universität, beim Wohnen, beim Sport oder in der Kultur und Kunst. Selbstbestimmtes Leben, Selbstbestimmung über eigene Angelegenheiten im privaten und im gesellschaftlichen Bereich ist die berechtigte Grundforderung von Menschen mit Behinderung. Ein neues Gesetz, das die Teilhabe behinderter Menschen am Leben regelt, soll Ende 2016 verabschiedet werden - das Bundesteilhabegesetz. Hoch geht es her, seitdem es in den Ausschüssen diskutiert wird. Behinderte demonstrieren regelmäßig, ketten sich an, pfeifen, trommeln, verfassen Petitionen: Das Gesetz wäre so, wie es ist, nicht "ihr Gesetz". Ein individuelles Leben könnte noch schwerer werden, als es sowieso schon ist. Und: wo es möglich ist zu sparen, wird noch mehr gespart als bisher. Hinter all den Gesetzestexten verbergen sich einzelne Menschen, für die es gemacht werden soll. Kathrin Fickardt aus Heldrungen erlebt seit zwei Jahren, wie schwer es schon ohne neues Bundesteilhabegesetz ist, ein selbstbestimmtes Leben zu führen. Seit zwei Jahren kämpft sie darum, 24h-Assistenten bewilligt zu bekommen. Mancherorts ist das kein Problem - wie in den Großstädten Berlin oder Dresden - doch bei ihr in Heldrungen, im Kyffhäuserkreis, sieht das anders aus. Kathrins Mutter ist 83. Sie hat bisher die täglichen Notwendigkeiten übernommen. Und ein großer Freundeskreis stützt Kathrin unentgeltlich. So kann es nicht weiter gehen: Die Mutter wird schwächer, Kathrin droht eine Heimunterbringung. Kathrin will: Leben - trotz Rollstuhl, trotz Muskelschwunderkrankung. Sie will lachen, anderen etwas geben, dabei sein wie jeder andere Mensch auch - soweit es ihr mit Rollstuhl und schwindenden körperlichen Kräften möglich ist. Und sie hofft, wie viele in ihrer Situation, dass ein neues Gesetz Verbesserungen bringt statt Verschlechterungen(n)</desc>
+    <date>2010</date>
+    <category lang="de">Information</category>
+    <category lang="de">Gesellschaftsreportage</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/408_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229100000 +0100" stop="20181229103000 +0100" channel="ARD alpha">
+    <title lang="de">Sehen statt Hören - Ein Wochenmagazin für Hörgeschädigte</title>
+    <sub-title lang="de">Wochenmagazin für Hörgeschädigte</sub-title>
+    <desc lang="de">Wochenmagazin für Hörgeschädigte - Wochenmagazin, das sich speziell an gehörlose und schwerhörige Zuschauer wendet(n)</desc>
+    <credits>
+      <presenter>Best of: Kulturtage Potsdam</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Gesellschaftsmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/405_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229103000 +0100" stop="20181229110000 +0100" channel="ARD alpha">
+    <title lang="de">STATIONEN</title>
+    <sub-title lang="de">Wenn der Berg ruft - Von Skizirkus und Wintermärchen</sub-title>
+    <desc lang="de">Wenn der Berg ruft - Von Skizirkus und Wintermärchen - So unterschiedlich die Strategien - alle suchen nach angemessenen Zukunftsvisionen für den Tourismus und die Menschen, die mit und von ihren Bergen leben wollen. Die Tourismusbranche selbst setzt allerdings ganz offiziell in Bayern auch auf etwas ganz Anderes. Die Touristiker sind überzeugt: Bald wollen die Urlauber, sommers wie winters, vor allem eins: ganz viel Nichts. Stille. Meditation. Eine Auszeit in den Bergen(n)</desc>
+    <credits>
+      <presenter>Benedikt Schregle</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6706170/6706170_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229110000 +0100" stop="20181229113000 +0100" channel="ARD alpha">
+    <title lang="de">Gott und die Welt</title>
+    <sub-title lang="de">Endlich alt! - Jetzt mach ich, was ich will</sub-title>
+    <desc lang="de">Endlich alt! - Jetzt mach ich, was ich will - In dieser Sendung werden Menschen porträtiert, die trotz ihres fortgeschrittenen Alters jung geblieben sind. Zum Beispiel der 71-jährige Günther Anton Krabbenhöft, der als "Hipster-Opa" Furore macht, und am liebsten jedes Wochenende in Berlins Elektro-Clubs tanzt. Auch Greta Silver hat nochmals durchgestartet: Die 69-jährige Hamburgerin und mehrfache Großmutter ist eine Werbe-Ikone(n)</desc>
+    <date>2019</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5572132/5572132_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229113000 +0100" stop="20181229120000 +0100" channel="ARD alpha">
+    <title lang="de">Orientierung</title>
+    <sub-title lang="de">Das Religionsmagazin des ORF</sub-title>
+    <desc lang="de">Das Religionsmagazin des ORF - Berichte über Österreichs aktive Religionsgemeinschaften, österreichische Sozial- und Kirchenpolitik, religiöse Tendenzen und Ereignisse in Europa bilden den Schwerpunkt der Sendung(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Religionsmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1030_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229120000 +0100" stop="20181229123000 +0100" channel="ARD alpha">
+    <title lang="de">Michael Martin - Planet Wüste</title>
+    <sub-title lang="de">Wüstenabenteuer im südlichen Afrika: Namib / Kalahari</sub-title>
+    <desc lang="de">Wüstenabenteuer im südlichen Afrika: Namib / Kalahari - Die Erde ist ein Wüstenplanet. Nahezu die Hälfte der Landoberfläche wird von heißen und kalten Wüsten eingenommen. Ihre grandiosen Landschaften und die extremen Klimaverhältnisse wie Hitze und Trockenheit, Kälte und Dunkelheit machen die Faszination dieser Extremzonen aus. Über fünf Jahre war der Fotograf und Autor Michael Martin mit verschiedenen Teams weltweit unterwegs, um die Landschaften und Lebensräume der Wüsten und Polarregionen unserer Erde zu erkunden. Er erlebte Hitze und Trockenheit, klirrende Kälte und monatelange Dunkelheit. Auf insgesamt 40 für dieses Projekt in den Jahren 2010 bis 2015 durchgeführten Reisen und Expeditionen durchquerte er Eis- und Trockenwüsten - mit dem Motorrad, mit Hundeschlitten, auf Kamelen, mit dem Helikopter oder auf Skiern. Michael Martin, geboren 1963 in München, ist Fotograf und Diplom-Geograf. Seit über 30 Jahren berichtet er über seine Reisen in die Wüsten der Erde und wurde zum weltweit renommiertesten Wüstenfotografen. Er veröffentlichte 30 Bildbände und Bücher, die in sieben Sprachen übersetzt wurden, hielt fast 2000 Vorträge und produzierte mehrere Fernsehfilme. Seine Werke wurden mit zahlreichen Preisen ausgezeichnet, unter anderem mit einem Ehrenpreis der Royal Geographic Society in London. Zuletzt erhielt er den Gregor International Calendar Award und den ITB Book Award für sein Lebenswerk(n)</desc>
+    <date>2015</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/218_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229123000 +0100" stop="20181229130000 +0100" channel="ARD alpha">
+    <title lang="de">Michael Martin - Planet Wüste</title>
+    <sub-title lang="de">Wüstenabenteuer in Australien: Simpson / Lake Eyre</sub-title>
+    <desc lang="de">Wüstenabenteuer in Australien: Simpson / Lake Eyre - Die Erde ist ein Wüstenplanet. Nahezu die Hälfte der Landoberfläche wird von heißen und kalten Wüsten eingenommen. Ihre grandiosen Landschaften und die extremen Klimaverhältnisse wie Hitze und Trockenheit, Kälte und Dunkelheit machen die Faszination dieser Extremzonen aus. Über fünf Jahre war der Fotograf und Autor Michael Martin mit verschiedenen Teams weltweit unterwegs, um die Landschaften und Lebensräume der Wüsten und Polarregionen unserer Erde zu erkunden. Er erlebte Hitze und Trockenheit, klirrende Kälte und monatelange Dunkelheit. Auf insgesamt 40 für dieses Projekt in den Jahren 2010 bis 2015 durchgeführten Reisen und Expeditionen durchquerte er Eis- und Trockenwüsten - mit dem Motorrad, mit Hundeschlitten, auf Kamelen, mit dem Helikopter oder auf Skiern. Michael Martin, geboren 1963 in München, ist Fotograf und Diplom-Geograf. Seit über 30 Jahren berichtet er über seine Reisen in die Wüsten der Erde und wurde zum weltweit renommiertesten Wüstenfotografen. Er veröffentlichte 30 Bildbände und Bücher, die in sieben Sprachen übersetzt wurden, hielt fast 2000 Vorträge und produzierte mehrere Fernsehfilme. Seine Werke wurden mit zahlreichen Preisen ausgezeichnet, unter anderem mit einem Ehrenpreis der Royal Geographic Society in London. Zuletzt erhielt er den Gregor International Calendar Award und den ITB Book Award für sein Lebenswerk(n)</desc>
+    <date>2015</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/218_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229130000 +0100" stop="20181229133000 +0100" channel="ARD alpha">
+    <title lang="de">Campus Magazin - Extra</title>
+    <sub-title lang="de">Auf den Spuren des Glaubens</sub-title>
+    <desc lang="de">Auf den Spuren des Glaubens - Auf den Spuren Luthers in Rom - Studenten wagen ein ökumenisches Experiment Was trennt und was eint die christlichen Religionen? Das erleben katholische und evangelische Studenten bei einer gemeinsamen Exkursion nach Rom - auf den Spuren Luthers. Campus Magazin begleitet sie bei ihrer Spurensuche nach den Wurzeln des Glaubens und der eigenen christlichen Werte in der Stadt, die einst auch Martin Luther bereist hat. Die ökumenische Reise steht unter dem Motto "Transformationen des Glaubens in Geschichte, Kunst und Theologie in der Ewigen Stadt". Eine Reportage über die Suche nach Gott, 500 Jahre nach der Reformation. 3 Uhr morgens, eine Gruppe Studierender der katholischen Universität Eichstätt fährt los zum Flughafen. Anna, Christopher und ihre Kommilitonen werden am Mittag schon in Rom sein, während die Gruppe der "Nürnberger Protestanten" noch auf den Flieger in München wartet. Magdalena und Verena von der evangelischen Hochschule Nürnberg freuen sich auf das Zusammentreffen mit den katholischen Religionspädagogik-Studenten aus Eichstätt am Abend des Anreisetags. Magdalena ist gespannt darauf, was diese Begegnung über die Woche in Rom bringen wird. Denn mit katholischen Religionspädagogik-Studenten hatte sie bislang in ihrem Hochschul-Umfeld keinerlei Berührung. Dasselbe gilt umgekehrt auch für Anna. In rein katholischen Milieus aufgewachsen, war sie bis vor kurzem noch Schwester in einer katholischen Glaubensgemeinschaft. Beide studieren Religionspädagogik, wie fast alle in den beiden Studenten-Gruppen, und sie waren nur selten in der Situation, sich gegenüber Christen der anderen Konfession "erklären zu müssen". Oder auch: Eigenheiten des eigenen Glaubens den "anderen" zu vermitteln. Aber genau darum geht es in dieser Woche: ins Gespräch kommen über den eigenen Glauben und die Suche nach Gott, egal ob bei den Fahrten im Bus, beim Gang durch die quirlige Millionenstadt, der Papstmesse oder dem Besuch der evangelischen Waldenser-Uni in Rom. Ein spannendes Experiment: Wächst die Gruppe zusammen, entwickelt sich dann auch mehr Verständnis für die Glaubensform der jeweils anderen Konfession? Nicht nur Anna und Magdalena sind überrascht, wie sich das Verhältnis der katholischen und protestantischen Studierenden in dieser Woche entwickelt. Erstaunlich, was dieses "ökumenische Experiment" in der Kulisse der ewigen Stadt zutage fördert. An Fragezeichen aber auch an Klarheit für die eigene Position - 500 Jahre nach Luther und der Reformation(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229133000 +0100" stop="20181229140000 +0100" channel="ARD alpha">
+    <title lang="de">Campus Magazin</title>
+    <sub-title lang="de">Abenteuer Heiliges Land - Studieren und arbeiten in Israel</sub-title>
+    <desc lang="de">Abenteuer Heiliges Land - Studieren und arbeiten in Israel - * Auf jüdischen Spuren in München Sabine Pusch trifft den jüdischen Studenten Richard Volkmann. Er promoviert derzeit an der Uni München am Lehrstuhl für Jüdische Geschichte und Kultur über die Auswirkungen der 1848er Revolution auf das Judentum in Deutschland. Richard hat aber auch einen anderen Job: Er ist Mitarbeiter der Janusz Korzcak Akademie in München, eine jüdische Bildungseinrichtung, die junge Leute in einen interkulturellen Dialog bringen will, bevor Vorurteile aus Unwissenheit entstehen. Eines der Projekte ist "Rent a Jew": Ehrenamtliche gehen in Schulen und Gemeinden und klären über das Judentum auf. In Campus Magazin zeigt Richard Volkmann Sabine Pusch jüdisches Leben in München, eine spannende Reise durch Vergangenheit und Gegenwart. * Schwere Vergangenheit, hoffnungsvolle Zukunft: Jüdische Studien in Israel und Deutschland Der jüdische Doktorand Neri Ariel, Enkel einer Überlebenden des Holocaust, ist in Jerusalem aufgewachsen. Seine Eltern erziehen ihn orthodox, er soll Rabbiner werden. Zunächst studierte er an einer jüdischen Hochschule, einer Jeschiwa, wo die Heiligen Schriften des Judentums, die Tora und der Talmud, intensiv gelehrt werden. An der Hebrew University in Jerusalem begann er Judaistik und Arabistik zu studieren. Bald folgten Auslandssemester in Deutschland. Heute ist er Doktorand an der Universität Leipzig und lehrt bereits: Seine Vision ist es, Jüdische Studien in Deutschland neu zu beleben und das Wissen aus der Jeschiwa mit wissenschaftlichen Studien zu kombinieren. Doch die aktuellen Ausschreitungen gegen Juden erschrecken Neri und seine Familie in Israel. Trotzdem hat Neri die Hoffnung auf Versöhnung zwischen Israelis und Palästinensern nicht aufgegeben: In Leipzig hat er seinen ersten arabischen Freund kennengelernt. Campus Magazin begleitet Neri in seiner Heimatstadt Jerusalem an die Hebrew University, zu seinem Großvater und zur weltweit größten Holocaustgedenkstätte "Yad Vashem", in der auch die Ermordung seiner Familie dokumentiert ist. * Ein Jahr in Jerusalem: Bibelstudium im Kloster In Jerusalem treffen Judentum, Christentum und Islam aufeinander. Diese Stadt hat sich Julian Lezuo als Studienort ausgewählt. An der Dormition Abbey der Benediktiner taucht er über acht Monate intensiv in die Welt der Bibel ein. Julian möchte evangelischer Pfarrer werden und hat sich für ein DAAD-Stipendium hier beworben. Das Programm gibt es seit gut 40 Jahren und eröffnet Theologie-Studierenden aller Konfessionen die Möglichkeit, ein Jahr in Jerusalem zu verbringen. Sie sollen Offenheit für den ökumenischen, interreligiösen und interkulturellen Dialog in intensiven Blockseminaren mit Dozenten und Experten aus Israel und Europa lernen. Campus Magazin begleitet Julian in seinem Studien-Alltag in der Benediktiner-Abtei. * Orientierung im Ausland: Work &amp; Travel Israel Work &amp; Travel ist eine beliebte Möglichkeit, die Welt kennenzulernen. Lissy Kleer und Jonathan Böhm sind für ein Jahr nach Jerusalem gegangen. Dort arbeiteten die Mannheimerin und der Mainzer in der evangelischen Erlöserkirche: Sie sind "Mädchen für Alles" und erledigen Handwerksarbeiten, erstellen die Facebook-Seite oder bereiten die Gottesdienste vor. Lissy und Jonathan hatten zunächst Bedenken wegen der Sicherheitslage, aber am Ende siegte die Faszination, Israel kennenzulernen. Campus Magazin begleitet die beiden bei ihrer täglichen Arbeit und bei einer ihrer vielen Erkundungsreisen nach Hebron. Nach ihrem Aufenthalt in Jerusalem wollen die beiden Volontäre zurück nach Deutschland - Jonathan studiert dann Theologie und Lissy Völkerkunde. Doch für beide ist bereits klar: Sie wollen ins Heilige Land zurückkehren(n)</desc>
+    <credits>
+      <presenter>Sabine Pusch</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229140000 +0100" stop="20181229143000 +0100" channel="ARD alpha">
+    <title lang="de">Ein Tag beim Ballett</title>
+    <sub-title lang="de">Mit den Füßen fängt es an - Ein Tag im Ballett der Bayerischen Staatsoper</sub-title>
+    <desc lang="de">Mit den Füßen fängt es an - Ein Tag im Ballett der Bayerischen Staatsoper - "Immer wird früh am Morgen das Training der Großen anfangen und das der Kleinen wird folgen. Immer werden dann dünne Beine zu laufen beginnen im Takt des ängstlichen Refrains Ich komm zu spät, ich komm zu spät!'" Gezeigt wird in diesem Film aus dem Jahr 1955, wie ein Tag in den Trainingsräumen des Balletts der Bayerischen Staatsoper ablief. Das gesamte Gelände war damals noch nicht wieder restauriert, sondern zeigte noch unverhüllt die Bombenschäden aus dem Zweiten Weltkrieg. Zuerst also trainieren die Großen, d.h. die Erwachsenen: die Solisten wie Annette Chappell, Inge Bertl, Heino Hallhuber und Paul Wünsch, die Vortänzerinnen, die man Koryphäen nennt, und die Elevinnen. Man erfährt, dass man Ballettschuhe nassmachen muss, damit sie gut sitzen. Am Nachmittag - man sieht zunächst ein kleines Mädchen mit Stoffbeutel die Maximilianstraße entlang laufen - kommen dann die Kleinen, die 7-, 8- bis ungefähr 12-jährigen Mädchen und Jungen. Auch sie stehen an der Stange und machen zur Klavierbegleitung ihre Übungen. Dann aber Aufregung, der Ballettmeister kommt und stellt ein neues Ballett vor: "Taubenflug". Dafür sucht er auch kleine Tauben, also Mädchen von ungefähr zehn, zwölf Jahren. Diejenigen, die dafür ausgewählt werden, jubilieren: Selbst auf der Bühne stehen dürfen und tanzen! Die anderen Mädchen aber, diejenigen die nicht ausgewählt wurden, sind traurig. Nun beginnen neben dem Training auch die Proben zu diesem Ballett Aus der im Film erwähnten "kleinen" Renate Deppisch wurde später tatsächlich eine Prima Ballerina, u. a. in Kaiserslautern. Mit Namen erwähnt werden bei den Mädchen: Renate Bauer, Anita, Renate Deppisch, Monika, Gerlinde, Corry (vermut. Corinne), Angelika, Syliva und eine "Bica"(n)</desc>
+    <date>1958</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/218_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229143000 +0100" stop="20181229150000 +0100" channel="ARD alpha">
+    <title lang="de">alpha-retro: Der weiße Weg</title>
+    <sub-title lang="de">Auf der Hohen Route von Chamonix nach Saas Fee</sub-title>
+    <desc lang="de">Der weiße Weg: Auf der Hohen Route von Chamonix nach Saas Fee(n)</desc>
+    <date>1963</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229150000 +0100" stop="20181229152500 +0100" channel="ARD alpha">
+    <title lang="de">dasbloghaus.tv</title>
+    <sub-title lang="de">Verbotene Liebe?</sub-title>
+    <desc lang="de">Verbotene Liebe? - Endlich haben Sofie und Manu zusammengefunden. Ihre Liebe ist noch so frisch, dass sie noch nicht einmal ihren Eltern davon erzählt haben. Zwischen Manus Vater und Sofies Mutter bahnt sich auch gerade eine Beziehung an. Eine Bemerkung über die "alte Liebe" zwischen den beiden sowie Fotos aus Sofies Geburtsjahr bringen Sofie auf eine fatale Idee: Könnte Franz Wagenfeld ihr Vater sein, und ist sie etwa in ihren Halbbruder verliebt? Offenbar hat ihre Mutter sie jahrelang belogen mit der Story vom One-Night-Stand mit einem Unbekannten! Verstört verkriecht sich Sofie bei ihrer Freundin Leonie und ihrem Vater. Sofie schafft es schließlich, Manu von ihrem schrecklichen Verdacht zu erzählen. Beide sind verzweifelt. Als Sofies Mutter davon erfährt, beschließt sie, endlich die Wahrheit zu sagen. Es ist Leonies Vater Gerry, und auch der ist überrascht, denn er wusste auch nichts von seinem weiteren Vaterglück. Sofie und Leonie freuen sich, dass sie Halb-Geschwister sind. Und Sofie und Manu freuen sich noch mehr, dass sie es nicht sind. Die "Coming-of-Age"-Serie "dasbloghaus.tv" erzählt die Geschichte einer Clique von Jugendlichen im Alter zwischen 15 und 18 Jahren am sommerlichen Bodensee. Sie haben ihren eigenen Blog online, leben wie selbstverständlich im Internetzeitalter und sind auch sonst typische Teens der heutigen Zeit. Ihr Treffpunkt und Zufluchtsort ist ein Badehaus direkt am See - das "Bloghaus" eben. Hier pflegen sie den Blog ein, machen Musik und verbringen ihre Zeit(n)</desc>
+    <credits>
+      <director>Frank Gotthardy</director>
+      <actor>Carla Schwaderer</actor>
+      <actor>Robert Herrmanns</actor>
+      <actor>Linda Schneider</actor>
+      <actor>Kathrin Annika Meier</actor>
+      <actor>Marian Hawlik</actor>
+      <writer>Anna Knigge</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="de">Serie</category>
+    <category lang="de">Jugendserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1140077/1140077_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229152500 +0100" stop="20181229155000 +0100" channel="ARD alpha">
+    <title lang="de">dasbloghaus.tv</title>
+    <sub-title lang="de">Die große Reise</sub-title>
+    <desc lang="de">Die große Reise - Die Clique plant einen gemeinsamen Urlaub quer durch Europa. Doch Sofie, die gerade erst mit Manu zusammengekommen ist, hat nur noch ihn im Kopf. Die Reise scheint plötzlich nicht mehr so wichtig für sie. Darüber vergisst Sofie sogar beinahe die Abschiedsparty für Alex, der zurück nach Moskau geht. Rolli ist verärgert, dass seine Eltern ihn nicht mit der Clique fahren lassen wollen. Er packt kurzerhand seinen Rucksack und haut ab(n)</desc>
+    <credits>
+      <director>Frank Gotthardy</director>
+      <actor>Carla Schwaderer</actor>
+      <actor>Robert Herrmanns</actor>
+      <actor>Linda Schneider</actor>
+      <actor>Kathrin Annika Meier</actor>
+      <actor>Marian Hawlik</actor>
+      <writer>Kerstin Höckel</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="de">Serie</category>
+    <category lang="de">Jugendserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1140088/1140088_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229155000 +0100" stop="20181229155500 +0100" channel="ARD alpha">
+    <title lang="de">Koch-Charts</title>
+    <sub-title lang="de">Shakes &amp; Drinks - Weihnachten</sub-title>
+    <date>2002</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229155500 +0100" stop="20181229160000 +0100" channel="ARD alpha">
+    <title lang="de">Reporter Gang</title>
+    <sub-title lang="de">Unter Krokodilen</sub-title>
+    <date>2003</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reportagereihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229160000 +0100" stop="20181229170000 +0100" channel="ARD alpha">
+    <title lang="de">Visite</title>
+    <sub-title lang="de">Das Gesundheitsmagazin</sub-title>
+    <credits>
+      <presenter>Vera Cordes</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Gesundheitsmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6072002/6072002_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229170000 +0100" stop="20181229174500 +0100" channel="ARD alpha">
+    <title lang="de">treffpunkt medizin</title>
+    <sub-title lang="de">Lebenselixier Licht - wie Farben unseren Körper steuern</sub-title>
+    <desc lang="de">Lebenselixier Licht - wie Farben unseren Körper steuern - Seit es Lebewesen gibt, haben sich diese gemeinsam mit dem Licht der Sonne entwickelt. Energielieferant, Taktgeber und physikalische Faszination der Neuzeit- alles das ist das Licht zugleich. Licht ist aber nicht gleich Licht - unterschiedliche Spektralzusammensetzung, Intensität und Lichtgeometrien haben unterschiedliche Auswirkungen bei Mensch, Tier und Pflanzen. Licht liefert uns Energie und kann sogar heilende Wirkung haben. Im schlimmsten Fall allerdings kann das falsche Licht zum falschen Zeitpunkt sogar regelrecht krank machen - diese Tatsache ist Gegenstand intensiver wissenschaftlicher Forschungen geworden: So konnte in der Chronobiologie gezeigt werden, dass der Mensch eine innere Uhr, einen Taktgeber, besitzt, der sich nach dem Licht der Sonne richtet und unsere Körperfunktionen in einem 24-Stunden-Rhythmus steuert. Durch die Verwendung von modernen Leuchtmitteln wie LEDs mit ihren der Sonne ähnlichen Spektralzusammensetzungen lässt sich dieser Taktgeber allerdings leicht verwirren. Diese Manipulationen unseres Biorhythmus werden zunehmend mit chronischen Erkrankungen in Verbindung gebracht, man denke nur an die Herbst-Winter-Depression. treffpunkt medizin erforscht die Auswirkungen des Lichts auf unsere Gesundheit Experten aus Medizin &amp; Naturwissenschaften. Bis ins 20. Jahrhundert hinein hat die Erforschung des Lichts, dieses mysteriösen Stoffes, einige der großartigsten Physiker ihrer Zeit beschäftigt. So sind die physikalischen Grundlagen heute weitgehend bekannt, der medizinische Aspekt des Lichtes, in seiner Wirkung auf Lebewesen, wird allerdings erst seit wenigen Jahrzehnten beforscht. Auf der anderen Seite können bestimmte Krankheiten durch gezielten Einsatz von Licht behandelt werden - Krankheiten etwa, die ihrerseits durch Lichtmangel ausgelöst werden, wie die Herbst-Winter-Depression. treffpunkt medizin erforscht die Auswirkungen des Lichts auf unsere Gesundheit mit folgenden Experten: Univ. Prof. Dr. Eva Schernhammer: Epidemiologin, beschäftigt sich mit dem zirkadianen Rhythmus des Menschen im Bezug auf Licht, die Auswirkungen von Langzeit-Schichtarbeit und der Einfluss verschiedener Lichtqualitäten auf chronische Erkrankungen, Univ. Prof. Dr. Karl Fischer: Universität für Angewandte Kunst, auch Veranstalter des Symposiums "Licht und Gesundheit", Univ. Prof. Dr. Edda Winkler-Prjek: AKH Wien, Leiterin der Ambulanz für Herbstdepressionen wo die Lichttherapie routinemäßig eingesetzt wird, Dr. Werner Gruber:Physiker &amp; Entertainer, erklärt die physikalischen Grundlagen des Lichts, Univ. Prof. Dr. Richard Funk: technische Universität Dresden, Experte für "Menschengemäßes Licht" und die Blaulicht-Gefahr,Univ. Prof. Dr. Wolfgang Marktl: Chronobiologe und Gesamtheitsmediziner, Experte für Licht- und Zeitrhythmen des Menschen, Univ. Prof. Dr. Alexander Wunsch: Universität Wismar, forscht an den Auswirkungen natürlicher und künstlicher optischer Strahlung auf Mensch und Umwelt, Öffentlicher Referent für Fragen der Lichtinfrastruktur(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>A</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229174500 +0100" stop="20181229183000 +0100" channel="ARD alpha">
+    <title lang="de">Hauptsache Gesund</title>
+    <desc lang="de">Die neuesten wissenschaftlichen Erkenntnisse, das umfangreiche Wissen von Experten und viele Tipps zur Selbsthilfe bei gesundheitlichen Beschwerden stehen im Mittelpunkt des Magazins(n)</desc>
+    <credits>
+      <presenter>Carsten Lekutat</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Gesundheitsmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5940658/5940658_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229183000 +0100" stop="20181229191500 +0100" channel="ARD alpha">
+    <title lang="de">Die Regensburger Domspatzen im Heiligen Land</title>
+    <sub-title lang="de">Vom See Genezareth bis zum Toten Meer</sub-title>
+    <desc lang="de">Vom See Genezareth bis zum Toten Meer - Der weltbekannte Knabenchor ist in seiner gut tausendjährigen Geschichte weit gereist. Aber erstmals waren die Regensburger Domspatzen nun auf Pilger- und Konzertreise im Heiligen Land. Eine Woche ist der Chor mit 87 Sängern im Alter von 11 bis 18 Jahren durch Israel und die palästinensischen Gebiete gefahren. Begleitet vom Regensburger Bischof Rudolf Voderholzer und 150 Pilgern aus der Diözese. Eine ganz besondere Reise, wie Domkapellmeister Roland Büchner betont. Neben den Besuchen biblischer Stätten und Kirchen spielten vor allem auch Begegnungen eine wichtige Rolle. Viele der Gesänge der Domspatzen thematisieren Geschehnisse aus der Bibel. Erstmals konnten sie diese nun an Originalschauplätzen anstimmen. Besonders bewegend war es, als die Domspatzen nach dem Besuch der Holocaust-Gedenkstätte Yad Vashem Psalm 51 sangen - den Psalm mit der Bitte um Vergebung(n)</desc>
+    <credits>
+      <director>Susanne Glass</director>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Musikdoku</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7232763/7232763_478x268.jpg" />
+    <country>IL/D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229191500 +0100" stop="20181229193000 +0100" channel="ARD alpha">
+    <title lang="de">Schätze der Welt - Erbe der Menschheit</title>
+    <sub-title lang="de">Das Mausoleum von Hodscha Ahmed Yasawi, Kasachstan Pilgerfahrt nach Turkestan</sub-title>
+    <desc lang="de">Das Mausoleum von Hodscha Ahmed Yasawi, Kasachstan Pilgerfahrt nach Turkestan - Am Rand der Steppe Kasachstans steht eine prächtige Grabmoschee. Hier liegt Hodscha Ahmed Yasawi begraben, ein asketischer Poet, Mystiker und Religionsstifter. Er ist den Kasachen heilig. Ahmed Yasawi brachte den nomadischen Steppenvölkern den Islam nahe. In einer Stadt an der einstigen Seidenstraße, dem heutigen Turkestan, hat er gelebt und gelehrt, 1146 starb er. Weltenherrscher Timur hat ihm im 14. Jahrhundert ein Mausoleum bauen lassen. Das Mausoleum hat die Bezeichnung "monumental" wahrlich verdient. In 40 Metern Höhe thront die mächtige blaue Kuppel. Reitern wies sie noch aus 40 Kilometern Entfernung den Weg. Timur, der damals ganz Zentralasien und die halbe Welt beherrschte, liebte die Macht und die Baukunst. Am Mausoleum des Volksheiligen erprobte er Bautechnik und Dekorkunst, jenen blauen Glanz der Kuppeln, der später in seiner Hauptstadt Samarkand erstrahlen sollte. Ahmed Yasawi ist als "Heiliger des einfaches Volkes" bis heute hoch verehrt. Er gilt als Urvater des Sufismus, jener Richtung des Islam, die in Mittelasien bis heute vorherrscht. Turkestan ist der wichtigste Pilgerort der Region, von weit her kommen die Menschen. Nach den 70 "gottlosen Jahren" der Sowjetzeit suchen die Kasachen am Grab des Heiligen Besinnung und kasachische Identität. Der Film begleitet eine kasachische Hirtenfamilie aus der Steppe bei einer Pilgerfahrt nach Turkestan(n)</desc>
+    <credits>
+      <director>Bernd Girrbach</director>
+    </credits>
+    <date>2005</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/4598_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E309</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229193000 +0100" stop="20181229200000 +0100" channel="ARD alpha">
+    <title lang="de">Backstage Talks|Zündfunk Netzkongress 2018</title>
+    <category lang="de">Show</category>
+    <category lang="de">Gespräch</category>
+  </programme>
+  <programme start="20181229200000 +0100" stop="20181229201500 +0100" channel="ARD alpha">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Die Tagesschau ist eine Institution in der deutschen Fernsehlandschaft. Seit 1952 wird kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben und distanziert sich vom Trend in Richtung Boulevard-News. Mit mehr als 9 Millionen Zuschauern ist es Deutschlands beliebteste Nachrichtensendung(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229201500 +0100" stop="20181229213000 +0100" channel="ARD alpha">
+    <title lang="de">Elvis: '68 Comeback Special</title>
+    <desc lang="de">Nach einer langen Pause, in der er sich seiner Filmkarriere gewidmet hatte, spielte Elvis Presley erstmals 1968 wieder live auf der Bühne und begeisterte seine Fans aufs Neue. Das als "Comeback Special" bekannt gewordene Konzert löste erneut eine Elvis-Euphorie aus. Mit dem 1968 ausgestrahlten NBC Elvis Comeback Special zeigte sich der King in Höchstform, bewies wie sehr er die hohe Kunst des Entertainments beherrschte und festigte zudem sicherlich auch ein Stück weit den Fortlauf seiner Karriere. Zum 50.Jubiläum dieses Mega-Ereignisses zeigt das BR-Fernsehen dieses Konzert inklusive einer neu produzierten Einführung und Studiotour von Original-Regisseur und Produzenten des Specials, Steve Binder. Das BR-Fernsehen zeigt den Dokumentarfilm zum Geburtstag des "Kings". Am achten Januar wäre Elvis Presley 84 Jahre alt geworden(n)</desc>
+    <credits>
+      <director>Steve Binder</director>
+      <actor>Elvis Presley</actor>
+      <writer>Chris Bearde</writer>
+    </credits>
+    <date>1968</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6857979/6857979_478x268.jpg" />
+    <country>USA</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229213000 +0100" stop="20181229221500 +0100" channel="ARD alpha">
+    <title lang="de">alpha-retro: Ein Münchner in New York</title>
+    <sub-title lang="de">Dem Fischer Wolfgang wird's zu eng</sub-title>
+    <desc lang="de">Dem Fischer Wolfgang wird's zu eng - Dem Fischer Wolfgang wird's zu eng, deshalb macht er sich auf nach Tennessee. Der Wolfi verteilt bayerische Freundschaftsorden, präsentiert das einzige Ziegelsteinmuseum der Welt und geht mit der ältesten Fluglehrerin in die Luft. Er findet ein bayerisches Hofbräuhaus mitten in den Bergen, besucht das Wohnstüberl von King Elvis und fährt zu guter Letzt auch noch seinen Bus zu Schrott(n)</desc>
+    <date>1988</date>
+    <category lang="de">Information</category>
+    <category lang="de">kein Charakter</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229221500 +0100" stop="20181229230000 +0100" channel="ARD alpha">
+    <title lang="de">Der Traum von der Neuen Welt</title>
+    <sub-title lang="de">Menschen im Aufbruch</sub-title>
+    <desc lang="de">Menschen im Aufbruch - Zwischen 1840 und 1939 verließen rund 55 Millionen Europäer ihre Heimat und wagten einen neuen Anfang in Nord- oder Südamerika. In dieser Folge wird auf die Ursachen für die große Auswanderung eingegangen. Zu Wort kommen die Emigranten selbst: Zwanzig Männer und Frauen schildern in der Dokumentationsreihe in ihren Briefen, Tagebüchern und Memoiren ihre Erlebnisse in der "Neuen Welt"(n)</desc>
+    <credits>
+      <director>Kai Christiansen</director>
+      <writer>Kai Christiansen</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229230000 +0100" stop="20181229234500 +0100" channel="ARD alpha">
+    <title lang="de">Der Traum von der neuen Welt</title>
+    <sub-title lang="de">Im Rausch der Geschwindigkeit</sub-title>
+    <desc lang="de">Im Rausch der Geschwindigkeit - 55 Millionen Europäer verließen zwischen 1840 und 1939 ihre Heimat und wagten den Aufbruch und die Reise in die "Neue Welt". Existenzielle Not trieb die meisten, viele aber auch Neugier, Wagemut und Lebensgier. Alle diese Männer, Frauen und Kinder leisteten auf ihre persönliche Weise einen Beitrag zum ungeheuren Aufschwung der Vereinigten Staaten von Amerika - auf lange Sicht. Die aufwendige vierteiligen Serie erzählt die größte Wanderungsbewegung in der Geschichte, im Zuge derer Millionen Europäer der Alten Welt den Rücken kehrten, um in der Neuen Welt ihr Glück zu suchen. Zu Wort kommen die Auswanderer selbst, die in Briefen, Tagebüchern und Memoiren ihre Motive und ihr Erlebnisse hinterlassen haben. Doch auch Kapitäne und Erfinder, die die Atlantiküberquerung möglich machten, erhalten ebenso eine Stimme wie die Reeder, für die das Geschäft mit den Auswanderern zur Goldgrube wurde, investigative Journalisten, die inkognito reisen und die Zustände anprangerten, sowie ein Dolmetscher, der in Ellis Island - der "Insel der Tränen" bei New York - das Schicksal von Hunderten Menschen miterlebte. Mitte des 19. Jahrhunderts wurde die Auswanderung nach Amerika zu einem Massenphänomen. Herkömmliche Segelschiffe, die über eine geringe Ladekapazität verfügten und wochenlang auf See waren, konnten mit dem rasant gestiegenen Passagieraufkommen nicht Schritt halten. Der Einsatz von Dampfmaschinen an Bord war nur eine von vielen revolutionären Innovationen der damaligen Zeit. Als ebenso entscheidend erwies sich die Schiffsschraube als Alternative zu den schwerfälligen und schlecht zu navigierenden Schaufelrädern der ersten Dampfschiffe. Immer schnellerer und größerer Schiffe wurden gebaut. Eine Entwicklung, die bei vielen Menschen große Begeisterung hervorrief, die aber auch von mehreren Katastrophen geprägt wurde. Schon lange vor dem berühmten Untergang der "Titanic" 1912(n)</desc>
+    <date>2016</date>
+    <category lang="de">Information</category>
+    <category lang="de">Dokureihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/219_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229234500 +0100" stop="20181230003500 +0100" channel="ARD alpha">
+    <title lang="de">UFO</title>
+    <sub-title lang="de">Flight Path</sub-title>
+    <credits>
+      <director>Ken Turner</director>
+      <actor>Keith Grenville</actor>
+      <actor>George Cole</actor>
+      <actor>Gabrielle Drake</actor>
+      <actor>Sonia Fox</actor>
+      <actor>Maxwell Shaw</actor>
+      <writer>Ian Scott Stewart</writer>
+    </credits>
+    <date>1970</date>
+    <category lang="de">Serie</category>
+    <category lang="de">SciFi-Serie</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/6093_478x268.jpg" />
+    <country>GB</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230003500 +0100" stop="20181230005000 +0100" channel="ARD alpha">
+    <title lang="de">Die Tagesschau vor 20 Jahren</title>
+    <desc lang="de">Mit der Tagesschau vor 20 Jahren hat ARD-alpha eine "Daily", die in Fan-Kreisen längst Kultstatus besitzt. Täglich kann man 20 Jahre zurückblicken und die jüngste Zeitgeschichte noch einmal hautnah nachempfinden. Durch den Vergleich mit der aktuellen Tagesschau begibt sich der Zuseher gleichsam auf eine Zeitreise. Dies gilt einerseits für die behandelte Materie, andererseits aber auch für die mediale Aufbereitung des Nachrichten-Genres selbst. Besondere Ereignisse, die von Nachrichtensprecher-Legenden wie Karl-Heinz Köpcke oder Dagmar Berghoff präsentiert wurden, waren unter anderem das dramatische Terrorjahr 1977, die Wahlen von Papst Johannes Paul II. und US-Präsident Ronald Reagan oder die "Bonner Wende", die Ablösung der Bundesregierung von Kanzler Schmidt durch den späteren "Kanzler der Einheit" Helmut Kohl(n)</desc>
+    <date>1998</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichtenrückblick</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/3073144/3073144_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230005000 +0100" stop="20181230011500 +0100" channel="ARD alpha">
+    <title lang="de">Bob Ross - The Joy of Painting</title>
+    <sub-title lang="de">Countryside Barn</sub-title>
+    <desc lang="de">Countryside Barn - "Jeder Mensch ein Künstler!" Dies berühmt-berüchtigte Motto von Joseph Beuys könnte auch von Bob Ross (1942-1995) stammen. Allein, der amerikanische Fernsehmaler hat - anders als Beuys - keine großen sozialen und politischen Revolutionen im Sinn. Bob Ross will "nur" die einzelnen Menschen glücklicher machen, und das heißt, zu potenten Malern, die ihre eigene Welt erschaffen. Er will uns zeigen: Ein kleiner Künstler steckt in jedem von uns, wir müssen ihn nur herauslassen. Und das geschieht, indem wir lernen, das Malen zu lernen und das Lernen dabei nicht als Mittel zum Zweck, sondern als Selbstzweck begreifen - Spaß dran finden. Bob Ross wurde 1942 in Daytona Beach, Florida, als Sohn eines Zimmermanns geboren. Er studierte an verschiedenen amerikanischen Colleges Malerei und entdeckte schließlich seine spezifische Malweise: die Nass-auf-Nass-Methode. Nachdem er diese Technik gründlich ausgebaut und etliche Hilfsmittel und Tricks erprobt hat, fing er an, auch anderen beizubringen, wie man damit schöne Landschaftsbilder kreieren kann. Er reiste seit 1981 quer durch die Vereinigten Staaten, um diese Technik vorzustellen. Zwei Jahre später produzierte er die ersten Malkurse im Fernsehen: "The Joy of Painting" wurde zu einem Riesenerfolg. Mit freundlich säuselnder Stimme macht Bob Ross seinen Zuschauern Mut, ihre eigene Kreativität zu entdecken. Schritt für Schritt macht er vor, wie sie ihre Leinwand im Nu mit "heiteren kleinen Wölkchen" oder "fröhlichen kleinen Bergen" und Hütten bereichern und so ihre eigene Welt schaffen können. Das kommt an, seit 1983 reißen die Ross-Serien gar nicht mehr ab. Sein Fernseh-Malkurs ist ein gigantisches Unternehmen, das Millionen von Ross-Schülern mit dem nötigen Malwerkzeug, Anleitungsbüchern und Videos ausstattet. Bob Ross starb 1995 mit gerade einmal 52 Jahren in New Smyrna Beach, Florida, an Krebs. Seine Fernsehshow aber lebt weiter. Inspiriert von Ross hat eine Freundin von ihm, Annette Kowalski, selbst eine Methode entwickelt, wie man Blumen malt. "Jeder Mensch ein Künstler!" Dies berühmt-berüchtigte Motto von Joseph Beuys könnte auch von Bob Ross stammen. Allein, der amerikanische Fernsehmaler hat - anders als Beuys - keine großen sozialen und politischen Revolutionen im Sinn. Bob Ross will "nur" die einzelnen Menschen glücklicher machen, und das heißt, zu potenten Malern, die ihre eigene Welt erschaffen. Er will uns zeigen: Ein kleiner Künstler steckt in jedem von uns, wir müssen ihn nur herauslassen. Und das geschieht, indem wir lernen, das Malen zu lernen und das Lernen dabei nicht als Mittel zum Zweck, sondern als Selbstzweck begreifen - Spaß dran finden(n)</desc>
+    <date>1983</date>
+    <category lang="de">Musik</category>
+    <category lang="de">Malkurs</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1051106/1051106_478x268.jpg" />
+    <country>USA</country>
+    <episode-num system="onscreen">S29 E369</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230011500 +0100" stop="20181230023000 +0100" channel="ARD alpha">
+    <title lang="de">Elvis: '68 Comeback Special</title>
+    <desc lang="de">Nach einer langen Pause, in der er sich seiner Filmkarriere gewidmet hatte, spielte Elvis Presley erstmals 1968 wieder live auf der Bühne und begeisterte seine Fans aufs Neue. Das als "Comeback Special" bekannt gewordene Konzert löste erneut eine Elvis-Euphorie aus. Mit dem 1968 ausgestrahlten NBC Elvis Comeback Special zeigte sich der King in Höchstform, bewies wie sehr er die hohe Kunst des Entertainments beherrschte und festigte zudem sicherlich auch ein Stück weit den Fortlauf seiner Karriere. Zum 50.Jubiläum dieses Mega-Ereignisses zeigt das BR-Fernsehen dieses Konzert inklusive einer neu produzierten Einführung und Studiotour von Original-Regisseur und Produzenten des Specials, Steve Binder. Das BR-Fernsehen zeigt den Dokumentarfilm zum Geburtstag des "Kings". Am achten Januar wäre Elvis Presley 84 Jahre alt geworden(n)</desc>
+    <credits>
+      <director>Steve Binder</director>
+      <actor>Elvis Presley</actor>
+      <writer>Chris Bearde</writer>
+    </credits>
+    <date>1968</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Dokumentation</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6857979/6857979_478x268.jpg" />
+    <country>USA</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230023000 +0100" stop="20181230031500 +0100" channel="ARD alpha">
+    <title lang="de">alpha-retro: Ein Münchner in New York</title>
+    <sub-title lang="de">Dem Fischer Wolfgang wird's zu eng</sub-title>
+    <desc lang="de">Dem Fischer Wolfgang wird's zu eng - Dem Fischer Wolfgang wird's zu eng, deshalb macht er sich auf nach Tennessee. Der Wolfi verteilt bayerische Freundschaftsorden, präsentiert das einzige Ziegelsteinmuseum der Welt und geht mit der ältesten Fluglehrerin in die Luft. Er findet ein bayerisches Hofbräuhaus mitten in den Bergen, besucht das Wohnstüberl von King Elvis und fährt zu guter Letzt auch noch seinen Bus zu Schrott(n)</desc>
+    <date>1988</date>
+    <category lang="de">Information</category>
+    <category lang="de">kein Charakter</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230031500 +0100" stop="20181230041500 +0100" channel="ARD alpha">
+    <title lang="de">Space Night</title>
+    <sub-title lang="de">Earth-Views</sub-title>
+    <desc lang="de">Earth-Views - "Gesättigt von den wunderschönen Bildern fallen die Augen irgendwann ganz von alleine zu. Sie schweben zurück ins Bett und träumen von einem Planeten, den Sie am liebsten erobern würden. Gleich morgen!" So schwärmt die "Süddeutsche Zeitung" von der Space Night - dem Nachtprogramm des BR Fernsehen. Jetzt gibt's neue Folgen der Kultserie - mit spektakulären HD-Bildern aus dem All und mit Creative-Commons-Musik aus der Web-Community(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachtprogramm</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1052182/1052182_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230041500 +0100" stop="20181230043000 +0100" channel="ARD alpha">
+    <title lang="de">alpha-centauri</title>
+    <sub-title lang="de">Wer ist Quaoar?</sub-title>
+    <desc lang="de">Wer ist Quaoar? - Geschichtenerzählen und Astrophysik - das sind seine beiden großen Leidenschaften: Harald Lesch ist Professor für theoretische Astrophysik an der Ludwig-Maximilians-Universität München und unterrichtet Naturphilosophie an der Hochschule für Philosophie S.J. in München. Außerdem ist er Mitglied der Kommission "Astronomie in Unterricht und Lehramt". Seine Hauptforschungsgebiete sind kosmische Plasmaphysik, Schwarze Löcher und Neutronensterne. In der Sendereihe "alpha-Centauri" erklärt Professor Lesch die Grundzüge des Universums, untersucht ferne Galaxien und bringt uns unser Sonnensystem näher(n)</desc>
+    <credits>
+      <presenter>Harald Lesch</presenter>
+    </credits>
+    <category lang="de">Information</category>
+    <category lang="de">Wissenschaftsdoku</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1595_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229051500 +0100" stop="20181229060000 +0100" channel="NDR">
+    <title lang="de">DAS!</title>
+    <sub-title lang="de">Norddeutschland und die Welt</sub-title>
+    <desc lang="de">Norddeutschland und die Welt - Sie will oft mit dem Kopf durch die Wand, hat wenig Geduld und lieber Action als Büroarbeit. So kennt man Wanda Perdelwitz aus dem "Großstadtrevier". Als Polizeiobermeisterin Nina Sieveking jagt sie seit mehr als sechs Jahren Ganoven und Kleinkriminelle auf dem Hamburger Kiez. Aber sie kann auch anders, wie sie gerade in der gefeierten Komödie "Der rechte Auserwählte" in den Hamburger Kammerspielen und am 2. Januar in dem HR-Film "Bist du glücklich?" in Das Erste beweist. Aus eine Künstlerfamilie stammend, war ihre Karriere geradezu vorgezeichnet: Ihre erste Hauptrolle bekam sie bereits im Alter von 18 Jahren im Kinofilm "Muxmäuschenstill". Danach folgten eine Ballettausbildung, Schauspielschule in Rostock und unzählige Theater- und Filmrollen. Wenn die Berlinerin nicht gerade nach Hamburg pendelt oder vor der Kamera oder auf der Bühne steht, nimmt sie wahrscheinlich im Tonstudio ein Hörbuch oder Hörspiel auf. Oder ist zu Gast bei "DAS!"(n)</desc>
+    <credits>
+      <presenter>Hinnerk Baumgarten</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5953091/5953091_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229060000 +0100" stop="20181229060500 +0100" channel="NDR">
+    <title lang="de">mareTV kompakt</title>
+    <category lang="de">Information</category>
+    <category lang="de">Reportagereihe</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5978829/5978829_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229060500 +0100" stop="20181229073500 +0100" channel="NDR">
+    <title lang="de">Auf der Suche nach der Schatzinsel</title>
+    <sub-title lang="de">Verfeindete Stämme</sub-title>
+    <desc lang="de">Verfeindete Stämme - Auf der Suche nach ihrem verschollenen Vater werden Mark und Jacqui mit ihren Freunden im Südpazifik auf eine unbekannte Insel verschlagen, von der es keinen Rückweg in die Außenwelt gibt. Raoul hat Jacqui in das Fort der spanischen Horselords gebracht, zu einem der bis aufs Blut miteinander verfeindeten Stämme, die die Insel bewohnen(n)</desc>
+    <credits>
+      <director>Howard Rubie</director>
+      <actor>Daniel Kellie</actor>
+      <actor>Brittany Byrnes</actor>
+      <actor>Brooke Mikey Anderson</actor>
+      <actor>Tanya Lawson</actor>
+      <actor>Christie Hayes</actor>
+      <writer>Judith Colquhoun</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="de">Serie</category>
+    <category lang="de">Abenteuerserie</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/8_478x268.jpg" />
+    <country>AUS/D/J/E</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229073500 +0100" stop="20181229090000 +0100" channel="NDR">
+    <title lang="de">Die Pfefferkörner</title>
+    <sub-title lang="de">Alles auf Anfang</sub-title>
+    <desc lang="de">Alles auf Anfang - Bei den Pfefferkörnern geht es spannend zu: Drei Mädchen und zwei Jungen kämpfen gegen Gangster und Ganoven in der Hamburger Speicherstadt und lösen so manchen Kriminalfall(n)</desc>
+    <credits>
+      <director>Andrea Katzenberger</director>
+      <actor>Aurelia Stern</actor>
+      <actor>Bruno Alexander</actor>
+      <actor>Carolin Garnier</actor>
+      <actor>Sammy O'Leary</actor>
+      <actor>Robin Huth</actor>
+      <writer>Anja Jabs</writer>
+    </credits>
+    <date>1999</date>
+    <category lang="de">Serie</category>
+    <category lang="de">Kinderkrimiserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/2222509/2222509_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229090000 +0100" stop="20181229093000 +0100" channel="NDR">
+    <title lang="de">Nordmagazin</title>
+    <desc lang="de">Kulturelle und politische Informationen sowie regionaler Sport und allgemeine unterhaltsame Geschichten aus dem Land präsentiert das Magazin für Mecklenburg-Vorpommern täglich um 19:30 Uhr(n)</desc>
+    <credits>
+      <presenter>Sabine Kühn</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1538720/1538720_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229093000 +0100" stop="20181229100000 +0100" channel="NDR">
+    <title lang="de">Hamburg Journal</title>
+    <desc lang="de">Das Regionalmagazin des Norddeutschen Rundfunks für das Land Hamburg berichtet über das politische und kulturelle Leben der Hansestadt und liefert Hintergrundinformationen zu besonderen Ereignissen(n)</desc>
+    <credits>
+      <presenter>Julia-Niharika Sen</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056568/1056568_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229100000 +0100" stop="20181229103000 +0100" channel="NDR">
+    <title lang="de">Schleswig-Holstein Magazin</title>
+    <desc lang="de">Das Regionalmagazin berichtet über das aktuelle Tagesgeschehen im Land zwischen Ost- und Nordsee(n)</desc>
+    <credits>
+      <presenter>Gabi Lüeße</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/3685427/3685427_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229103000 +0100" stop="20181229110000 +0100" channel="NDR">
+    <title lang="de">buten un binnen|regionalmagazin</title>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+  </programme>
+  <programme start="20181229110000 +0100" stop="20181229113000 +0100" channel="NDR">
+    <title lang="de">Hallo Niedersachsen</title>
+    <desc lang="de">Täglich beobachtet das Regionalmagazin das aktuelle Geschehen in Niedersachsen und berichtet über politische und kulturelle Ereignisse(n)</desc>
+    <credits>
+      <presenter>Antje Wöhnke</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1683866/1683866_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229113000 +0100" stop="20181229120000 +0100" channel="NDR">
+    <title lang="de">Animalisch: Das Tier und wir</title>
+    <sub-title lang="de">Das Schaf</sub-title>
+    <desc lang="de">Das Schaf - Wenn sich Mensch und Schaf begegnen, treffen Persönlichkeiten und eigenwillige Charaktere aufeinander. Wer glaubt, schon alles über Schafe zu wissen, den belehrt diese Folge der Dokuserie "ANIMALISCH Das Tier und wir" eines Besseren. Der Film bietet überraschende und faszinierende neue Einblicke in die Welt der Schafe mit atemberaubenden Bildern. Er zeigt das Schaf als Spender von Trost und Zuneigung, aber auch als Lieferant von Rohstoffen, bis hin zu Milch und Fleisch. Philosoph und Bestsellerautor Richard David Precht offenbart den Zwist dieser Beziehung und erklärt, warum die Begegnung von Mensch und Schaf so gut funktioniert. Julie Dubreuilh ist Hobbyschäferin. Sie treibt ihre geliebten Tiere aus voller Überzeugung durch die Pariser Vorstadt Saint-Denis. Ulrike Hauer hat durch Schafe zu sich selbst gefunden. Sie strahlt vollkommenen Frieden aus, wenn sie mit ihren vier Alpinen Steinschafen auf dem täglichen Spaziergang durch die Fränkische Schweiz unterwegs ist. Und die norddeutschen Aussteiger Luise und Andreas Sunder-Plassmann kennen die 56 Schafe auf ihrem Hof an der Schlei so gut, dass sie sie am Geschmack ihrer Milch unterscheiden können. Der bildstarke Film zeigt überraschend und mit einem Augenzwinkern, wie Menschen Schafen auf Augenhöhe begegnen, auch wenn diese nicht als Kuschel-, sondern als Nutztier gehalten werden(n)</desc>
+    <credits>
+      <director>Ralph Loop</director>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Tierreihe</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/9704_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229132500 +0100" stop="20181229135500 +0100" channel="NDR">
+    <title lang="de">Bauer, Bulle, Volksschauspieler</title>
+    <desc lang="de">Jan Fedder ist einer der beliebtesten Volksschauspieler. In diesem Jahr hat der Kultschauspieler sein 50-jähriges Bühnenjubiläum gefeiert. Ein Rückblick auf seine schauspielerische Laufbahn(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Porträt</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7227823/7227823_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229135500 +0100" stop="20181229144000 +0100" channel="NDR">
+    <title lang="de">Der Böhmerwald - Eine Wildnis mitten in Europa</title>
+    <desc lang="de">Die zweiteilige Hochglanzdokumentation "Der Böhmerwald - eine Wildnis mitten in Europa" im NDR Fernsehen Feiertagsprogramm zu Weihnachten 2018 porträtiert vor der bildstarken Kulisse des märchenhaften Böhmerwalds im Dreiländereck Bayern, Österreich, Tschechien Menschen, die sich dieser Magie nicht entziehen können. Die Filme, entstanden in Koproduktion mit dem Bayerischen Fernsehen, zeigen in eindrucksvollen Aufnahmen die Schönheit und Erhabenheit dieses Waldes im Wechsel der Jahreszeiten. Im Böhmerwald entspringt die Moldau, er beherbergt Urwälder, unberührte Hochmoore und sprudelnde Wildbäche. Dieser archaische Landstrich, zu dem auch der Bayerische Wald gehört, galt lange als undurchdringlich und geheimnisvoll. Seit dem Fall des Eisernen Vorhangs haben die Grenzbewohner Bayerns wieder neue Bezüge zu dieser ungewöhnlichen Waldlandschaft für sich entdeckt. Dazu gehört auch der niederbayerische Fotokünstler Bastian Kalous, der seit Jahren mit nostalgisch anmutenden Polaroidaufnahmen seine Heimat dokumentiert und sich für einen Bildband mit der wechselvollen Geschichte auseinandersetzt. Oder auch Elisa Belotti und Marco Heurich: Sie haben ihr Leben den Luchsen verschrieben. Damit die größte Wildkatze Europas im Böhmerwald überleben kann, kämpfen die Luchsforscher um jedes einzelne Tier. Iryna Rudenko kam aus Leidenschaft zum Werkstoff Glas aus der Ukraine nach Zwiesel, um an der Glasfachschule zu studieren. Nach ihrem Abschluss möchte sie gern in Bayern bleiben, Anna Hones ist in Horská Kvilda aufgewachsen, der kleinsten und zugleich höchstgelegenen Gemeinde der Tschechischen Republik. Knapp 1.100 Meter hoch liegt der Ort, direkt an der ehemaligen Grenze. Die Landwirtin, die den Kommunismus, den Fall des Eisernen Vorhangs und die anschließenden Veränderungen erlebt hat, versucht nun mit ihren Kindern, Möglichkeiten des Überlebens in dieser kargen Region zu finden(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Naturdoku</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7126733/7126733_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229144000 +0100" stop="20181229152500 +0100" channel="NDR">
+    <title lang="de">Der Böhmerwald - Eine Wildnis mitten in Europa</title>
+    <desc lang="de">Die zweiteilige Hochglanzdokumentation "Der Böhmerwald - eine Wildnis mitten in Europa" im NDR Fernsehen Feiertagsprogramm zu Weihnachten 2018 porträtiert vor der bildstarken Kulisse des märchenhaften Böhmerwalds im Dreiländereck Bayern, Österreich, Tschechien Menschen, die sich dieser Magie nicht entziehen können. Die Filme, entstanden in Koproduktion mit dem Bayerischen Fernsehen, zeigen in eindrucksvollen Aufnahmen die Schönheit und Erhabenheit dieses Waldes im Wechsel der Jahreszeiten. Pavel Hubený, aus dessen Leben der Wald nicht wegzudenken ist, ist der Leiter des Nationalparks Šumava. Er setzt sich dafür ein, dass ein Urwald für künftige Generationen wachsen kann, in den der Mensch nicht eingreift. Diese Vision von einem Urwald teilt auch der Förster Claus Bässler, der dem Artensterben entgegenwirken will, indem er Bäume fällen lässt, damit künstlich Totholz und damit ein neuer Lebensraum für seltene Käfer und Pilze geschaffen wird. An der Moldau liegt das Städtchen Krumau, die "Perle des Böhmerwalds" mit seinem Barocktheater und der vollständig erhaltenen Bühnentechnik aus dem 17. Jahrhundert. Hier verzaubert die Regisseurin Zuzana Vrbová mit ihren Inszenierungen Menschen aus aller Welt. Neben der Landwirtschaft sicherte vor allem der Waldreichtum den Bewohnern des Böhmerwalds den Lebensunterhalt, auch den des Schreiners Philipp von Manz, der heimische Hölzer für seine Kunden in ganz Deutschland verarbeitet. Die Tierärztin Judith Gollner, aufgewachsen im österreichischen Teil des Böhmerwalds, hat lange in Wien gelebt und sich bewusst für die Rückkehr entschieden. Sie mag den Menschenschlag und ist stolz auf "ihre Bäuerinnen", die mit ihr die Liebe zum Böhmerwald teilen(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Naturdoku</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/857_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229152500 +0100" stop="20181229162500 +0100" channel="NDR">
+    <title lang="de">Land zwischen Oderhaff und Newamündung</title>
+    <sub-title lang="de">Von Estland nach St. Petersburg</sub-title>
+    <desc lang="de">Von Estland nach St. Petersburg - Eine abenteuerliche Entdeckungsreise mit einem kleinen Segelboot zwischen völlig verschiedenen Welten: Zu Estland gehören mehr als 1.500 Inseln, die meisten von ihnen schroffe Winzlinge, die kaum aus dem Wasser lugen. Die Küsten sind übersät mit Findlingen aus der Eiszeit. Dahinter dichte Urwälder mit Elchen, Bären und Luchsen. Dazu kommen riesige Seen und Moore, die zu den letzten Wildnissen Europas gehören. Der Film begegnet den Menschen und ihren heidnischen Bräuchen und Traditionen, die in dieser vom Baltischen Meer geprägten Welt mit Liedern durch die Jahrhunderte getragen werden. Auf der kleinen Insel Kihnu beispielsweise haben seit alters her Frauen in rotgestreiften Wollröcken "die Hosen an". Auf alten Motorrädern knattern sie zum abendlichen Volkstanz. Am Festland gegenüber: der Soomaa-Nationalpark. Hier hat Aivar Ruukel einen "Moor-Pool" gleich hinterm Haus. Und "Haabjas" baut er noch heute so wie seine Urgroßväter: aus einem einzigen Espenstamm. Auf der Insel Hiiumaa hat sich ein Deutschordensbischof den Bau des Leuchtturms Kopu von der Hanse mit viel Wein bezahlen lassen. Später haben die Sowjets die gesamte baltische Inselwelt zum Sperrgebiet gemacht. In einem der fast verfallenen Hiiumaa-Bunker soll noch heute ein Rotarmist spuken. Und die Insel Naissaar ist erst vor Kurzem überhaupt wieder aufgetaucht, gespenstisch übersät mit verrosteten Seeminen. Märchenhaft ist Haapsalu, das bunte Holzhausstädtchen am Festland ähnelt in vielen Dingen dem "Bullerbü" in Astrid Lindgrens Büchern. In Tallinn, der berühmten Hansestadt mit ihren mittelalterlichen Festungsmauern, wirken seit 700 Jahren die "Schwarzhäupter". Die singenden Esten, das sind 30.000 Menschen auf einer Bühne! Mit ihrem Sängerfest feiern sie ihre "Singende Revolution". Viele Volksgruppen haben das Land geprägt, die Estlandschweden im Nordwesten, Baltendeutsche mit ehemals Hunderten Guts- und Adelssitzen, altgläubige Zwiebelrussen am riesigen Peipussee. Die Spuren dieser wechselvollen Geschichte sind vielerorts liebevoll und stolz restauriert worden. Dazu gehört auch Sillamäe, Stalins geheime Stadt, in der er "seine" Atombombe bauen ließ, nicht weit weg von der heutigen EU-Grenze zu Russland. Und gleich dahinter: St. Petersburg, die prunkvolle Zarenstadt mit Peter-Paul-Festung und Eremitage. Sie ist das Ziel der großen Entdeckungsreise mit einem kleinen Segelboot(n)</desc>
+    <date>2017</date>
+    <category lang="de">Information</category>
+    <category lang="de">Länderporträt</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/663_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229162500 +0100" stop="20181229171500 +0100" channel="NDR">
+    <title lang="de">Die Erinnerung bleibt</title>
+    <sub-title lang="de">Beliebte Stars von denen wir Abschied nehmen mussten</sub-title>
+    <desc lang="de">Beliebte Stars von denen wir Abschied nehmen mussten - Zum Ende eines jeden Jahres würdigt das NDR Fernsehen mit einem Rückblick das Leben von Schauspielern, Schriftstellern, Politikern, Künstlern und Entertainern, die in den vergangenen Monaten verstorben sind. Von vielen bekannten Persönlichkeiten mussten die Menschen Abschied nehmen. Freunde und Weggefährten sprechen über ihre ganz persönlichen Erinnerungen, wie unter anderem an Dieter Thomas Heck, Rolf Hoppe, Wolfgang Völz, Montserrat Caballé, Ulrich Pleitgen, Renate Delfs, Graciano Rocchigiani und Jürgen Marcus. Zu Wort kommen: Bastian Pastewka, René Kollo, Uta Schorn, Isabel Varell, Peter Heinrich Brix und Henry Maske(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Porträtreihe</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7232839/7232839_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229171500 +0100" stop="20181229180000 +0100" channel="NDR">
+    <title lang="de">DAS! Kochstudio - Silvestermenü</title>
+    <sub-title lang="de">Silvestermenü</sub-title>
+    <desc lang="de">Silvestermenü - Kurz vor dem Jahreswechsel schwingen Rainer Sass und Bettina Tietjen im "DAS! Kochstudio" noch einmal die Kochlöffel. Alle Rezepte eignen sich nicht nur für das Silvesterfest, sondern auch für kulinarische und gemütliche Feinschmeckerrunden im Winter. Auf der Speisekarte steht zunächst eine gesunde Rote-Bete-Suppe mit gerösteten Nüssen. Als zweiter Gang folgt Roastbeef mit Bratkartoffeln und einer Kapernremoulade. Auch Naschkatzen kommen bei diesem Silvestermenü auf ihre Kosten: Zum krönenden Abschluss servieren Rainer Sass und Bettina Tietjen einen Scheiterhaufen aus Äpfeln und Vanillesoße(n)</desc>
+    <credits>
+      <presenter>Bettina Tietjen</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Kochsendung</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/582_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229180000 +0100" stop="20181229184500 +0100" channel="NDR">
+    <title lang="de">Nordtour</title>
+    <sub-title lang="de">Das norddeutsche Reisemagazin</sub-title>
+    <desc lang="de">Das norddeutsche Reisemagazin - Seehundforschung: Seehunde hautnah erleben Im Marine Science Center in Rostock erforscht ein fünfköpfiges Team von Meeresbiologen die verschiedenen Fähigkeiten von Robben, beispielsweise die Wahrnehmung von Strömung, Thermoregulation, das Gehör. Das alles geschieht spielerisch. Interessierte Besucher dürfen bei den täglichen Experimenten dabei sein und von der Aussichtsplattform aus zuschauen. Es gibt auch die Möglichkeit, die Teilnahme an der Aktion "'Seehund zum Anfassen" zu buchen. Vom Beckenrand aus kann man dann den Biologen über die Schulter schauen und die Tiere sogar streicheln. Alpenfeeling im Weserbergland: unterwegs mit dem Alpenverein Der Deutsche Alpenverein macht fit fürs Bergwandern und Hochgebirge. Entweder als Schnupperkurs oder zur Vorbereitung auf die Tourenwoche. Die Sektion Hannover trifft sich dafür mit der Teilnehmergruppe für ein Wochenende an der Kansteinhütte im Weserbergland. Zunächst gibt es eine Materialeinführung, Gurt, Helm, Karabiner, Bandschlingen, Seile etc. Dann geht es an die Knotentechniken wie Ankerstich, Prusik, Halbmastwurf usw. Schließlich wird das Ablassen geübt, Abseilen und die Seilschaft. Am nächsten Tag soll das Erlernte am Bockshorn, einer rund 30 Meter hohen, steilen Felsformation, umgesetzt werden. Die Kursteilnehmer begehen Klettersteige, gehen am Fixseil und seilen sich ab. Trotz der guten Vorbereitung gehört für manchen eine gute Portion Überwindung dazu. Italienischer Flair: Erkundungstour durch die Schaumburger Toskana Die Schaumburger Toskana ist ein Landstrich nicht weit entfernt vom Steinhuder Meer in Niedersachsen, der italienisch anmutet. Ein Gastronom hat ihn so genannt. Hügelige Landschaft, weite Felder und einige Bäume, die tatsächlich wie Zypressen anmuten, sind eine Reise wert. Sommertraum Alster: ein Urlaubstag an der Alster Das lauschige Gartencafé im Haynspark in Hamburg-Eppendorf ist bekannt für den selbst gebackenen Kuchen. Am Anleger Mühlenkamp hat vor einiger Zeit eine hawaiianisch inspirierte Bar eröffnet. Und ein Sundowner-Törn mit einem Alsterkutter aus den 1960er-Jahren: Die "Nordtour" folgt an diesen Stationen dem Lockruf der Alster. Kunst der Fotografie: ein Argentinier und "sein" Eiderstedt Der Fotograf und Designer Eduardo Pampinella ist kein typischer Nordfriese, aber das Eidersperrwerk fasziniert ihn immer wieder. Für ihn mutiert der graue Asphaltguss fast zu einer Wüstenlandschaft oder die Tönninger Hafenspitze bekommt in der blauen Stunde eine mystische Stimmung. Pampinella hat zahlreiche Fotobücher auf den Markt gebracht und zeigt seine Fotografien immer mal wieder in diversen Ausstellungen. Winnetou und das Geheimnis der Felsenburg: die Karl-May-Spiele in Bad Segeberg Stefan Tietgen, der Spielleiter der Karl-May-Spiele, muss im Leitstand der Regie alles im Griff haben. Zum richtigen Zeitpunkt das "Go" an die Hinterbühne geben, voll konzentriert sein, damit Musik an den richtigen Stellen eingespielt wird und Pyroeffekte und Stunts klappen. Die "Nordtour" war bei der diesjährigen Inszenierung dabei. Geschichten aus Blumen: Blütenkunst aus Neuenkirchen Porzellanmalerin Ines Bargholz gestaltet wunderschöne Bilder aus Blütenblättern, Blättern und Gräsern. Auf diese Idee haben sie ihre Spaziergänge durch die Natur in der wunderschönen Gegend rund ums verträumte Dorf Neuenkirchen im Biosphärenreservat Schaalsee gebracht. Sie presst die gesammelten Blüten und Blättchen, zupft sie auseinander und arrangiert daraus fantasievolle Gebilde und Gestalten. Ein spannendes Hobby für sie, da ihr Material sehr empfindlich ist und in der Farbgebung immer wieder überrascht. Gruselgeschichten auf Borkum mit Inselführer Berend Baalmann Seit Jahren sammeln die Inselführer Berend Baalmann und Nils Nörtemann Sagen, Mythen und Schauergeschichten über die größte Ostfriesische Insel(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Reisemagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1020_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229184500 +0100" stop="20181229193000 +0100" channel="NDR">
+    <title lang="de">DAS!</title>
+    <sub-title lang="de">Norddeutschland und die Welt</sub-title>
+    <desc lang="de">Norddeutschland und die Welt - , Restaurantbetreiber und Starkoch bei "Mein Nachmittag" im NDR Fernsehen(n)</desc>
+    <credits>
+      <presenter>Hinnerk Baumgarten</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/5953091/5953091_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229193000 +0100" stop="20181229200000 +0100" channel="NDR">
+    <title lang="de">Ländermagazine</title>
+    <desc lang="de">Lokale Nachrichten und Hintergrundberichte für die Region Norddeutschland zu allem Wichtigen aus Politik, Wirtschaft, Kultur und Sport. Die Sendung fasst die wichtigsten Geschehnisse und sonstigen Ereignisse des Tages zusammen und berichtet in komprimierter Form darüber. Außerdem bekommen Sie in dieser Sendung von der Verkehrsmeldung bis zur Glatteiswarnung alle Infos zu Wetter und Verkehr(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1011_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229200000 +0100" stop="20181229201500 +0100" channel="NDR">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229201500 +0100" stop="20181229214500 +0100" channel="NDR">
+    <title lang="de">Das große Wunschkonzert</title>
+    <desc lang="de">In der neuesten Ausgabe "Das große Wunschkonzert" begrüßt Moderator Lutz Ackermann sein Publikum im Harz. In Bad Lauterberg präsentiert er winterliche und beliebte Titel mit den größten Stars der deutschen Schlagerszene. Mit dabei: Helene Fischer und Andrea Berg, Vicky Leandros, Roland Kaiser, Howard Carpendale und Semino Rossi. Eine kuschelige Decke, ein heißes Getränk und jede Menge wunderbarer Schlager und berühmte Interpreten. So zeigt sich der Winter im Harz von seiner schönsten Seite. Moderator Lutz Ackermann hat für seine Zuschauerinnen und Zuschauer bekannte Schlager, stimmungsvolle Lieder und die Klassiker der Winterzeit mit dabei und freut sich auf den besonderen Besuch dreier "Engel": Die ausdrucksstarken Sängerinnen der Gruppe Engelsgleich schweben wie vom stillen Winterhimmel herab, denn Marnie Aramruck, Madeleine Haipt und Caroline Leuzinger schaffen mit ihrer Musik und ihrem dreistimmigen Gesang Momente, die in Erinnerung bleiben. Nicht nur zum Jahreswechsel lässt ein Anblick wie von Engelsgleich die Zeit still stehen und den Alltag vergessen. Aber auch die kulinarischen, winterlichen Genüsse gehören zum Kaminfeuer. Lutz Ackermann begrüßt den Pralinenspezialisten Klaus Ellinghaus aus Bad Harzburg und lässt sich die Zubereitung von winterlichen Schokoladenträumen erklären. Hüttenwirt Jens Riedel serviert passend für einen zünftigen Jahreswechsel Flammlachs am offenen Feuer nach Harzer Rezept. Das musikalische Menü runden viele Geschichten und Anekdoten rund um die Interpreten und ihre Lieder ab(n)</desc>
+    <credits>
+      <presenter>Lutz Ackermann</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Konzert</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7182159/7182159_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229214500 +0100" stop="20181229231500 +0100" channel="NDR">
+    <title lang="de">Schlager, die Sie kennen sollten</title>
+    <desc lang="de">Wenn auf einer langweiligen Party nichts mehr geht, dann helfen meistens Schlager. Denn die kennt im Zweifel jeder, jeder kann sie mitsingen, die Stimmung steigt und alle sind dann ein "bisschen Schlagerfan". Für diese Sendung sind die beliebtesten Schlager aus sechs Jahrzehnten zusammengestellt worden. Die Palette reicht von "Zigeunerjunge" von Alexandra bis zu Helene Fischers "Atemlos"(n)</desc>
+    <date>2018</date>
+    <category lang="de">Musik</category>
+    <category lang="de">Schlagershow</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1074_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229231500 +0100" stop="20181230001500 +0100" channel="NDR">
+    <title lang="de">Helmut Lotti - Das Comeback-Konzert</title>
+    <sub-title lang="de">Höhepunkte aus der Hamburger Laeiszhalle</sub-title>
+    <desc lang="de">Höhepunkte aus der Hamburger Laeiszhalle - Im Rahmen seiner "The Comeback Album"-Tour war Helmut Lotti zu Gast in Hamburg. Der Zusammenschnitt seines Konzertes aus dem September 2017 in der Laeiszhalle zeigt viele Titel aus diesem Album. Außerdem dabei sind seine Klassiker wie "Out Of Africa", "John Brown's Body" und "Hava Nagila". Überraschungsgast für ein Duett ist Semino Rossi. Gemeinsam singen sie "Solamente una vez"(n)</desc>
+    <date>2017</date>
+    <category lang="de">Musik</category>
+    <category lang="de">Konzert</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7232840/7232840_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230001500 +0100" stop="20181230015000 +0100" channel="NDR">
+    <title lang="de">Sieben mal lockt das Weib</title>
+    <desc lang="de">In sieben Episoden erzählt der Film Variationen zu den Themen Liebe, Sex und Eifersucht, alle mit Shirley MacLaine in der weiblichen Hauptrolle. In der ersten Geschichte spielt sie eine Frau, deren Ehemann kürzlich verstorben ist. Auf dem Weg zum Friedhof gesteht ihr der Leibarzt der Familie, dass er schon lange in sie verliebt ist. Die beiden schmieden eifrig Zukunftspläne und verlieren den eigentlichen Anlass schon bald aus den Augen. Die zweite Episode handelt von einer Frau namens Maria Theresa, die ihren Göttergatten mit ihrer besten Freundin in eindeutiger Situation erwischt. Erzürnt beschließt sie, sich zu rächen, indem sie mit dem ersten Mann ins Bett geht, der ihr begegnet. In Episode drei stehen gleich zwei Männer im Fokus. Diese lernen während eines Kongresses die hübsche Dolmetscherin Linda kennen. Da ihr Freund sich kaum für sie interessiert, lädt Linda die beiden zu sich nach Hause ein, um ihnen aus den Werken von T. S. Eliot vorzulesen, und zwar vollkommen nackt. Auch die Protagonistin der nächsten Geschichte ist frustriert über das Desinteresse ihres Mannes, eines Schriftstellers. Daher beschließt sie, sich von einer braven Hausfrau in die verführerische Femme fatale aus seinen Romanen zu verwandeln. Ein Schritt, der völlig falsch interpretiert wird. Ganz andere Probleme hat die wohlhabende Eve in der nachfolgenden Episode: Als sie herausfindet, dass ihre Erzrivalin zu einer Operngala das gleiche Haute-Couture-Kleid tragen will wie sie selbst, greift sie zu einer rabiaten Maßnahme, um dies zu verhindern. Die sechste Geschichte erzählt von einem heimlichen Liebespaar, das für sich keine gemeinsame Zukunft sieht, da beide verheiratet sind. In ihrer Verzweiflung beschließen beide, gemeinsam Selbstmord zu begehen. Dann aber nimmt dieser Plan eine unerwartete Wendung. In der letzten Episode fühlt Ehefrau Jean sich während eines Treffens mit einer Freundin von einem gut aussehenden Fremden beobachtet. Der Mann folgt ihr sogar bis zu ihrer Haustür. Jean fühlt sich geschmeichelt, ahnt jedoch nicht, dass die Nachstellung einen ganz anderen, viel profaneren Grund hat(n)</desc>
+    <credits>
+      <director>Vittorio de Sica</director>
+      <actor>Shirley MacLaine</actor>
+      <actor>Michael Caine</actor>
+      <actor>Peter Sellers</actor>
+      <actor>Lex Barker</actor>
+      <actor>Rossano Brazzi</actor>
+      <writer>Cesare Zavattini</writer>
+    </credits>
+    <date>1967</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Komödie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/3196285/3196285_478x268.jpg" />
+    <country>USA/I/F/GB</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230015000 +0100" stop="20181230023500 +0100" channel="NDR">
+    <title lang="de">Pimp den Pannfisch</title>
+    <desc lang="de">Diesmal sind Koral Elci und Adam Bousdoukos im Alten Land unterwegs. Ihre Herausforderung: Sie wollen den Pannfisch von Stubbe's Gasthaus, eine Institution in Jork bei Stade, pimpen, also kulinarisch neu inszenieren. Die Hitze und der Sauerstoffmangel in der Elbe machen den beiden zu schaffen, denn eigentlich brauchen sie für ihr Gericht einen Fisch, aber es beißt einfach keiner an(n)</desc>
+    <credits>
+      <director>Sylvia Berndt</director>
+      <presenter>Koral Elci</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Kochshow</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/8782_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230023500 +0100" stop="20181230032000 +0100" channel="NDR">
+    <title lang="de">Pimp den Pannfisch</title>
+    <desc lang="de">Auf der schleswig-holsteinischen Halbinsel Eiderstedt ist er eine norddeutsche Küchenlegende. Dabei handelt es sich um einen Kartoffelteigkloß mit deftigem Fleisch und süßer Kirschsoße. Nirgendwo wird er so traditionell und schmackhaft zubereitet wie im Gasthof Kirchspielkrug Tetenbüll. Adam und Koral brauchen hier ihr ganzes Können und sehr viel Einfallsreichtum, um den Mehlbüddel zu pimpen(n)</desc>
+    <credits>
+      <director>Thilo Eckoldt</director>
+      <presenter>Koral Elci</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Kochshow</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/8782_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230032000 +0100" stop="20181230040500 +0100" channel="NDR">
+    <title lang="de">Pimp den Pannfisch</title>
+    <desc lang="de">Der Norden ist bodenständig, unverfälscht und ehrlich. Genau wie seine Küche. Nirgends schmeckt es so gut wie bei Muttern. Und an ihren alten Rezepten rührt man besser nicht. Oder doch? Pannfisch, Mehlbüddel und Steckrübeneintopf mal gepimpt, also neu inszeniert? Zwei Köche wagen dieses wohl spannendste kulinarische Experiment, und das ohne Küche und doppelten Boden! Koral Elci, der als Event-Koch für die Firma Kitchen Guerilla auf Überraschungen spezialisiert ist, macht sich mit seinem Freund Adam Bousdoukos, Schauspieler ("Tatort", "Soul Kitchen") und Restaurantbetreiber, auf eine Entdeckungsreise durch den Norden, um die traditionelle norddeutsche Küche zu pimpen. Dabei stoßen sie auf Landgasthöfe, in denen alte Gerichte noch genauso schmackhaft zubereitet werden, wie man sie aus der Kindheit kennt und liebt. Koral und Adam wollen in jeder Folge "Pimp den Pannfisch" eine neue Variante eines solchen Traditionsgerichts erfinden und die Gäste des Landgasthofs geschmacklich davon überzeugen. Als wäre das nicht Herausforderung genug, kochen die beiden "Pannfisch-Pimper" in der freien Natur, vor und in der Scheune des Landgasthofes etwa. Anstatt mit Strom brutzeln Adam und Koral auf offenem Feuer, bauen Erdöfen, schweißen sich Vorrichtungen zum Grillen und garen in der Glut. Ihre Zutaten besorgen sich die beiden Köche frisch aus der Region. Natürlich läuft nicht immer alles reibungslos, dann müssen sie die Rezepte spontan ändern. So entsteht für die Zuschauerinnen und Zuschauer ein höchst unterhaltsames und überraschendes Pimp-Experiment. Ob es glückt, entscheidet am Ende eine Jury aus Einheimischen und Liebhabern des Traditionsgerichts. Der Kuhstedter Steckrübeneintopf im Gasthof Ahrens in Kuhstedt bei Bremervörde hat viele eingefleischte Fans. Diese ausgerechnet von einer gepimpten, südamerikanischen Eintopfvariante zu überzeugen, wird kein Kinderspiel. Im alten Schuppen von Ulf Ahrens bauen sich Koral und Adam von der Kitchen Guerilla dafür eine Open-Air-Küche. Ohne Strom, aber mit viel Enthusiasmus, Ideenreichtum und einem gehörigen Schuss Chaos gehen sie daran, das traditionelle Gericht umzumodeln. Warum sie dafür ein Wildschwein jagen wollen und ein tiefes Loch in die Wiese graben, das erlebt man in dieser Folge "Steckrübeneintopf"(n)</desc>
+    <credits>
+      <director>Sylvia Berndt</director>
+      <actor>Koral Elci</actor>
+      <actor>Adam Bousdoukos</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Kochshow</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/8782_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230040500 +0100" stop="20181230041500 +0100" channel="NDR">
+    <title lang="de">Mein Norden</title>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Magazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/6451_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230041500 +0100" stop="20181230044500 +0100" channel="NDR">
+    <title lang="de">Hamburg Journal</title>
+    <desc lang="de">Das Regionalmagazin des Norddeutschen Rundfunks für das Land Hamburg berichtet über das politische und kulturelle Leben der Hansestadt und liefert Hintergrundinformationen zu besonderen Ereignissen(n)</desc>
+    <credits>
+      <presenter>Julia-Niharika Sen</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056568/1056568_478x268.jpg" />
     <country>D</country>
     <star-rating>
       <value>4.0</value>
