@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP1">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP2">
+    <display-name lang="en">RTP2</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP3">
+    <display-name lang="en">RTP3</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="en">RTP Memória</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="en">RTP África</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Internacional">
+    <display-name lang="en">RTP Internacional</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="en">RTP Açores</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="en">RTP Madeira</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <programme start="20181229063000 +0000" stop="20181229063100 +0000" channel="RTP1">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229063100 +0000" stop="20181229063300 +0000" channel="RTP1">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229063300 +0000" stop="20181229064300 +0000" channel="RTP1">
+    <title lang="en">Os Bochechas</title>
+    <desc lang="en">Os Bochechas são uma família muito divertida!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229064300 +0000" stop="20181229065000 +0000" channel="RTP1">
+    <title lang="en">Paula</title>
+    <desc lang="en">Não podes perder as aventuras de Punky!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229065000 +0000" stop="20181229070100 +0000" channel="RTP1">
+    <title lang="en">Jelly Jamm</title>
+    <desc lang="en">Jelly Jamm celebra a música, a diversão e a amizade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070100 +0000" stop="20181229071600 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229071600 +0000" stop="20181229072900 +0000" channel="RTP1">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229072900 +0000" stop="20181229074100 +0000" channel="RTP1">
+    <title lang="en">Gawayn</title>
+    <desc lang="en">Homens valentes querem salvar a princesa Gwendolina!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229074100 +0000" stop="20181229075400 +0000" channel="RTP1">
+    <title lang="en">Conta Um Conto</title>
+    <desc lang="en">A Cidade e o Campo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229075400 +0000" stop="20181229080000 +0000" channel="RTP1">
+    <title lang="en">Movimento Gentil - Embaixadores</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229143600 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229143600 +0000" stop="20181229210000 +0000" channel="RTP1">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Póvoa de Varzim(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210000 +0000" stop="20181229215000 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229215000 +0000" stop="20181229230200 +0000" channel="RTP1">
+    <title lang="en">Cosido à Mão</title>
+    <desc lang="en">Vamos eleger o melhor costureiro de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229230200 +0000" stop="20181230000100 +0000" channel="RTP1">
+    <title lang="en">Donos Disto Tudo</title>
+    <desc lang="en">Programa de rábulas variadas com artistas de rir a valer(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070000 +0000" stop="20181229080000 +0000" channel="RTP2">
+    <title lang="en">Euronews</title>
+    <desc lang="en">No Euronews, saiba tudo o que se passa na Europa e no mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229080100 +0000" channel="RTP2">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080100 +0000" stop="20181229080200 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080200 +0000" stop="20181229085000 +0000" channel="RTP2">
+    <title lang="en">Irmãos Koala, Um Presente de Natal</title>
+    <desc lang="en">Os irmãos Koala vão no seu  avião viver uma aventura  natalícia...(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229085000 +0000" stop="20181229085400 +0000" channel="RTP2">
+    <title lang="en">Natal Magazine Zig Zag (Videoclips)</title>
+    <desc lang="en">As mais bonitas canções de Natal completamente arruinadas pelas vozes dos moradores da Casa Zig Zag!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229085400 +0000" stop="20181229090500 +0000" channel="RTP2">
+    <title lang="en">Odd é Um Ovo</title>
+    <desc lang="en">Gunn, uma abelha destemida e feliz, vai virar a vida do avesso a vida de Odd, um menino cheio de medos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229090500 +0000" stop="20181229090800 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229090800 +0000" stop="20181229093400 +0000" channel="RTP2">
+    <title lang="en">A Vassoura Voadora</title>
+    <desc lang="en">Filme de animação baseado no maravilhoso livro infantil escrito por Julia Donaldson e ilustrado por Axel Scheffler, um conto mágico sobre a amizade e a família(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229093400 +0000" stop="20181229103800 +0000" channel="RTP2">
+    <title lang="en">A Minha Vida de Courgette</title>
+    <desc lang="en">Primeira longa-metragem do suíço Claude Barras, um filme de animação inspirado na obra do escritor francês Gilles Paris(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229103800 +0000" stop="20181229104000 +0000" channel="RTP2">
+    <title lang="en">Natal Magazine Zig Zag (Videoclips)</title>
+    <desc lang="en">As mais bonitas canções de Natal completamente arruinadas pelas vozes dos moradores da Casa Zig Zag!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229104000 +0000" stop="20181229110300 +0000" channel="RTP2">
+    <title lang="en">Garfield Show</title>
+    <desc lang="en">Garfield, um gato muito especial..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229110300 +0000" stop="20181229112500 +0000" channel="RTP2">
+    <title lang="en">Danger Mouse - Vem Aí o Snowman</title>
+    <desc lang="en">Danger Mouse e Penfold vão salvar o Pai Natal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229112500 +0000" stop="20181229112800 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229112800 +0000" stop="20181229124700 +0000" channel="RTP2">
+    <title lang="en">Zambezia</title>
+    <desc lang="en">Versão portuguesa de um filme de animação para toda a família, escrito e realizado pelo sul-africano Wayne Thornley(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229124700 +0000" stop="20181229125200 +0000" channel="RTP2">
+    <title lang="en">Natal Magazine Zig Zag (Videoclips)</title>
+    <desc lang="en">As mais bonitas canções de Natal completamente arruinadas pelas vozes dos moradores da Casa Zig Zag!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229125200 +0000" stop="20181229125300 +0000" channel="RTP2">
+    <title lang="en">Desalinhado</title>
+    <desc lang="en">Espaço da RTP2 para os jovens até aos 18 anos. Mas aceitamos todas as idades!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229125300 +0000" stop="20181229125900 +0000" channel="RTP2">
+    <title lang="en">Wru?</title>
+    <desc lang="en">Vem conhecer os quatros cantos do mundo com as incríveis viagens de Alex e Tanya(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229125900 +0000" stop="20181229130600 +0000" channel="RTP2">
+    <title lang="en">Wru?</title>
+    <desc lang="en">Vem conhecer os quatros cantos do mundo com as incríveis viagens de Alex e Tanya(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229130600 +0000" stop="20181229142600 +0000" channel="RTP2">
+    <title lang="en">Vamos À Descoberta</title>
+    <desc lang="en">Um magazine juvenil da descoberta e da ciência(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229142600 +0000" stop="20181229150000 +0000" channel="RTP2">
+    <title lang="en">Encontra-me em Paris</title>
+    <desc lang="en">Série juvenil, filmada em alguns dos locais mais emblemáticos de Paris, com uma mistura única de bailado clássico, dança contemporânea, comédia e drama(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229150000 +0000" stop="20181229155800 +0000" channel="RTP2">
+    <title lang="en">Desporto 2</title>
+    <desc lang="en">O Desporto 2 é o espaço de todos os atletas de excelência(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229155800 +0000" stop="20181229180300 +0000" channel="RTP2">
+    <title lang="en">Basquetebol: Liga Portuguesa de Basquetebol Placard 2018/2019</title>
+    <desc lang="en">Imortal x FC Porto(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229180300 +0000" stop="20181229182500 +0000" channel="RTP2">
+    <title lang="en">What´s Up  - Olhar a Moda</title>
+    <desc lang="en">What´s Up - Olhar a Moda, um magazine quinzenal sobre a moda, calçado e lifestyle em Portugal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229182500 +0000" stop="20181229202100 +0000" channel="RTP2">
+    <title lang="en">O Comissário Montalbano</title>
+    <desc lang="en">Segunda temporada da história de Salvo Montalbano, famoso detetive siciliano na cidade de Vigata(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229202100 +0000" stop="20181229211900 +0000" channel="RTP2">
+    <title lang="en">Concerto de Natal 2017</title>
+    <desc lang="en">Concerto de Natal na Basílica do Palácio de Mafra com a participação do coro da Academia de Música de Santa Cecília(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229211900 +0000" stop="20181229213000 +0000" channel="RTP2">
+    <title lang="en">Memória Fotográfica</title>
+    <desc lang="en">25 de Abril(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229213000 +0000" stop="20181229221400 +0000" channel="RTP2">
+    <title lang="en">Jornal 2</title>
+    <desc lang="en">João Fernando Ramos, Daniel Catalão e Fátima Araújo dão-lhe o essencial da informação com rigor e objetividade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229221400 +0000" stop="20181230005500 +0000" channel="RTP2">
+    <title lang="en">A Favorita</title>
+    <desc lang="en">Ópera do compositor italiano Gaetano Donizetti com a aclamada meio-soprano Elina Garanca na Ópera do Estado da Baviera(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070000 +0000" stop="20181229073000 +0000" channel="RTP3">
+    <title lang="en">África 7 Dias</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229073000 +0000" stop="20181229080000 +0000" channel="RTP3">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229084000 +0000" channel="RTP3">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229084000 +0000" stop="20181229103500 +0000" channel="RTP3">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229103500 +0000" stop="20181229110000 +0000" channel="RTP3">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e seus autores num programa apresentado por Ana Daniela Soares e Inês Fonseca Santos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229110000 +0000" stop="20181229111000 +0000" channel="RTP3">
+    <title lang="en">3 às 11</title>
+    <desc lang="en">Notícias de manhã(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229111000 +0000" stop="20181229114500 +0000" channel="RTP3">
+    <title lang="en">Visita Guiada</title>
+    <desc lang="en">Nova temporada do programa com autoria e apresentação de Paula Moura Pinheiro que faz uma visita guiada ao património cultural português(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229114500 +0000" stop="20181229120000 +0000" channel="RTP3">
+    <title lang="en">Fotobox</title>
+    <desc lang="en">Fotobox é um programa de fotografia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229120000 +0000" stop="20181229142500 +0000" channel="RTP3">
+    <title lang="en">JORNAL DAS 12</title>
+    <desc lang="en">Informação do País e do Mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229142500 +0000" stop="20181229150000 +0000" channel="RTP3">
+    <title lang="en">Olhar o Mundo</title>
+    <desc lang="en">Um espaço de reflexão sobre os principais assuntos da semana a nível internacional, com coordenação e apresentação de António Mateus(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229150000 +0000" stop="20181229151500 +0000" channel="RTP3">
+    <title lang="en">3 às 15</title>
+    <desc lang="en">Notícias do país e do mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229151500 +0000" stop="20181229163000 +0000" channel="RTP3">
+    <title lang="en">Especial 3</title>
+    <desc lang="en">Fifa World Cup(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229163000 +0000" stop="20181229170000 +0000" channel="RTP3">
+    <title lang="en">3 às 16</title>
+    <desc lang="en">Notícias do país e do Mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229170000 +0000" stop="20181229173000 +0000" channel="RTP3">
+    <title lang="en">3 às 17</title>
+    <desc lang="en">Notícias do País e do Mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229173000 +0000" stop="20181229180000 +0000" channel="RTP3">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os grandes temas que preocupam os cidadãos europeus em debate, semanalmente(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229180000 +0000" stop="20181229184500 +0000" channel="RTP3">
+    <title lang="en">3 às 18</title>
+    <desc lang="en">Notícias do dia de Portugal e do Mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229184500 +0000" stop="20181229190000 +0000" channel="RTP3">
+    <title lang="en">Volta ao Mundo</title>
+    <desc lang="en">Viagens à Volta do Mundo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229190000 +0000" stop="20181229194500 +0000" channel="RTP3">
+    <title lang="en">3 às 19</title>
+    <desc lang="en">Informação de Portugal e do Mundo(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229194500 +0000" stop="20181229200000 +0000" channel="RTP3">
+    <title lang="en">Futsal</title>
+    <desc lang="en">Futsal, uma modalidade que cresce a olhos vistos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229200000 +0000" stop="20181229210000 +0000" channel="RTP3">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">Simultâneo com RTP 1(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210000 +0000" stop="20181229234000 +0000" channel="RTP3">
+    <title lang="en">360</title>
+    <desc lang="en">Os vários ângulos da notícia..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229234000 +0000" stop="20181230000000 +0000" channel="RTP3">
+    <title lang="en">De Lisboa a Helsínquia</title>
+    <desc lang="en">Uma viagem por várias regiões da Europa(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070000 +0000" stop="20181229071000 +0000" channel="RTP Memória">
+    <title lang="en">República das Perguntas</title>
+    <desc lang="en">Uma série educativa de grande qualidade, imaginada e desenhada por uma vasta equipa coordenada por Teresa Paixão(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229071000 +0000" stop="20181229073500 +0000" channel="RTP Memória">
+    <title lang="en">Príncipes do Nada</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229073500 +0000" stop="20181229080000 +0000" channel="RTP Memória">
+    <title lang="en">Salvador</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229083000 +0000" channel="RTP Memória">
+    <title lang="en">Viajar é Preciso</title>
+    <desc lang="en">Madeira, Canárias, Cabo Verde e Marrocos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229083000 +0000" stop="20181229085500 +0000" channel="RTP Memória">
+    <title lang="en">Isto é Magia</title>
+    <desc lang="en">Ilusão e magia num espectáculo com Luís de Matos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229085500 +0000" stop="20181229093000 +0000" channel="RTP Memória">
+    <title lang="en">Só... Riso</title>
+    <desc lang="en">Um festival de anedotas(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229093000 +0000" stop="20181229095500 +0000" channel="RTP Memória">
+    <title lang="en">Nico d´Obra</title>
+    <desc lang="en">As peripécias vividas por dois casais vizinhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229095500 +0000" stop="20181229100100 +0000" channel="RTP Memória">
+    <title lang="en">Dora e Dário</title>
+    <desc lang="en">Os cromos de Ana Bola e Víctor de Sousa no seu melhor(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229100100 +0000" stop="20181229110000 +0000" channel="RTP Memória">
+    <title lang="en">Conta-me Como Foi</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229110000 +0000" stop="20181229112900 +0000" channel="RTP Memória">
+    <title lang="en">Os Melhores Anos</title>
+    <desc lang="en">Os problemas inerentes à juventude..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229112900 +0000" stop="20181229115900 +0000" channel="RTP Memória">
+    <title lang="en">Elsa</title>
+    <desc lang="en">Elsa, uma entusiástica assistente social, tem de conviver com os problemas do centro onde trabalha e com os do seu filho adolescente(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229115900 +0000" stop="20181229123600 +0000" channel="RTP Memória">
+    <title lang="en">Verão Quente</title>
+    <desc lang="en">Corrupção e luta num negócio de muito dinheiro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229123600 +0000" stop="20181229135700 +0000" channel="RTP Memória">
+    <title lang="en">TV Rural</title>
+    <desc lang="en">Um magazine para os agricultores e pecuários, do Engº. Sousa Veloso, uma figura eterna na memória dos portugueses(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229135700 +0000" stop="20181229150000 +0000" channel="RTP Memória">
+    <title lang="en">Casino Royal</title>
+    <desc lang="en">Uma espetacular série, impregnada de humor hilariante(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229150000 +0000" stop="20181229164500 +0000" channel="RTP Memória">
+    <title lang="en">Matrimónio à Italiana</title>
+    <desc lang="en">Uma irresistível comédia de Vittorio De Sica, com Sophia Loren e Marcello Mastroianni sobre as atribulações de uma mulher que tenta por todos os meios levar o seu amante dos últimos 20 anos ao altar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229164500 +0000" stop="20181229182200 +0000" channel="RTP Memória">
+    <title lang="en">Repórter X</title>
+    <desc lang="en">O Repórter X na senda do crime(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229182200 +0000" stop="20181229184500 +0000" channel="RTP Memória">
+    <title lang="en">Helena Num Acto</title>
+    <desc lang="en">Na sua cadeira de baloiço, na varanda da casa, Helena espera pelo seu neto Jaime numa fria véspera de Natal..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229184500 +0000" stop="20181229194500 +0000" channel="RTP Memória">
+    <title lang="en">Traz prá Frente</title>
+    <desc lang="en">Reciclamos o Cartaz TV e trazemos para a frente um debate divertido, mas doutorado, sobre o imaginário da televisão(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229194500 +0000" stop="20181229201600 +0000" channel="RTP Memória">
+    <title lang="en">Major Alvega</title>
+    <desc lang="en">Adaptação para televisão do famoso herói de Banda Desenhada(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229201600 +0000" stop="20181229210200 +0000" channel="RTP Memória">
+    <title lang="en">Portugueses Pelo Mundo</title>
+    <desc lang="en">Veneza(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210200 +0000" stop="20181229213000 +0000" channel="RTP Memória">
+    <title lang="en">Elogio da Leitura</title>
+    <desc lang="en">Em todos os programas, um escritor fala-nos sobre os seus livros e o dos outros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229213000 +0000" stop="20181229230000 +0000" channel="RTP Memória">
+    <title lang="en">Norte e Sul</title>
+    <desc lang="en">Capítulo final da saga entre duas famílias do Norte e Sul, durante a Guerra Civil Americana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229230000 +0000" stop="20181230003600 +0000" channel="RTP Memória">
+    <title lang="en">Inesquecível</title>
+    <desc lang="en">Célia Lawson e tributo a Helena Ramos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229060000 +0000" stop="20181229062800 +0000" channel="RTP África">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Zonas Oceânicas Sem Oxigénio(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229062800 +0000" stop="20181229070000 +0000" channel="RTP África">
+    <title lang="en">África 7 Dias</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070000 +0000" stop="20181229073300 +0000" channel="RTP África">
+    <title lang="en">Rumos</title>
+    <desc lang="en">Especial Fim de Ano(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229073300 +0000" stop="20181229080000 +0000" channel="RTP África">
+    <title lang="en">Histórias de Mar</title>
+    <desc lang="en">Sal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229112800 +0000" channel="RTP África">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229112800 +0000" stop="20181229120000 +0000" channel="RTP África">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229120000 +0000" stop="20181229123100 +0000" channel="RTP África">
+    <title lang="en">Escola do Agricultor, Eu Sou Por Moçambique</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229123100 +0000" stop="20181229130000 +0000" channel="RTP África">
+    <title lang="en">Uma Mesa Portuguesa Com Certeza... Em Portugal</title>
+    <desc lang="en">Portalegre(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229130000 +0000" stop="20181229151300 +0000" channel="RTP África">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229151300 +0000" stop="20181229163800 +0000" channel="RTP África">
+    <title lang="en">Conversas ao Sul</title>
+    <desc lang="en">Especial Natal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229163800 +0000" stop="20181229174000 +0000" channel="RTP África">
+    <title lang="en">Causa e Efeito</title>
+    <desc lang="en">Repatriamento de Capitais em Angola / Situação RD Congo / Situação Política na GB(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229174000 +0000" stop="20181229180800 +0000" channel="RTP África">
+    <title lang="en">Histórias de Mar</title>
+    <desc lang="en">Sal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229180800 +0000" stop="20181229195900 +0000" channel="RTP África">
+    <title lang="en">A Família Ventura</title>
+    <desc lang="en">Uma família portuguesa no Natal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229195900 +0000" stop="20181229210100 +0000" channel="RTP África">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210100 +0000" stop="20181229215600 +0000" channel="RTP África">
+    <title lang="en">Terra de Todos, Terra de Alguns</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229215600 +0000" stop="20181229224900 +0000" channel="RTP África">
+    <title lang="en">Kintal di Belinha</title>
+    <desc lang="en">Cremilda Medina(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229224900 +0000" stop="20181229230500 +0000" channel="RTP África">
+    <title lang="en">Cuidado com a Língua!</title>
+    <desc lang="en">Enologia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229230500 +0000" stop="20181230000000 +0000" channel="RTP África">
+    <title lang="en">Donos Disto Tudo</title>
+    <desc lang="en">Programa de rábulas variadas com artistas de rir a valer(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229063000 +0000" stop="20181229073200 +0000" channel="RTP Internacional">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229073200 +0000" stop="20181229080000 +0000" channel="RTP Internacional">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Mosquitos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229110600 +0000" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">Um programa de informação nas manhãs do seu fim de semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229110600 +0000" stop="20181229143600 +0000" channel="RTP Internacional">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Póvoa de Varzim(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229143600 +0000" stop="20181229210000 +0000" channel="RTP Internacional">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Póvoa de Varzim(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210000 +0000" stop="20181229211800 +0000" channel="RTP Internacional">
+    <title lang="en">De Lisboa a Helsínquia</title>
+    <desc lang="en">Uma viagem por várias regiões da Europa(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229211800 +0000" stop="20181229221500 +0000" channel="RTP Internacional">
+    <title lang="en">Donos Disto Tudo</title>
+    <desc lang="en">Programa de rábulas variadas com artistas de rir a valer(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229221500 +0000" stop="20181229230600 +0000" channel="RTP Internacional">
+    <title lang="en">3 Mulheres</title>
+    <desc lang="en">3 Mulheres de palavra fazem revolução(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229230600 +0000" stop="20181229235200 +0000" channel="RTP Internacional">
+    <title lang="en">Network Negócios</title>
+    <desc lang="en">João Rôlo Couture e Valentim Quaresma(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229235200 +0000" stop="20181230000000 +0000" channel="RTP Internacional">
+    <title lang="en">Ideias &amp; Companhias</title>
+    <desc lang="en">Um programa de ideias e oportunidades na RTP3(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229055500 +0000" stop="20181229070500 +0000" channel="RTP Açores">
+    <title lang="en">30.000 Anos</title>
+    <desc lang="en">Um documentário sobre o Museu do Côa e todo o impacto destes últimos anos na região(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229070500 +0000" stop="20181229073000 +0000" channel="RTP Açores">
+    <title lang="en">Paraíso</title>
+    <desc lang="en">Matilde Menezes Ferreira é a apresentadora de Paraíso e vai guiar-nos pelos jardins de Portugal, para que por eles nos apaixonemos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229073000 +0000" stop="20181229080000 +0000" channel="RTP Açores">
+    <title lang="en">Visita Guiada</title>
+    <desc lang="en">Conhecer o Património Cultural português(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229080000 +0000" stop="20181229173000 +0000" channel="RTP Açores">
+    <title lang="en">RTP3 / RTP Açores</title>
+    <desc lang="en">RTP Açores simultâneo RTP 3(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229173000 +0000" stop="20181229173500 +0000" channel="RTP Açores">
+    <title lang="en">TecNet</title>
+    <desc lang="en">Magazine semanal sobre tecnologia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229173500 +0000" stop="20181229182000 +0000" channel="RTP Açores">
+    <title lang="en">As Receitas Lá de Casa</title>
+    <desc lang="en">Duas duplas de amigos ou familiares defrontam-se para provarem que são absolutamente imbatíveis na cozinha(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229182000 +0000" stop="20181229200000 +0000" channel="RTP Açores">
+    <title lang="en">Magia ao Luar</title>
+    <desc lang="en">Cinema(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229200000 +0000" stop="20181229203500 +0000" channel="RTP Açores">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229203500 +0000" stop="20181229231000 +0000" channel="RTP Açores">
+    <title lang="en">Circo de Natal</title>
+    <desc lang="en">Circo de Natal RTP na arena de Victor Hugo Cardinali(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229231000 +0000" stop="20181229235000 +0000" channel="RTP Açores">
+    <title lang="en">Backstage</title>
+    <desc lang="en">David Fonseca(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229235000 +0000" stop="20181230000000 +0000" channel="RTP Açores">
+    <title lang="en">A Cidade na Ponta dos Dedos</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229063000 +0000" stop="20181229193000 +0000" channel="RTP Madeira">
+    <title lang="en">RTP 3 (Madeira)</title>
+    <desc lang="en">Emissão em simultâneo com a RTP 3(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229193000 +0000" stop="20181229210000 +0000" channel="RTP Madeira">
+    <title lang="en">Atlântida - Madeira 2018</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229210000 +0000" stop="20181229215000 +0000" channel="RTP Madeira">
+    <title lang="en">Telejornal Madeira</title>
+    <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229215000 +0000" stop="20181229222000 +0000" channel="RTP Madeira">
+    <title lang="en">Ano em Revista 2018</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229222000 +0000" stop="20181229233000 +0000" channel="RTP Madeira">
+    <title lang="en">Marino Regressa à Ilha</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20181229233000 +0000" stop="20181230000000 +0000" channel="RTP Madeira">
+    <title lang="en">Telejornal Madeira</title>
+    <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+</tv>
