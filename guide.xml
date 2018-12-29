@@ -2,399 +2,395 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Das Erste">
     <display-name lang="de">Das Erste</display-name>
-    <url>http://www.tvtoday.de</url>
+    <icon src="https://senderlogos.images.dvbdata.com/302x190_w/71.png" />
+    <url>http://www.tvdigital.de</url>
   </channel>
-  <programme start="20181229043000 +0000" stop="20181229045500 +0000" channel="Das Erste">
+  <programme start="20181229053000 +0100" stop="20181229055500 +0100" channel="Das Erste">
     <title lang="de">Willi wills wissen</title>
     <sub-title lang="de">Kommt, lasst uns tanzen gehen</sub-title>
-    <desc lang="de">Reporter Willi schwingt das Tanzbein. Feierlich, cool, klassisch: Es gibt verschiedene Arten und Anlässe zu tanzen – Hauptsache, es macht Spaß! Bei Willis erster Station, dem Chrysanthemenball in München, geht es sehr stilvoll zu. Willi bekommt von Tanzlehrer Savas sogar einen Frack mit Fliege zum Anziehen. Die letzten Vorbereitungen für den Ball sind in vollem Gange, und Willi darf mit Tanzpartnerin Monika und den anderen 15 Paaren bei der Generalprobe einmarschieren. Die Mädchen tragen weiße lange Kleider und die Jungs einen Frack mit Lackschuhen. Apropos Lackschuhe: Was machen Willis Turnschuhe noch an seinen Füßen? Damit man seinem Tanzpartner nicht auf die Füße tritt, muss man schon eine Weile üben. Beim Paartanz führt der Mann, erklärt Tanzlehrerin Sarah dem Reporter bei Disco Fox und Jive. Geht doch schon ganz gut, Willi!&lt;br /&gt;
-In Sarahs Hip-Hop-Kurs besteht weniger die Gefahr, einander auf die Füße zu treten, dafür geht dem Reporter aber bald die Puste aus. Willi staunt, wie anstrengend es ist, die Bewegungen schnell und exakt auszuführen. Die Mädchen zeigen Willi ein paar Bewegungen, die Willi tapfer übt. Jetzt nur noch cool dabei aussehen Willi, und alles passt!&lt;br /&gt;
-Viele Menschen tanzen nur zu besonderen Gelegenheiten und zum Spaß, etwa wenn es etwas zu feiern gibt. Andere tanzen jeden Tag, weil es ihr Beruf ist. So wie die Mitglieder des Bayerischen Staatsballetts in München. Willi schaut beim Ballett-Training vorbei und darf gleich die Übungen an der Stange mitmachen. So hoch soll er das Bein in die Luft bringen? Und auch noch durchgestreckt? Keine Chance! Doch geduldig erklären und zeigen der Direktor des Staatsballetts, Ivan Liska, und die Mitglieder der Compagnie dem Reporter, was man als Profi-Spitzentänzer draufhaben muss.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
-    <credits>
-      <director>Arne Sinnwell</director>
-    </credits>
+    <desc lang="de">Kommt, lasst uns tanzen gehen - Reporter Willi schwingt das Tanzbein. Feierlich, cool, klassisch: Es gibt verschiedene Arten und Anlässe zu tanzen - Hauptsache, es macht Spaß! Bei Willis erster Station, dem Chrysanthemenball in München, geht es sehr stilvoll zu. Willi bekommt von Tanzlehrer Savas sogar einen Frack mit Fliege zum Anziehen. Die letzten Vorbereitungen für den Ball sind in vollem Gange, und Willi darf mit Tanzpartnerin Monika und den anderen 15 Paaren bei der Generalprobe einmarschieren. Die Mädchen tragen weiße lange Kleider und die Jungs einen Frack mit Lackschuhen. Apropos Lackschuhe: Was machen Willis Turnschuhe noch an seinen Füßen? Damit man seinem Tanzpartner nicht auf die Füße tritt, muss man schon eine Weile üben. Beim Paartanz führt der Mann, erklärt Tanzlehrerin Sarah dem Reporter bei Disco Fox und Jive. Geht doch schon ganz gut, Willi! In Sarahs Hip-Hop-Kurs besteht weniger die Gefahr, einander auf die Füße zu treten, dafür geht dem Reporter aber bald die Puste aus. Willi staunt, wie anstrengend es ist, die Bewegungen schnell und exakt auszuführen. Die Mädchen zeigen Willi ein paar Bewegungen, die Willi tapfer übt. Jetzt nur noch cool dabei aussehen Willi, und alles passt! Viele Menschen tanzen nur zu besonderen Gelegenheiten und zum Spaß, etwa wenn es etwas zu feiern gibt. Andere tanzen jeden Tag, weil es ihr Beruf ist. So wie die Mitglieder des Bayerischen Staatsballetts in München. Willi schaut beim Ballett-Training vorbei und darf gleich die Übungen an der Stange mitmachen. So hoch soll er das Bein in die Luft bringen? Und auch noch durchgestreckt? Keine Chance! Doch geduldig erklären und zeigen der Direktor des Staatsballetts, Ivan Liska, und die Mitglieder der Compagnie dem Reporter, was man als Profi-Spitzentänzer draufhaben muss(n)</desc>
     <date>2008</date>
+    <category lang="de">Serie</category>
     <category lang="de">Kinderreportage</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1051053/1051053_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229045500 +0000" stop="20181229061000 +0000" channel="Das Erste">
-    <title lang="de">Das Rotkäppchen-Ultimatum</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Mike Disa</director>
-    </credits>
-    <date>2009</date>
-  </programme>
-  <programme start="20181229061000 +0000" stop="20181229063500 +0000" channel="Das Erste">
+  <programme start="20181229071000 +0100" stop="20181229073500 +0100" channel="Das Erste">
     <title lang="de">Paula und die wilden Tiere</title>
     <sub-title lang="de">Der Luchs im Schnee</sub-title>
-    <desc lang="de">Katzen haben Angst vor Wasser? Typischer Fall von "Denkste": Der Luchs, die größte Raubkatze Europas, hat damit überhaupt keine Probleme, im Gegenteil: Schnee und Eis sind genau ihre Welt und wenn das Futter im Wasser schwimmt, dann springt der Luchs einfach hinterher.&lt;br /&gt;
-Paula nimmt die Zuschauer mit in den Harz, ins Reich der Luchse, der größten europäischen Wildkatzenart. Einen Luchs in freier Wildbahn zu sehen, das ist inzwischen wie ein Sechser im Lotto. Denn die Tiere wurden erbarmungslos gejagt und sind nach wie vor vom Aussterben bedroht. Zusammen mit dem Luchsforscher Ole Anders macht sich Paula auf zu einem Gehege, in dem die "Pinselohren" heute geschützt leben können. Trotz des Schnees sind die Tiere so gut getarnt, dass Paula den Luchs erst sieht, als Ole ihr die Richtung zeigt. Paula darf auch bei der Raubtierfütterung helfen. Ole erklärt, wie man einzelne Luchse voneinander unterscheiden kann – und nach wem Luchsweibchen Pamina so laut "Hallo" ruft. Auch außerhalb der Schutzstation gehen Ole und Paula auf Luchssuche. Welchen Aufwand so eine Suche mit sich bringt, erfährt Paula am eigenen Leib: Kilometerweit müssen Ausrüstung, Sender, Antenne und automatische Kameras geschleppt werden. Aber dann entdecken sie sogar wilde Luchse! Die mitgebrachten Kameras ermöglichen den Zuschauern, den Luchsen im Harz gemütlich von daheim aus auf Schritt und Tritt zu folgen. Paula nimmt die Zuschauer mit auf eine abenteuerliche Reise durch die heimliche Welt des Luchses, der Samtpfote mit den Pinselohren.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
+    <desc lang="de">Der Luchs im Schnee - Der Luchs im Schnee: Katzen haben Angst vor Wasser - denkste! Die größte Raubkatze Europas hat damit überhaupt keine Probleme. Schnee und Eis sind ihre Welt und wenn das Futter im Wasser schwimmt, dann springt der Luchs einfach hinterher. Paula nimmt uns mit in den Harz, ins Reich der Luchse, der größten europäischen Wildkatzenart. Einen Luchs in freier Wildbahn zu sehen ist wie ein Sechser im Lotto: Die Tiere wurden erbarmungslos gejagt und sind vom Aussterben bedroht. Zusammen mit dem Luchsforscher Ole Anders macht sich Paula auf zu einem Gehege, in dem die "Pinselohren" heute geschützt leben können. Trotz des Schnees sind die Tiere so gut getarnt, dass Paula erst einen Luchs sieht als Ole ihr zeigt wohin sie schauen muss. Paula darf sogar bei der Raubtierfütterung helfen. Sie und die Zuschauer lernen von Ole wie man einzelne Luchse voneinander unterscheiden kann und nach wem das Luchsweibchen Pamina laut "Hallo" ruft. Auch außerhalb der Schutzstation gehen die beiden auf Luchssuche. Den Aufwand, den so eine Suche mit sich bringt, erfährt Paula am eigenen Leib: Sie hilft Ole seine Ausrüstung, Sender, Antenne und automatische Kameras kilometerweit zu schleppen. Und dann entdecken sie sogar wilde Luchse! Die mitgebrachte Ausrüstung ermöglicht allen zuhause den Luchsen im Harz auf Schritt und Tritt zu folgen (www.br.de/Paula). Paula nimmt die Zuschauer mit auf eine abenteuerliche Reise durch die heimliche Welt des "Löwen" Europas, der Samtpfote mit den Pinselohren, des Luchses(n)</desc>
     <credits>
-      <director>Christiane Streckfuß, Sylvia Obst</director>
+      <director>Christiane Streckfuß</director>
     </credits>
     <date>2012</date>
-    <category lang="de">Tierreportage</category>
+    <category lang="de">Information</category>
+    <category lang="de">Tierreihe</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1052136/1052136_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229063500 +0000" stop="20181229065000 +0000" channel="Das Erste">
+  <programme start="20181229073500 +0100" stop="20181229075000 +0100" channel="Das Erste">
     <title lang="de">Anna und die Haustiere</title>
     <sub-title lang="de">Islandpferd</sub-title>
-    <desc lang="de">Islandpferde haben lange dichte Mähnen und sehen ziemlich knuffig aus. Anna weiß aber, dass noch viel mehr in diesen Pferden steckt. Sie beherrschen nämlich außer Schritt, Trab und Galopp noch zwei weitere Gangarten: Tölt und Rennpass. Die lässt sich Anna auf Sebastians Isländerhof bei Friedberg zeigen. Außerdem erfährt sie, dass Isländer das ganze Jahr über draußen im Freien gehalten werden. Minusgrade und Schneestürme machen diesen Pferden gar nichts aus, weil ihr dichtes Winterfell sie schützt. Islandpferde sind nicht nur robust, sondern auch sehr freundlich und gelassen. Da traut sich Anna sogar, bei einem zirkusreifen Kunststück mitzumachen.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
+    <desc lang="de">Islandpferd - Islandpferde haben lange dichte Mähnen und sehen ziemlich knuffig aus. Anna weiß aber, dass noch viel mehr in diesen Pferden steckt. Sie beherrschen nämlich außer Schritt, Trab und Galopp noch zwei weitere Gangarten: Tölt und Rennpass. Die lässt sich Anna auf Sebastians Isländerhof bei Friedberg zeigen. Außerdem erfährt sie, dass Isländer das ganze Jahr über draußen im Freien gehalten werden. Minusgrade und Schneestürme machen diesen Pferden gar nichts aus, weil ihr dichtes Winterfell sie schützt. Islandpferde sind nicht nur robust, sondern auch sehr freundlich und gelassen. Da traut sich Anna sogar, bei einem zirkusreifen Kunststück mitzumachen(n)</desc>
     <date>2018</date>
-    <category lang="de">Dokureihe</category>
+    <category lang="de">Information</category>
+    <category lang="de">Tier-Reportage</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/9847_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229065000 +0000" stop="20181229071500 +0000" channel="Das Erste">
+  <programme start="20181229075000 +0100" stop="20181229081500 +0100" channel="Das Erste">
     <title lang="de">Checker Can</title>
     <sub-title lang="de">Der Tanz-Check</sub-title>
-    <desc lang="de">Diesmal schwingt Checker Can das Tanzbein. Los geht's mit Spitzen-Tänzern und Tänzerinnen beim klassischen Ballett am Münchner Gärtnerplatztheater. Bei den Proben für Tschaikowskis wunderbares Ballett "Der Nussknacker" löchert Can die Ballerinas und Ballerinos mit jeder Menge Fragen: Wie tanzt man auf der Spitze? Was macht ein Choreograph? Was ist eigentlich eine Pirouette? Nebenbei testet Can auch noch, wie weit er sein Bein nach oben strecken kann – und wie er dabei aussieht.&lt;br /&gt;
-Zu modernen Klängen bewegen sich die Jungs vom Step2Diz, einer bekannten Breakdance-Gruppe. Aloun und seine Freunde können Pirouetten sogar auf dem Kopf tanzen, und Can lernt, wie ein "Two Step" funktioniert. Dann brachte Can auch noch eine Checker-Frage an: Was hat Breakdance mit dem brasilianischen Kampftanz Capoeira zu tun?&lt;br /&gt;
-In der Heimatstadt des Wiener Walzers lernt Can, wie man sich elegant auf der Tanzfläche dreht. Seine neuen Fähigkeiten stellt er gleich unter Beweis: auf dem Rotkreuzball im prachtvollen Wiener Rathaus. Standesgemäß mit Frack und Zylinder. Endlich heißt es: alles Walzer! Ob Can Schritt halten kann?&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
-    <category lang="de">Wissensmagazin</category>
+    <desc lang="de">Der Tanz-Check - Heute schwingt Checker Can das Tanzbein! Los geht's mit Spitzen-Tänzern beim klassischen Ballett am Münchner Gärtnerplatztheater. Bei den Proben zum Nussknacker löchert Can die Ballerinas und Ballerinos mit jeder Menge Fragen: Wie tanzt man auf der Spitze? Was macht ein Choreograph? Und was ist eigentlich eine Pirouette? Nebenbei testet Can auch noch, wie weit er sein Bein nach oben strecken kann. Zu modernen Klängen bewegen sich die Jungs vom Step2Diz, einer bekannten Breakdance-Gruppe. Aloun und seine Freunde können Pirouetten sogar auf dem Kopf tanzen, und Can lernt, wie ein "Two Step" funktioniert. Da hatte Can doch auch noch eine Checker-Frage: Was hat Breakdance mit dem brasilianischen Kampftanz Capoeira zu tun? In der Heimatstadt des Wiener Walzers lernt Can, wie man sich elegant auf der Tanzfläche dreht. Seine neuen Fähigkeiten stellt er gleich unter Beweis: auf dem Rotkreuzball im prachtvollen Wiener Rathaus. Standesgemäß mit Frack und Zylinder. Endlich heißt es: Alles Walzer! Ob Can Schritt halten kann(n)</desc>
+    <credits>
+      <director>Martin Tischner</director>
+      <presenter>Can Mansuroglu</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="de">Information</category>
+    <category lang="de">Kindermagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6663386/6663386_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229071500 +0000" stop="20181229072500 +0000" channel="Das Erste">
+  <programme start="20181229081500 +0100" stop="20181229082500 +0100" channel="Das Erste">
     <title lang="de">neuneinhalb</title>
-    <sub-title lang="de">Faszination Feuerwerk – Leuchtendes Spektakel oder unnötiger Krachmacher?</sub-title>
-    <desc lang="de">Raketen, Knaller, Kanonenschläge – jedes Jahr geht an Silvester pünktlich um 0:00 Uhr das große Feuerwerksspektakel los und der Himmel leuchtet in den schillerndsten Farben. Ein teurer Spaß. Allein in Deutschland geben die Menschen jedes Jahr viele Millionen Euro für Raketen und Böller aus! Jana will rausfinden, warum das Silvesterfeuerwerk für die einen ein echtes Highlight ist, für andere aber auch ein großes Ärgernis. Außerdem besucht sie den Feuerwerksexperten Clemens, mit dem sie ein professionelles Testfeuerwerk planen und abfeuern darf. Welche Überraschung erwartet sie dabei? Und wie geht man sicher mit Feuerwerkskörpern um? Das und mehr zeigt diese Folge von "neuneinhalb".&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
-    <category lang="de">Magazin</category>
+    <sub-title lang="de">Faszination Feuerwerk - Leuchtendes Spektakel oder unnötiger Krachmacher?</sub-title>
+    <desc lang="de">Faszination Feuerwerk - Leuchtendes Spektakel oder unnötiger Krachmacher? - Raketen, Knaller, Kanonenschläge - jedes Jahr geht an Silvester pünktlich um 0:00 Uhr das große Feuerwerksspektakel los und der Himmel leuchtet in den schillerndsten Farben. Ein teurer Spaß. Allein in Deutschland geben die Menschen jedes Jahr viele Millionen Euro für Raketen und Böller aus! Jana will rausfinden, warum das Silvesterfeuerwerk für die einen ein echtes Highlight ist, für andere aber auch ein großes Ärgernis. Außerdem besucht sie den Feuerwerksexperten Clemens, mit dem sie ein professionelles Testfeuerwerk planen und abfeuern darf. Welche Überraschung erwartet sie dabei? Und wie geht man sicher mit Feuerwerkskörpern um? Das und mehr zeigt diese Folge von "neuneinhalb"(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Kindernachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056629/1056629_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229072500 +0000" stop="20181229075000 +0000" channel="Das Erste">
+  <programme start="20181229082500 +0100" stop="20181229085000 +0100" channel="Das Erste">
     <title lang="de">Die Pfefferkörner</title>
     <sub-title lang="de">Der doppelte Willie</sub-title>
-    <desc lang="de">Durch Zufall entdecken die Hamburger Spürnasen ein geheimes Labor, in dem Hunde geklont werden. Auch Promi Jorge González („Let’s Dance“) möchte seinen Hund Willie so unsterblich werden lassen: „Der doppelte Willie“. Danach geht es zweimal um (angeblichen) Diebstahl. „Tankstopp“ und „Stille Nacht“.  Die letzten drei Folgen &lt;div&lt;p class="main-copy"&gt; (Staffel 15, Folge 11)(n)</desc>
+    <desc lang="de">Der doppelte Willie - Bei den Pfefferkörnern geht es spannend zu: Drei Mädchen und zwei Jungen kämpfen gegen Gangster und Ganoven in der Hamburger Speicherstadt und lösen so manchen Kriminalfall(n)</desc>
     <credits>
       <director>Felix Ahrens</director>
+      <actor>Ronja Levis</actor>
+      <actor>Moritz Pauli</actor>
+      <actor>Marlene von Appen</actor>
+      <actor>Samuel Adams</actor>
+      <actor>Spencer König</actor>
+      <writer>Catharina Junk</writer>
     </credits>
     <date>2018</date>
-    <category lang="de">Krimiserie</category>
-    <episode-num>Staffel 15, Folge 11</episode-num>
+    <category lang="de">Serie</category>
+    <category lang="de">Kinderkrimiserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/2222509/2222509_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229075000 +0000" stop="20181229082000 +0000" channel="Das Erste">
+  <programme start="20181229085000 +0100" stop="20181229092000 +0100" channel="Das Erste">
     <title lang="de">Die Pfefferkörner</title>
     <sub-title lang="de">Tankstopp</sub-title>
-    <desc lang="de">Imke und Krissi Grevemeyer fallen aus allen Wolken, als ein Polizist vor ihrer Tür steht. Ein Tankwart behauptet doch glatt, sie hätten getankt und seien weggefahren, ohne zu bezahlen. Er hat sie angezeigt. Für den Polizisten ist die Sache glasklar: Fahrzeugtyp, Autofarbe und Kfz-Kennzeichen stimmen überein. Da nicht zu erwarten ist, dass die Polizei nach anderen Spuren sucht, übernehmen die Pfefferkörner. Die Ermittlung gestaltet sich allerdings schwierig, da sie unterbesetzt sind. Tayo und Femi sind einfach nicht zu erreichen. Wie dramatisch die Gründe dafür sind, erfahren ihre Freunde erst, als es schon fast zu spät ist.&lt;div&lt;p class="main-copy"&gt; (Staffel 15, Folge 12)(n)</desc>
+    <desc lang="de">Tankstopp - Imke und Krissi Grevemeyer fallen aus allen Wolken, als ein Polizist vor ihrer Tür steht. Ein Tankwart behauptet doch glatt, sie hätten getankt und seien weggefahren, ohne zu bezahlen. Er hat sie angezeigt. Für den Polizisten ist die Sache glasklar: Fahrzeugtyp, Autofarbe und Kfz-Kennzeichen stimmen überein. Da nicht zu erwarten ist, dass die Polizei nach anderen Spuren sucht, übernehmen die Pfefferkörner. Die Ermittlung gestaltet sich allerdings schwierig, da sie unterbesetzt sind. Tayo und Femi sind einfach nicht zu erreichen. Wie dramatisch die Gründe dafür sind, erfahren ihre Freunde erst, als es schon fast zu spät ist(n)</desc>
     <credits>
       <director>Felix Ahrens</director>
+      <actor>Ronja Levis</actor>
+      <actor>Moritz Pauli</actor>
+      <actor>Marlene von Appen</actor>
+      <actor>Samuel Adams</actor>
+      <actor>Spencer König</actor>
+      <writer>Catharina Junk</writer>
     </credits>
     <date>2018</date>
-    <category lang="de">Krimiserie</category>
-    <episode-num>Staffel 15, Folge 12</episode-num>
+    <category lang="de">Serie</category>
+    <category lang="de">Kinderkrimiserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7051392/7051392_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229082000 +0000" stop="20181229085000 +0000" channel="Das Erste">
+  <programme start="20181229092000 +0100" stop="20181229095000 +0100" channel="Das Erste">
     <title lang="de">Die Pfefferkörner</title>
     <sub-title lang="de">Stille Nacht</sub-title>
-    <desc lang="de">Tayo und Femi wollen sich unbedingt eine Ausstellung über das Weihnachtsfest und seine Bräuchen ansehen. Kira lässt sich schließlich breitschlagen mitzugehen. Vor Ort beobachtet Tayo, wie sich ein Weihnachtsmann an einem Ausstellungsstück zu schaffen macht und bei seiner Flucht eine wertvolle alte Christbaumkugel zerdeppert. Doch wer steht als der Schuldige da? Tayo! Um ihn zu entlasten, müssen die Pfefferkörner ermitteln. Zu ihrer Überraschung handelt es sich bei dem Ausstellungsstück um das Original von "Stille Nacht, Heilige Nacht". Ein olles Weihnachtslied im Zentrum eines Verbrechens?&lt;div&lt;p class="main-copy"&gt; (Staffel 15, Folge 13)(n)</desc>
+    <desc lang="de">Stille Nacht - Bei den Pfefferkörnern geht es spannend zu: Drei Mädchen und zwei Jungen kämpfen gegen Gangster und Ganoven in der Hamburger Speicherstadt und lösen so manchen Kriminalfall(n)</desc>
     <credits>
       <director>Felix Ahrens</director>
+      <actor>Ronja Levis</actor>
+      <actor>Moritz Pauli</actor>
+      <actor>Marlene von Appen</actor>
+      <actor>Samuel Adams</actor>
+      <actor>Spencer König</actor>
+      <writer>Catharina Junk</writer>
     </credits>
     <date>2018</date>
-    <category lang="de">Krimiserie</category>
-    <episode-num>Staffel 15, Folge 13</episode-num>
+    <category lang="de">Serie</category>
+    <category lang="de">Kinderkrimiserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/2222509/2222509_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229085000 +0000" stop="20181229085500 +0000" channel="Das Erste">
+  <programme start="20181229095000 +0100" stop="20181229095500 +0100" channel="Das Erste">
     <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
+    <sub-title lang="de">Mit Wetter</sub-title>
+    <desc lang="de">Mit Wetter - Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229085500 +0000" stop="20181229094000 +0000" channel="Das Erste">
+  <programme start="20181229095500 +0100" stop="20181229104000 +0100" channel="Das Erste">
     <title lang="de">Panda, Gorilla &amp; Co.</title>
-    <desc lang="de">Unter der Obhut von Reviertierpfleger Thomas Messinger wächst das kleine Ameisenbärkind Evita prächtig heran. Ganze vier Kilogramm ist es bereits schwer und damit groß genug, um auf dem Rücken von Mutter Griseline erste Ausflüge auf die sonnige Außenanlage zu unternehmen. Auch Okapimädchen Bashira ist in den letzten Wochen kräftig geworden. Kurz nach ihrer Geburt wog es 21,5 Kilogramm. Mittlerweile bringt Bashira das Sechsfache ihres Anfangsgewichts auf die Waage. Nur in puncto Huftraining will die kleine Waldgiraffe keine rechten Fortschritte machen.&lt;br /&gt;
-Für Brillenbärnachwuchs Rina geht's heute hoch hinaus: Mit knapp einem halben Jahr klettert sie schon wie eine Weltmeisterin bis in die höchsten Spitzen der Bäume. Ein ganz normaler Fluchtinstinkt bei Brillenbären, denn in den Wipfeln der Bäume sind sie so vor größeren Bären sicher.&lt;br /&gt;
-Turbulent geht es auch bei den Polarwölfen zu. Fünf Jungtiere machen hier die Anlage unsicher. Wolfsvater und Rudelführer Pelle nimmt's gelassen ...&lt;br /&gt;
-Nicht ganz so entspannt war die Situation in den letzten Tagen bei den Wasserschweineltern Lucia und Felipe. Sie müssen im Moment mit dem Verlust eines ihrer fünf Jungtiere klar kommen. Bei einem ihrer Ausflüge auf der großen Anlage war Mutter Lucia für einen Augenblick unaufmerksam und eines ihrer Kinder ist daraufhin in einer Erdhöhle verschwunden.&lt;br /&gt;
-Bei den Kretastachelmäusen soll dagegen der Bestand bewusst minimiert werden. In den letzten Monaten hat sich Population in der kleinen Vitrine nahezu verdreifacht. Für die Tierpfleger steht deshalb eine stressige Volkszählung bei den quirligen Nagetieren an.&lt;br /&gt;
-Viel Geduld muss Revierchefin Claudia Walther auch beim abendlichen Einsperrritual der Giraffen im Tierpark mitbringen. Jungbulle Max benötigt dazu besonders viel Zeit. Er schläft seit kurzem in der Box des verstorbenen Giraffenbullen Alex. Dem zwei Jahre alten Max ist das nicht ganz geheuer ...&lt;br /&gt;
-Außerdem in dieser Folge: Eisbären auf Sommerdiät, Futterexperimente bei den Orang-Utans und Spitzmaulnashorn Akili, das demnächst seinen ersten Geburtstag feiert.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
+    <sub-title lang="de">Geschichten aus dem Zoo Berlin und dem Tierpark Berlin</sub-title>
+    <desc lang="de">Geschichten aus dem Zoo Berlin und dem Tierpark Berlin - Unter der Obhut von Reviertierpfleger Thomas Messinger wächst das kleine Ameisenbärkind Evita prächtig heran. Ganze vier Kilogramm ist es bereits schwer und damit groß genug, um auf dem Rücken von Mutter Griseline erste Ausflüge auf die sonnige Außenanlage zu unternehmen. Auch Okapimädchen Bashira ist in den letzten Wochen kräftig geworden. Kurz nach ihrer Geburt wog es 21,5 Kilogramm. Mittlerweile bringt Bashira das Sechsfache ihres Anfangsgewichts auf die Waage. Nur in puncto Huftraining will die kleine Waldgiraffe keine rechten Fortschritte machen. Für Brillenbärnachwuchs Rina geht's heute hoch hinaus: Mit knapp einem halben Jahr klettert sie schon wie eine Weltmeisterin bis in die höchsten Spitzen der Bäume. Ein ganz normaler Fluchtinstinkt bei Brillenbären, denn in den Wipfeln der Bäume sind sie so vor größeren Bären sicher. Turbulent geht es auch bei den Polarwölfen zu. Fünf Jungtiere machen hier die Anlage unsicher. Wolfsvater und Rudelführer Pelle nimmt's gelassen - Nicht ganz so entspannt war die Situation in den letzten Tagen bei den Wasserschweineltern Lucia und Felipe. Sie müssen im Moment mit dem Verlust eines ihrer fünf Jungtiere klar kommen. Bei einem ihrer Ausflüge auf der großen Anlage war Mutter Lucia für einen Augenblick unaufmerksam und eines ihrer Kinder ist daraufhin in einer Erdhöhle verschwunden. Bei den Kretastachelmäusen soll dagegen der Bestand bewusst minimiert werden. In den letzten Monaten hat sich Population in der kleinen Vitrine nahezu verdreifacht. Für die Tierpfleger steht deshalb eine stressige Volkszählung bei den quirligen Nagetieren an. Viel Geduld muss Revierchefin Claudia Walther auch beim abendlichen Einsperrritual der Giraffen im Tierpark mitbringen. Jungbulle Max benötigt dazu besonders viel Zeit. Er schläft seit kurzem in der Box des verstorbenen Giraffenbullen Alex. Dem zwei Jahre alten Max ist das nicht ganz geheuer - Außerdem in dieser Folge: Eisbären auf Sommerdiät, Futterexperimente bei den Orang-Utans und Spitzmaulnashorn Akili, das demnächst seinen ersten Geburtstag feiert(n)</desc>
+    <date>2013</date>
+    <category lang="de">Information</category>
+    <category lang="de">Zooserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6712625/6712625_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S6 E276</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229094000 +0000" stop="20181229103000 +0000" channel="Das Erste">
+  <programme start="20181229104000 +0100" stop="20181229113000 +0100" channel="Das Erste">
     <title lang="de">Panda, Gorilla &amp; Co.</title>
-    <desc lang="de">Für Dianameerkatzenkind Xena wird es langsam ernst: Der kleine Zögling aus dem Affenhaus soll schrittweise wieder an seine Eltern Hera und Solar gewöhnt werden. Ersatzvater Dr. Andreas Pauly ist gespannt, wie die ersten Annäherungsversuche am Gitter des elterlichen Geheges verlaufen werden.&lt;br /&gt;
-Auch das kleine Chaco-Pekari Zamuco im Revier von René Walther macht enorme Fortschritte in seiner Entwicklung. Für ihn steht heute der Auszug aus dem Pausenraum der Pfleger an, denn inzwischen ist das Flaschenkind groß genug, um tagsüber in einem eigenen Stall zu leben. Zamuco fällt die Abnabelung von Pflegemama Jana Simon dennoch sichtbar schwer.&lt;br /&gt;
-In der Futterküche des Alfred-Brehm-Hauses trifft heute der Raubkatzennachwuchs das erste Mal aufeinander: Mit von der Partie sind Javaleopardenjunge Timang und die beiden Nebelparderzwillinge, für die Tierpfleger Mirko Rock endlich zwei exotische Vornamen gefunden hat.&lt;br /&gt;
-Premiere auch bei den Westlichen Grauen Riesenkängurus: Das rund elf Monate alte Jungtier ist aus dem mütterlichen Beutel geschlüpft und nimmt nun zaghaft Kontakt mit Bananen und Tierpflegerin Heike Wegener auf. Naheliegender Weise wurde der seltene australische Nachwuchs um das Känguru-Trio Cosma, Shiva und Hagen auf den Namen "Nina" getauft.&lt;br /&gt;
-Einer recht unangenehmen Prozedur muss sich heute Flusspferddame Kathi unterziehen: Für sie steht eine aufwendige Zahn-OP an. Doch bevor Dr. Andreas Ochs ans Werk gehen kann, muss der Koloss noch betäubt werden. Nichts für schwache Gemüter. Selbst Reviertierpfleger Uwe Fritzmann hält sich dabei lieber im Hintergrund auf.&lt;br /&gt;
-Außerdem in dieser Folge zu sehen: Zwergeselin Grisella ist Mutter geworden, Fingertier Mario muss auf die Waage, Mittagspause bei den Kaninchen im Streichelzoo, Stippvisite bei Marabufrau Elke und Besuche bei Elefantenkind Anchali, das bald seinen ersten Geburtstag feiert.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
+    <sub-title lang="de">Geschichten aus dem Zoo Berlin und dem Tierpark Berlin</sub-title>
+    <desc lang="de">Geschichten aus dem Zoo Berlin und dem Tierpark Berlin - Für Dianameerkatzenkind Xena wird es langsam ernst: Der kleine Zögling aus dem Affenhaus soll schrittweise wieder an seine Eltern Hera und Solar gewöhnt werden. Ersatzvater Dr. Andreas Pauly ist gespannt, wie die ersten Annäherungsversuche am Gitter des elterlichen Geheges verlaufen werden. Auch das kleine Chaco-Pekari Zamuco im Revier von René Walther macht enorme Fortschritte in seiner Entwicklung. Für ihn steht heute der Auszug aus dem Pausenraum der Pfleger an, denn inzwischen ist das Flaschenkind groß genug, um tagsüber in einem eigenen Stall zu leben. Zamuco fällt die Abnabelung von Pflegemama Jana Simon dennoch sichtbar schwer. In der Futterküche des Alfred-Brehm-Hauses trifft heute der Raubkatzennachwuchs das erste Mal aufeinander: Mit von der Partie sind Javaleopardenjunge Timang und die beiden Nebelparderzwillinge, für die Tierpfleger Mirko Rock endlich zwei exotische Vornamen gefunden hat. Premiere auch bei den Westlichen Grauen Riesenkängurus: Das rund elf Monate alte Jungtier ist aus dem mütterlichen Beutel geschlüpft und nimmt nun zaghaft Kontakt mit Bananen und Tierpflegerin Heike Wegener auf. Naheliegender Weise wurde der seltene australische Nachwuchs um das Känguru-Trio Cosma, Shiva und Hagen auf den Namen "Nina" getauft. Einer recht unangenehmen Prozedur muss sich heute Flusspferddame Kathi unterziehen: Für sie steht eine aufwendige Zahn-OP an. Doch bevor Dr. Andreas Ochs ans Werk gehen kann, muss der Koloss noch betäubt werden. Nichts für schwache Gemüter. Selbst Reviertierpfleger Uwe Fritzmann hält sich dabei lieber im Hintergrund auf. Außerdem in dieser Folge zu sehen: Zwergeselin Grisella ist Mutter geworden, Fingertier Mario muss auf die Waage, Mittagspause bei den Kaninchen im Streichelzoo, Stippvisite bei Marabufrau Elke und Besuche bei Elefantenkind Anchali, das bald seinen ersten Geburtstag feiert(n)</desc>
+    <date>2013</date>
+    <category lang="de">Information</category>
+    <category lang="de">Zooserie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/6712625/6712625_478x268.jpg" />
+    <country>D</country>
+    <episode-num system="onscreen">S6 E277</episode-num>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229103000 +0000" stop="20181229110000 +0000" channel="Das Erste">
+  <programme start="20181229113000 +0100" stop="20181229120000 +0100" channel="Das Erste">
     <title lang="de">Quarks im Ersten</title>
     <sub-title lang="de">Die Moden der Ernährung!</sub-title>
-    <desc lang="de">()(n)</desc>
+    <desc lang="de">Die Moden der Ernährung! - In jeder Sendung wird ein konkretes Thema ausführlich vorgestellt und analysiert. Es geht zumeist um naturwissenschaftliche, medizinische oder gesellschaftliche Themen. "Quarks" ging erstmals 1993 auf Sendung. Die Idee zu der Wissenschaftsshow hatte Ranga Yogeshwar, der auch als Moderator auftritt. Er wechselt sich in dieser Funktion seit 2010 mit Ralph Caspers ab(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
     <category lang="de">Wissenschaftsmagazin</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1262548/1262548_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229110000 +0000" stop="20181229111000 +0000" channel="Das Erste">
+  <programme start="20181229120000 +0100" stop="20181229121000 +0100" channel="Das Erste">
     <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
+    <sub-title lang="de">Mit Wetter</sub-title>
+    <desc lang="de">Mit Wetter - Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229111000 +0000" stop="20181229124000 +0000" channel="Das Erste">
-    <title lang="de">Arzt mit Nebenwirkung</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Peter Stauch</director>
-    </credits>
-    <date>2017</date>
-  </programme>
-  <programme start="20181229124000 +0000" stop="20181229141000 +0000" channel="Das Erste">
-    <title lang="de">Im Zeichen der Sterne: Herz in Flammen</title>
-    <desc lang="de">()(n)</desc>
+  <programme start="20181229134000 +0100" stop="20181229151000 +0100" channel="Das Erste">
+    <title lang="de">Herz in Flammen</title>
+    <desc lang="de">Die Liebe von Frank und Beate scheitert zunächst an einem haarsträubenden Missverständnis. Enttäuscht kehrt Beate Männern und Gefühlen den Rücken, um eine steile Karriere als nüchterne Wirtschafts-Journalistin hinzulegen. Als sie einige Jahre später über eine dubiose Liebesroman-Autorin recherchiert, ahnt sich nicht, dass sich hinter deren Pseudonym ihre große Liebe Frank verbirgt(n)</desc>
     <credits>
       <director>Berno Kürten</director>
+      <actor>Anja Kling</actor>
+      <actor>Andreas Brucker</actor>
+      <actor>Max Tidof</actor>
+      <actor>Cecilia Kunz</actor>
+      <actor>Ralf Wolter</actor>
+      <writer>Jürgen Wolff</writer>
     </credits>
-    <date>2002</date>
+    <date>2001</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Liebeskomödie</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1178681/1178681_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229141000 +0000" stop="20181229154000 +0000" channel="Das Erste">
+  <programme start="20181229151000 +0100" stop="20181229164000 +0100" channel="Das Erste">
     <title lang="de">Liebe auf den dritten Blick</title>
-    <desc lang="de">()(n)</desc>
+    <desc lang="de">Die attraktive Dianne fällt aus allen Wolken, als sie anonym die Nachricht erhält, dass ihr Mann sie während seiner Geschäftsreise nach Verona betrügt. Sofort macht sie sich auf den Weg nach Italien, um der Sache auf den Grund zu gehen. Tatsächlich hat Heiko nicht nur eine Geliebte - er gibt sie bei seinen Geschäftspartnern sogar als seine Ehefrau aus. In ihrem Kummer findet Dianne Unterstützung bei dem sympathischen Anton Brück, den sie bereits im Zug kennen gelernt hat. Als er die niedergeschlagene Dianne zu einem wichtigen Geschäftsessen mitnimmt, gehen die amourösen Verwicklungen erst richtig los: Völlig überraschend tauchen auch Heiko und seine "Frau" bei dem Treffen auf ... "Liebe auf den dritten Blick" ist eine romantische Liebeskomödie. In den Hauptrollen sind Katja Weitzenböck und Roland Koch zu sehen(n)</desc>
     <credits>
       <director>Helmut Metzger</director>
+      <actor>Katja Weitzenböck</actor>
+      <actor>Roland Koch</actor>
+      <actor>Thure Riefenstein</actor>
+      <actor>Sabrina White</actor>
+      <actor>Dietrich Mattausch</actor>
+      <writer>Thomas Oliver Walendy</writer>
     </credits>
-    <date>2007</date>
+    <date>2005</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Romanze</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/2073435/2073435_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>2.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229154000 +0000" stop="20181229154500 +0000" channel="Das Erste">
+  <programme start="20181229164000 +0100" stop="20181229164500 +0100" channel="Das Erste">
     <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
+    <sub-title lang="de">Mit Wetter</sub-title>
+    <desc lang="de">Mit Wetter - Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229154500 +0000" stop="20181229171500 +0000" channel="Das Erste">
+  <programme start="20181229164500 +0100" stop="20181229181500 +0100" channel="Das Erste">
     <title lang="de">Oma wider Willen</title>
-    <desc lang="de">()(n)</desc>
+    <desc lang="de">Viele Jahre sind vergangen, seit die knallharte Unternehmerin Henriette sich mit ihrer Tochter Luise zerstritten hat, weil die junge Frau auf Studium und Karriere pfiff, um ihrer großen Liebe nach Südamerika zu folgen. Seitdem hat Henriette nie wieder etwas von ihrer Tochter gehört. Umso größer ist die Überraschung, als eines Tages das kleine brasilianische Mädchen Evita vor ihr steht(n)</desc>
     <credits>
       <director>Sigi Rothemund</director>
+      <actor>Luna Schaller</actor>
+      <actor>Christiane Hörbiger</actor>
+      <actor>Peter Weck</actor>
+      <actor>Luna Baptiste Schaller</actor>
+      <actor>Elisabeth Lanz</actor>
+      <writer>Erich Tomek</writer>
     </credits>
     <date>2012</date>
+    <category lang="de">Spielfilm</category>
+    <category lang="de">Familienfilm</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/659647/659647_478x268.jpg" />
+    <country>A/D</country>
+    <star-rating>
+      <value>2.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181229171500 +0000" stop="20181229185700 +0000" channel="Das Erste">
-    <title lang="de">Ziemlich beste Freunde</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Olivier Nakache, Eric Toledano</director>
-    </credits>
-    <date>2011</date>
-  </programme>
-  <programme start="20181229185700 +0000" stop="20181229190000 +0000" channel="Das Erste">
+  <programme start="20181229195700 +0100" stop="20181229200000 +0100" channel="Das Erste">
     <title lang="de">Lotto am Samstag</title>
     <sub-title lang="de">Gewinnzahlen der 52. Ausspielung</sub-title>
-    <desc lang="de">&lt;strong&gt;Moderation: &lt;/strong&gt;Franziska Reichenbacher ()(n)</desc>
-    <category lang="de">Lotterieshow</category>
-  </programme>
-  <programme start="20181229190000 +0000" stop="20181229191500 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181229191500 +0000" stop="20181229222500 +0000" channel="Das Erste">
-    <title lang="de">Wer weiß denn sowas XXL</title>
-    <desc lang="de">&lt;strong&gt;Eine weitere Abendausgabe des launigen Ratespiels mit Kai Pflaume.&lt;/strong&gt; ()(n)</desc>
-  </programme>
-  <programme start="20181229222500 +0000" stop="20181229224500 +0000" channel="Das Erste">
-    <title lang="de">Tagesthemen</title>
-    <desc lang="de">&lt;strong&gt;Moderation: &lt;/strong&gt;Pinar Atalay ()(n)</desc>
-  </programme>
-  <programme start="20181229224500 +0000" stop="20181229225000 +0000" channel="Das Erste">
-    <title lang="de">Das Wort zum Sonntag</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181229225000 +0000" stop="20181230002500 +0000" channel="Das Erste">
-    <title lang="de">Und täglich grüßt das Murmeltier</title>
-    <desc lang="de">()(n)</desc>
     <credits>
-      <director>Harold Ramis</director>
+      <presenter>Franziska Reichenbacher</presenter>
     </credits>
-    <date>1993</date>
-  </programme>
-  <programme start="20181230002500 +0000" stop="20181230003000 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230003000 +0000" stop="20181230015800 +0000" channel="Das Erste">
-    <title lang="de">Ein ganz gewöhnlicher Dieb</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Thaddeus O’Sullivan</director>
-    </credits>
-    <date>2000</date>
-  </programme>
-  <programme start="20181230015800 +0000" stop="20181230020000 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230020000 +0000" stop="20181230034800 +0000" channel="Das Erste">
-    <title lang="de">Nine – Die Frauen meines Lebens</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Rob Marshall</director>
-    </credits>
-    <date>2009</date>
-  </programme>
-  <programme start="20181230034800 +0000" stop="20181230035000 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230035000 +0000" stop="20181230043000 +0000" channel="Das Erste">
-    <title lang="de">Deutschlandbilder</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230043000 +0000" stop="20181230045500 +0000" channel="Das Erste">
-    <title lang="de">Willi wills wissen</title>
-    <sub-title lang="de">Wie kommt man froh ins neue Jahr?</sub-title>
-    <desc lang="de">Was wäre Silvester ohne Feuerwerk? Aber wie das mit den Raketen und Böllern genau funktioniert, das erfährt Reporter Willi Weitzel von Philipp Hummig aus Peißenberg. Er ist staatlich geprüfter Feuerwerker oder "Pyrotechniker", wie sein Beruf in der Fachsprache heißt.&lt;br /&gt;
-Bei einem Lehrgang erklärt Philipp seinen Schülern und Willi ganz genau, worauf man achten muss, damit man ganz sicher froh ins neue Jahr kommt. Das Wichtigste: Die meisten Feuerwerkskörper dürfen nur von Erwachsenen gekauft und gezündet werden. Und: Sicherheitsvorschriften sollten unbedingt befolgt werden! Schließlich funktionieren die Raketen und Böller mit Sprengstoff.&lt;br /&gt;
-Während die Vorbereitungen für das Silvester-Feuerwerk weitergehen, erkundigt sich Willi nach der Sicherheit der Feuerwerkskörper, die in Deutschland verkauft werden: In der BAM, der Bundesanstalt für Materialprüfung in Berlin, fährt der Reporter zusammen mit Heidrun Fink in den acht Meter tief liegenden Bunker. Hinter einer Drucktür und dicken Wänden testen die beiden ein Tischfeuerwerk. Um für den Verkauf zugelassen zu werden, darf es weder die Tischplatte ankokeln noch die Zimmerdecke beschädigen. Silvesterböller wiederum sollen einerseits schön laut sein, andererseits dürfen sie aber das Gehör nicht schädigen. Dass sie die Norm nicht überschreiten, die Zündschnur sicher abbrennt und die Fetzen nicht zu weit fliegen – das alles wird draußen auf dem Prüfplatz gecheckt.&lt;br /&gt;
-Um Mitternacht stoßen die Erwachsenen traditionell mit einem Glas Sekt auf das neue Jahr an. Wie diese "Prickelbrause" hergestellt wird, erfährt Willi von Ludger Ehebrecht in einer Sektkellerlei. Hier wird zwar das ganze Jahr über Sekt produziert, doch kurz vor Silvester wird am meisten verkauft. Fertig verkorkt und mit Etikett versehen verlocken sie Willi und Ludger zum Sektkorkenweitschießen.&lt;br /&gt;
-Philipp und seine Kollegen sind in der Zwischenzeit mit ihren Vorbereitungen gut vorangekommen. Rund 240 Feuerwerkskörper sollen nach einer genau festgelegten Abfolge in den Himmel steigen. Die Zündung wird per Computer gesteuert, und das darf zur Feier des Tages Willi übernehmen. Und dann ist es soweit: Fünf, vier, drei, zwei, eins – alles Gute, ein frohes neues Jahr!&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
-    <credits>
-      <director>Katja Wallenfels, Arne Sinnwell</director>
-    </credits>
-    <date>2007</date>
-    <category lang="de">Kinderreportage</category>
-  </programme>
-  <programme start="20181230045500 +0000" stop="20181230061500 +0000" channel="Das Erste">
-    <title lang="de">König Laurin</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Matthias Lang</director>
-    </credits>
-    <date>2016</date>
-  </programme>
-  <programme start="20181230061500 +0000" stop="20181230071500 +0000" channel="Das Erste">
-    <title lang="de">Tigerenten Club</title>
-    <sub-title lang="de">Polarforschung</sub-title>
-    <desc lang="de">Bis zu minus 50 Grad, mehrere Monate auf engstem Raum leben und tagelang geht die Sonne nicht unter – Alltag für Polarforscherin Antje Boetius. Auf ihren Expeditionen erforscht sie die Arktis und speziell die Tiefsee im hohen Norden. Jetzt ist sie zu Gast im "Tigerenten Club" und spricht mit den Moderatoren Jessica Schöne und Johannes Zenglein über ihren besonderen Beruf. Mit dem Forschungsschiff Polarstern fährt Antje Boetius zum Nordpol, um mit Tauchbooten den Meeresboden 200 Meter unter dem Eis zu erkunden. Im Studio bestaunen die Tigerenten und Frösche ihren Kälteanzug, der Grundausstattung für Spaziergänge auf dem Polareis ist. Bohrungen im Eis oder das ganze Schiff im Eis einfrieren zu lassen, machen ihre Arbeit spannend und abwechslungsreich.&lt;br /&gt;
-Außerdem wurde die kleine Tigerente auf große Reise geschickt. Mit dem Forschungsteam des Projekts Eden-ISS sendet die Tigerente Grüße vom Südpol. Dort wird in einem besonderen Gewächshaus Gemüse angebaut. Als Pinguine und Schneegräber kämpfen die Tigerenten und Frösche um Notbremsen für ihren Rodeoreiter.&lt;br /&gt;
-Jessica Schöne und Johannes Zenglein feuern ihre Teams bei spannenden Wettkämpfen an. Im Kampf um den goldenen Pokal und eine Spende für ein Hilfsprojekt treten die Frösche vom Gymnasium Mengen (Baden-Württemberg) und die Tigerenten von der Friedrich-Schiller-Realschule Böblingen (Baden-Württemberg) gegeneinander an.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
+    <date>2018</date>
     <category lang="de">Show</category>
+    <category lang="de">Lottoziehung</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1057394/1057394_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181230071500 +0000" stop="20181230073000 +0000" channel="Das Erste">
-    <title lang="de">CheXperiment</title>
-    <sub-title lang="de">Anzünden ohne Verbrennen?!</sub-title>
-    <desc lang="de">Bei diesem CheXperiment geht es heiß her: Herausforderer Michael ist Feuerkünstler. Er schluckt und spuckt Flammen, ohne sich zu verbrennen. Wie das funktionieren kann, das muss Tobi herausfinden.&lt;br /&gt;
-Der Checker soll einen Geldschein anzünden. Der Schein muss in Flammen stehen, darf dabei aber nicht verbrennen. Damit sich bei einem Fehlversuch Tobis Taschengeld nicht in Schutt und Asche auflöst, hat Michael unechte Geldscheine zum Üben dabei. Beim Finale allerdings muss Tobi einen echten Schein anzünden. Tipps holt sich der Checker von der Freiwilligen Feuerwehr München. Aber können die Löschprofis Tobi wirklich helfen, das CheXperiment zu lösen? Oder verbrennt sich der Checker diesmal doch die Finger?&lt;div&lt;p class="main-copy"&gt; (Folge 32;10&lt;)(n)</desc>
-    <credits>
-      <director>Mathias Hagn, Oliver Lehmann</director>
-    </credits>
-    <date>2014</date>
-    <category lang="de">Doku</category>
-    <episode-num>Folge 32;10&lt;</episode-num>
-  </programme>
-  <programme start="20181230073000 +0000" stop="20181230083000 +0000" channel="Das Erste">
-    <title lang="de">Die drei Federn</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Su Turhan</director>
-    </credits>
-    <date>2014</date>
-  </programme>
-  <programme start="20181230083000 +0000" stop="20181230090000 +0000" channel="Das Erste">
-    <title lang="de">Die Sendung mit der Maus</title>
-    <desc lang="de">Johannes beim Kalorien zählen&lt;br /&gt;
-Schokolade ist meist braun, lecker und hat immer einen hohen Brennwert. Das steht zumindest auf der Verpackung. Was sich dahinter verbirgt, und was die Kalorien damit zu tun haben, das findet Johannes im Labor heraus ...&lt;br /&gt;
-Trudes Tier und die Kuchenparty&lt;br /&gt;
-Endlich Nachtisch! Doch Tier hat seine Portion im Nullkommanix aufgefuttert und schielt schon auf Trudes Schälchen. Da klingelt es – und kaum hat Trude dem Besuch die Tür geöffnet, ist von ihrem Nachtisch nichts mehr übrig. Gut, dass ihr Vater Kuchen mitbringt. Doch so langsam muss Tier die ganze Energie auch mal wieder loswerden.&lt;br /&gt;
-Johannes beim Kalorien verbrennen&lt;br /&gt;
-Genug gefuttert: Jetzt lässt Johannes richtig wissenschaftlich messen, wie viele Kalorien sein Körper verbrennt. Wie lange braucht sein Körper, um die Energie einer ganzen Tafel Schokolade zu verbrauchen? Zum Beispiel, wenn Johannes es sich gemütlich macht und rumliegt oder wenn er rennt, eine Kissenschlacht macht oder Rad fährt?&lt;br /&gt;
-Käpt'n Blaubär, der Kalorienjäger&lt;br /&gt;
-Klarer Fall: Irgendjemand klaut bei Nacht das Essen der kleinen Bärchen und plündert den Kühlschrank. Auf frischer Tat ertappen sie Käpt'n Blaubär und stellen ihn zur Rede. Der erzählt von seinem früheren Job als unerbittlicher Kalorienjäger.&lt;div&lt;p class="main-copy"&gt; ()(n)</desc>
-  </programme>
-  <programme start="20181230090000 +0000" stop="20181230090300 +0000" channel="Das Erste">
+  <programme start="20181229200000 +0100" stop="20181229201500 +0100" channel="Das Erste">
     <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230090300 +0000" stop="20181230100000 +0000" channel="Das Erste">
-    <title lang="de">Schneeweißchen und Rosenrot</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Mario Giordano, Sebastian Grobler</director>
-    </credits>
-    <date>2012</date>
-  </programme>
-  <programme start="20181230100000 +0000" stop="20181230110000 +0000" channel="Das Erste">
-    <title lang="de">Jorinde und Joringel</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Bodo Fürneisen</director>
-    </credits>
-    <date>2011</date>
-  </programme>
-  <programme start="20181230110000 +0000" stop="20181230110300 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230110300 +0000" stop="20181230123000 +0000" channel="Das Erste">
-    <title lang="de">Hachiko – Eine wunderbare Freundschaft</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Lasse Hallström</director>
-    </credits>
-    <date>2009</date>
-  </programme>
-  <programme start="20181230123000 +0000" stop="20181230124500 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230124500 +0000" stop="20181230141500 +0000" channel="Das Erste">
-    <title lang="de">Manche mögen’s glücklich</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Florian Gärtner</director>
-    </credits>
-    <date>2012</date>
-  </programme>
-  <programme start="20181230141500 +0000" stop="20181230154500 +0000" channel="Das Erste">
-    <title lang="de">Das Glück klopft an die Tür</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Christine Kabisch</director>
-    </credits>
-    <date>2006</date>
-  </programme>
-  <programme start="20181230154500 +0000" stop="20181230160000 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230160000 +0000" stop="20181230173000 +0000" channel="Das Erste">
-    <title lang="de">Für kein Geld der Welt</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Stephan Meyer</director>
-    </credits>
-    <date>2011</date>
-  </programme>
-  <programme start="20181230173000 +0000" stop="20181230185700 +0000" channel="Das Erste">
-    <title lang="de">Die Trödelqueen – Gelegenheit macht Liebe</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Matthias Tiefenbacher</director>
-    </credits>
-    <date>2011</date>
-  </programme>
-  <programme start="20181230185700 +0000" stop="20181230190000 +0000" channel="Das Erste">
-    <title lang="de">Gewinnzahlen Deutsche Fernsehlotterie</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230190000 +0000" stop="20181230191500 +0000" channel="Das Erste">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">()(n)</desc>
-  </programme>
-  <programme start="20181230191500 +0000" stop="20181230204500 +0000" channel="Das Erste">
-    <title lang="de">Tatort: Friss oder stirb</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Andreas Senn</director>
-    </credits>
+    <sub-title lang="de">Mit Wetter</sub-title>
+    <desc lang="de">Mit Wetter - Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
     <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181230204500 +0000" stop="20181230221500 +0000" channel="Das Erste">
-    <title lang="de">Maria Wern, Kripo Gotland: In der Tiefe</title>
-    <desc lang="de">()(n)</desc>
-    <credits>
-      <director>Erik Leijonborg</director>
-    </credits>
+  <programme start="20181229201500 +0100" stop="20181229232500 +0100" channel="Das Erste">
+    <title lang="de">Wer weiß denn sowas XXL</title>
+    <sub-title lang="de">Das unvorstellbare Wissensquiz mit Kai Pflaume</sub-title>
+    <desc lang="de">Das unvorstellbare Wissensquiz mit Kai Pflaume - Kurz vor dem Jahreswechsel lädt Moderator Kai Pflaume noch einmal zu einer extralangen Primetime-Ausgabe seiner Erfolgsshow "Wer weiß denn sowas?" ein. Dabei sein werden diesmal unter anderem Udo Wachtveitl, Miroslav Nemec, Smudo und Michi Beck. Bereits seit 1991 gehen Udo Wachtveitl und Miroslav Nemec als Ermittlerduo Batic und Leitmayr im Münchener "Tatort" gemeinsam auf Spurensuche. Im Fall von "Wer weiß denn sowas XXL" müssen die beiden "Tatort"-Kommissare allerdings jeder für sich auf die Suche nach den richtigen Antworten gehen. Unterstützt werden sie bei Ihren Ermittlungen von den beiden erfahrenen Ratefüchsen Bernhard Hoecker und Elton. 1991 war auch für "Fantastischen Vier" ein Meilenstein, erschien doch in diesem Jahr ihr erstes Stück "Jetzt gehts ab". Der Beginn einer unfassbaren Band-Geschichte, die noch lange nicht zu Ende ist. Bei "Wer weiß denn sowas XXL" begrüßt Kai Pflaume zwei der "Fantastischen Vier" zum Rateduell. Smudo und Michi Beck treten an, um möglichst viele richtige Antworten zu geben und sich so für das Finale zu qualifizieren. Denn nur einer der prominenten Gäste kann am Ende den Tagessieg erringen und so 50.000 Euro für einen guten Zweck zu erspielen. Wieder erwarten die Zuschauerinnen und Zuschauer bei "Wer weiß denn sowas XXL" hochspannende Studio-Experimente und einige tierische Überraschungen(n)</desc>
     <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Quiz</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7232829/7232829_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
-  <programme start="20181230221500 +0000" stop="20181230223500 +0000" channel="Das Erste">
+  <programme start="20181229232500 +0100" stop="20181229234500 +0100" channel="Das Erste">
     <title lang="de">Tagesthemen</title>
-    <desc lang="de">&lt;strong&gt;Moderation: &lt;/strong&gt;Pinar Atalay ()(n)</desc>
-  </programme>
-  <programme start="20181230223500 +0000" stop="20181231001300 +0000" channel="Das Erste">
-    <title lang="de">Der Dieb der Worte</title>
-    <desc lang="de">()(n)</desc>
+    <sub-title lang="de">Mit Wetter</sub-title>
+    <desc lang="de">Mit Wetter - Aktuelle Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland werden in ausführlichen Hintergrundberichten beleuchtet. In Stellungnahmen und Meinungsäußerungen wird auch unterschiedlichne Standpunkten Raum gegeben(n)</desc>
     <credits>
-      <director>Brian Klugman, Lee Sternthal</director>
+      <presenter>Caren Miosga</presenter>
     </credits>
-    <date>2012</date>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056587/1056587_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181229234500 +0100" stop="20181229235000 +0100" channel="Das Erste">
+    <title lang="de">Das Wort zum Sonntag</title>
+    <desc lang="de">"Das Wort zum Sonntag" bietet ein paar Minuten Zeit für die innere Einkehr und betrachtet Aktuelles aus einem ganz besonderen Blickwinkel(n)</desc>
+    <date>2018</date>
+    <category lang="de">Show</category>
+    <category lang="de">Fernsehpredigt</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1173501/1173501_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230012500 +0100" stop="20181230013000 +0100" channel="Das Erste">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230025800 +0100" stop="20181230030000 +0100" channel="Das Erste">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181230044800 +0100" stop="20181230045000 +0100" channel="Das Erste">
+    <title lang="de">Tagesschau</title>
+    <desc lang="de">Seit 1952 wird in der Tagesschau kurz und bündig von aktuellen Geschehnissen in Deutschland und der Welt berichtet. Bis heute ist die Redaktion der sachlichen Berichterstattung treu geblieben(n)</desc>
+    <date>2018</date>
+    <category lang="de">Information</category>
+    <category lang="de">Nachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/1056561/1056561_478x268.jpg" />
+    <country>D</country>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
   </programme>
 </tv>
