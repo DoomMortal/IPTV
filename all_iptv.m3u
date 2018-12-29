@@ -116,31 +116,31 @@ http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
 http://0.0.0.0:1234
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title=“BRASIL”,[COLOR orange][I][B]RECORD TV NEWS [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR orange][I][B]RECORD TV NEWS [/B][/I][/COLOR]
 http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title=“BRASIL”,[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR orange][I][B]SBT [/B][/I][/COLOR]
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title=“BRASIL”,[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="BRASIL",[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title=“BRASIL”,[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title="BRASIL",[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
 http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title=“BRASIL”,[COLOR orange][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR orange][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
 http://streamingbr.com:1935/st87-live/smil:alphachannel.smil/chunklist_w1363160135_b1364000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://s26.postimg.org/ml5iv8k2x/TVE_Bahia.png" group-title=“BRASIL”,[COLOR orange][I][B]TVE [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ml5iv8k2x/TVE_Bahia.png" group-title="BRASIL",[COLOR orange][I][B]TVE [/B][/I][/COLOR]
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 tvg-logo="http://s26.postimg.org/6sojpb2y1/30b7384d-c3f1-4e5f-8d82-78bfe4999906.jpg" group-title=“BRASIL”,[COLOR orange][I][B]SESC TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/6sojpb2y1/30b7384d-c3f1-4e5f-8d82-78bfe4999906.jpg" group-title="BRASIL",[COLOR orange][I][B]SESC TV [/B][/I][/COLOR]
 http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
-#EXTINF:-1 tvg-logo="http://s26.postimg.org/jb555vzxl/Rede_Meio_Norte.png" group-title=“BRASIL”,[COLOR orange][I][B]TV MEIO NORTE[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/jb555vzxl/Rede_Meio_Norte.png" group-title="BRASIL",[COLOR orange][I][B]TV MEIO NORTE[/B][/I][/COLOR]
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:-1 tvg-logo="http://s26.postimg.org/rzwvr24yx/apps.48480.13510798886630643.30d57938-8715-4d19-.png" group-title=“BRASIL”,[COLOR orange][I][B]TV INES RJ[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/rzwvr24yx/apps.48480.13510798886630643.30d57938-8715-4d19-.png" group-title="BRASIL",[COLOR orange][I][B]TV INES RJ[/B][/I][/COLOR]
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tvescolalogo2014.jpg/160px-Tvescolalogo2014.jpg" group-title=“BRASIL”,[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tvescolalogo2014.jpg/160px-Tvescolalogo2014.jpg" group-title="BRASIL",[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title=“BRASIL”,[COLOR orange][I][B]CANAL 25 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title="BRASIL",[COLOR orange][I][B]CANAL 25 [/B][/I][/COLOR]
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title=“BRASIL”,[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title="BRASIL",[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
 http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title=“BRASIL”,[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title="BRASIL",[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
 http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
 
