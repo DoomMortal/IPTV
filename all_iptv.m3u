@@ -112,6 +112,31 @@ http://video-auth1.iol.pt:1935/beachcam/praiadasrocas/playlist.m3u8
 http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR cyan][I][B]Andalucía TV [/B][/I][/COLOR]
+https://www.youtube.com/watch?v=4vtPgnISeso
+#EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV Galicia [/B][/I][/COLOR]
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR cyan][I][B]TELEMADRID [/B][/I][/COLOR]
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL ESTREMADURA [/B][/I][/COLOR]
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ARAGON TV [/B][/I][/COLOR]
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png" group-title="ESPANHA",[COLOR cyan][I][B]LANCELOTE TV [/B][/I][/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR cyan][I][B]3/24[/B][/I][/COLOR]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR cyan][I][B]REAL MADRID TV [/B][/I][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR orange]» »BRASIL « «[/COLOR]
 http://0.0.0.0:1234
 
@@ -142,29 +167,6 @@ http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title="BRASIL",[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
 http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-
-
-#EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV Galicia [/B][/I][/COLOR]
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR cyan][I][B]TELEMADRID [/B][/I][/COLOR]
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL ESTREMADURA [/B][/I][/COLOR]
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ARAGON TV [/B][/I][/COLOR]
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png" group-title="ESPANHA",[COLOR cyan][I][B]LANCELOTE TV [/B][/I][/COLOR]
-rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR cyan][I][B]3/24[/B][/I][/COLOR]
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR cyan][I][B]REAL MADRID TV [/B][/I][/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR red]» »ALEMANHA « «[/COLOR]
