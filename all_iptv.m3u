@@ -9,7 +9,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
 http://134.19.181.172:8000/7Wuo8HFng5/QPGVKUQyQ7/507
 #EXTINF:-1 tvg-id="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
-http://194.88.107.101:6204/0049/0049/8790
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4830.m3u8
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="TVI24" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
