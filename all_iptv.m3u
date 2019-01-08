@@ -9,9 +9,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 
 
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
-http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/45374
+http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
 #EXTINF:-1 tvg-id="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
-http://212.8.253.12:80/12ITALY1024M/1HY8MkCc4a/45361
+http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
 
 
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
