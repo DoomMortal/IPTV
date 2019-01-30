@@ -9,9 +9,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 
 
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
-http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
+http://192.99.150.25:25461/live/0803/0803/212.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
-http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
+http://192.99.150.25:25461/live/0803/0803/214.m3u8
 
 
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
@@ -27,7 +27,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b64000
 #EXTINF:-1 tvg-id="RTP Açores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/5
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="PORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
 rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10
 #EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
@@ -120,7 +120,7 @@ http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR cyan][I][B]Andalucía TV [/B][/I][/COLOR]
-http://127.0.0.1:60666/?plugin://plugin.video.youtube/?action=play_video&videoid=6-QJmggFx7I
+http://127.0.0.1:60666/?plugin://plugin.video.youtube/?action=play_video&videoid=TiX6nlF1rOQ
 #EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV Galicia [/B][/I][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
