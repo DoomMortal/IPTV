@@ -28,13 +28,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b64000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR green][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR green][I][B]PORTO CANAL[/B][/I][/COLOR]
 rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10
 #EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV CABO VERDE[/B][/I][/COLOR]
 http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w1661838962_b2688000_sleng.m3u8
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png/medium" group-title="PORTUGAL",[COLOR green][I][B]TV PARLAMENTO[/B][/I][/COLOR]
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV FÁTIMA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV FÁTIMA[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
@@ -145,15 +145,15 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://0.0.0.0:1234
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR orange][I][B]RECORD TV NEWS [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR red][I][B]RECORD TV NEWS [/B][/I][/COLOR]
 http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR orange][I][B]SBT [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR red][I][B]SBT [/B][/I][/COLOR]
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="BRASIL",[COLOR orange][I][B]REDE TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="BRASIL",[COLOR red][I][B]REDE TV [/B][/I][/COLOR]
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title="BRASIL",[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title="BRASIL",[COLOR red][I][B]TV UNIÃO [/B][/I][/COLOR]
 http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR orange][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR green][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
 http://streamingbr.com:1935/st87-live/smil:alphachannel.smil/chunklist_w1363160135_b1364000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://s26.postimg.org/ml5iv8k2x/TVE_Bahia.png" group-title="BRASIL",[COLOR green][I][B]TVE [/B][/I][/COLOR]
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
