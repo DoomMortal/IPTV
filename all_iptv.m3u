@@ -144,7 +144,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR orange]» »BRASIL « «[/COLOR]
 http://0.0.0.0:1234
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR red][I][B]RECORD TV NEWS [/B][/I][/COLOR]
 http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR red][I][B]SBT [/B][/I][/COLOR]
