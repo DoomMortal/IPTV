@@ -15,7 +15,10 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 3 [/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=http://www.rtp.pt/play
+
+
+
 #EXTINF:-1 tvg-id="TVI24" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR green][I][B]TVI 24[/B][/I][/COLOR]
 http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR green][I][B]RTP ÁFRICA[/B][/I][/COLOR]
