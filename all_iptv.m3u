@@ -174,7 +174,7 @@ http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »ALEMANHA « «[/COLOR]
 http://0.0.0.0:1234
 
-EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
