@@ -1036,3 +1036,9 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
+
+#EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »Radio Portugal « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-name="Radio comercial" tvg-id="ARD.de" group-title="Radio Portugal" tvg-logo="https://radiocomercial.iol.pt/images/svg/logoRC_white.svg",Rádio Comercial
+https://mcrwowza4.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
