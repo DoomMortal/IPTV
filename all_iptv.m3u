@@ -1184,7 +1184,7 @@ http://20043.live.streamtheworld.com:3690/RADIO_SIM_SC
 http://centova.radios.pt/proxy/499?mp=/stream
 
 #EXTINF:-1 tvg-name="Marcoense FM" group-title="Radio Portugal" radio="true" tvg-logo="https://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
-http://137.74.160.250:8000/stream/1
+http://137.74.160.250:8000/;stream/1
 
 #EXTINF:-1 tvg-name="Radio Vizela" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiovizela.pt/images/logo.png",Radio Vizela
 http://109.71.41.6:8100/stream
@@ -1195,5 +1195,5 @@ http://162.210.196.217:8146/;
 #EXTINF:-1 tvg-name="Radio Super Bock" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Radio Super Bock
 https://ajax.mytuner-radio.com/ajax/play/?id=v26q5ng206go
 
-#EXTINF:-1 tvg-name="Rum" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Rumm
+#EXTINF:-1 tvg-name="Rum" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Rum
 https://centova.radio.com.pt/proxy/558?mp=/stream
