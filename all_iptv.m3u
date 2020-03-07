@@ -175,8 +175,8 @@ https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(Ffon3hwHwDQ)r(TOqkzw)a(2eMW5Q)p(d(lC
 https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FfooF3Hoh58)r(TOqkzw)a(2eMW5Q)p(d(lCo)k(ow4)m(7shzpDncyYHmUg3ZdHElfg)n(a(HazFJA)s(CiA)'a(kSRInw)s(vY0)'a(qYEwLw)s(RJ0)'a(6sKAsQ)s(m2M)))s(s(RO0)b(t7--NaqwWq9RWHgsdGYnytWffSEFgcTwfDKGdfLBEXe21gJGTmLaqSYf3qEs-Ad2nnPoYn5ogh9DqDh2Dg)'s(oNQ)b(wnArdJ4FaTrmpRaUk2IjStZSuYX25Zfv1055wm8s7kUigD3YGGRz3Xl_pyVm345gziBSa-zGnHOnI8cj23r53HusmXXQRZ9MXq_zcr6I)'s(K8o)b(WR9jQfiz))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title="BRASIL",[COLOR green][I][B]CANAL 25 [/B][/I][/COLOR]
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title="BRASIL",[COLOR yellow][I][B]AGRO CANAL [/B][/I][/COLOR]
-http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title="BRASIL",[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
+https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash=DAuhBUFN79vA6d2_wnRURedYCjUla4R0-cjzXBm4Gzw=
 #EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title="BRASIL",[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/playlist.m3u8?wowzatokenhash=K1-NvGAhK7HQZv_Yc19jCVjfKO75ZbaXvo0K1OpvCKc=
 
