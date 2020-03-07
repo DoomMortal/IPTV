@@ -1172,16 +1172,13 @@ https://proic1.evspt.com/radar_aac
 https://ajax.mytuner-radio.com/ajax/play/?id=x3mx59ed2roy
 
 #EXTINF:-1 tvg-name="Radio festival" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiofestival.pt/imgs/logo_transparente.png",Radio festival
-http://centova.radio.com.pt:9520/
+http://centova.radio.com.pt:9520/;
 
 #EXTINF:-1 tvg-name="Vodafone FM" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/4c/a4/105281/2/c300.png",Vodafone FM
 https://mcrwowza4.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sim" group-title="Radio Portugal" radio="true" tvg-logo="https://radiosim.sapo.pt/images/logo.png",Sim - A Radio do seu tempo
 http://20043.live.streamtheworld.com:3690/RADIO_SIM_SC
-
-#EXTINF:-1 tvg-name="94.8 radio festival" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiofestival.pt/imgs/logo_transparente.png",94.8 radio festival
-http://centova.radio.com.pt:9520/
 
 #EXTINF:-1 tvg-name="98.1 Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://marginal.fm/logomarginal.png",98.1 Marginal
 http://centova.radios.pt/proxy/499?mp=/stream
@@ -1190,7 +1187,7 @@ http://centova.radios.pt/proxy/499?mp=/stream
 http://137.74.160.250:8000/stream/1
 
 #EXTINF:-1 tvg-name="Radio Vizela" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiovizela.pt/images/logo.png",Radio Vizela
-https://www.radiovizela.pt/direto.php
+http://109.71.41.6:8100/stream
 
 #EXTINF:-1 tvg-name="Sao Miguel" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiosaomiguel.pt/wp-content/uploads/2019/05/logo-radio-sao-miguel-93.4.png",Sao Miguel
 http://162.210.196.217:8146/;
@@ -1198,5 +1195,5 @@ http://162.210.196.217:8146/;
 #EXTINF:-1 tvg-name="Radio Super Bock" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Radio Super Bock
 https://ajax.mytuner-radio.com/ajax/play/?id=v26q5ng206go
 
-#EXTINF:-1 tvg-name="Rum" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Rum
+#EXTINF:-1 tvg-name="Rum" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Rumm
 https://centova.radio.com.pt/proxy/558?mp=/stream
