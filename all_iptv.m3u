@@ -1040,5 +1040,5 @@ http://195.150.20.243/RMFFM48
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »Radio Portugal « «[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-name="Radio comercial" group-title="Radio Portugal" radio="true" tvg-logo="https://radiocomercial.iol.pt/images/svg/logoRC_white.svg",Rádio Comercial
+#EXTINF:-1 tvg-name="Radio comercial" group-title="Radio Portugal" radio="true" tvg-logo="https://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
 https://mcrwowza4.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
