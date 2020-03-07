@@ -1042,3 +1042,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="Radio comercial" group-title="Radio Portugal" radio="true" tvg-logo="https://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
 https://mcrwowza4.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RFM" group-title="Radio Portugal" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9c/Logo_rfm_curto.png",RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
+#EXTINF:-1 tvg-name="Cidade FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_amarelo.png",Cidade FM
+https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
