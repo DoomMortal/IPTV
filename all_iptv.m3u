@@ -12,7 +12,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent
 http://192.99.150.25:25461/live/0803/0803/212.m3u8
 
 
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
 https://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjAgNTo1NToxNyBQTSZoYXNoX3ZhbHVlPWdIcDVFMjZ3eXhqM0hJdUVNaVorNmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNzAwNmNjYS0zYWNkLTRhYzgtYmEwOS1hMjAxZjQwZGYzYmI=
 #EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Ficção[/B][/I][/COLOR]
 https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjAgNjo0Njo0MiBQTSZoYXNoX3ZhbHVlPTVKbmp1NStMRHVKcTA2SGRPMnFiM3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1tcmRvb21tb3J0YWxAZ21haWwuY29t
