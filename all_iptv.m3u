@@ -1046,3 +1046,88 @@ https://mcrwowza4.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
 #EXTINF:-1 tvg-name="Cidade FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_amarelo.png",Cidade FM
 https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logoM80_vsWHITE.svg",m80 Radio
+https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 80s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8080s.svg",m80 80´s Radio
+https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Rock Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80ROCK.svg",m80´s Rock Radio
+https://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 90s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8090s.svg",m80 90´s Radio
+https://mcrwowza8.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Ballads Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80BALLADS.svg",m80 Ballads Radio
+https://mcrwowza8.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Pop Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80POP.svg",m80 Pop Radio
+https://mcrwowza8.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 70s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8070s.svg",m80 70´s Radio
+https://mcrwowza8.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Dance Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80DANCE.svg",m80 Dance Radio
+https://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Indie Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80INDIE.svg",m80 Indie Radio
+https://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Nacinal Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80NACIONAL.svg",m80 Nacinal Radio
+https://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 Soul Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80SOUL.svg",m80 Soul Radio
+https://mcrwowza8.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="m80 60s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8060s.svg",m80 60´s Radio
+https://mcrwowza8.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Antena 1" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_vert_RGB.png",Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena 2" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_positivo_vert_RGB.png",Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_positivo_vert_RGB.png",Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Internacional" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_vert_RGB.png",RDP Internacional
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Africa" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_vert_RGB.png",RDP Africa
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Memoria" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_vert_RGB.png",RDP Memoria
+https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antenna 1 Lusitana" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Lusitania_positivo_RGB.png",RDP Antenna 1 Lusitana
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antenna 2 JazzIn" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/JazzIN_positivo_RGB.png",RDP Antenna 2 JazzIn`
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 1 Vida" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Vida_positivo_RGB.png",RDP Antena 1 Vida
+https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP ZigZag" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/09/radioZigZag_w2000_positivo.png",RDP ZigZag
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 1 Fado" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1fado_negativo_RGB_sem-fundo-01.png",RDP Antena 1 Fado
+https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 2 Opera" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A2-Opera_positivo_horiz_RGB.png",RDP Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 1 Acores" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Acores_positivo.png",RDP Antena 1 Acores
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 1 Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Madeira_positivo_RGB.png",RDP Antena 1 Madeira
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDP Antena 3 Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A3Madeira_positivo_RGB.png",RDP Antena 3 Madeira
+https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Renascenca" group-title="Radio Portugal" radio="true" tvg-logo="https://rr.sapo.pt/img/logoRR.svg",Radio Renascenca
+https://playerservices.streamtheworld.com/pls/RADIO_RENASCENCA.pls
