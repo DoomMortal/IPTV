@@ -1129,5 +1129,5 @@ https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
 #EXTINF:-1 tvg-name="RDP Antena 3 Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A3Madeira_positivo_RGB.png",RDP Antena 3 Madeira
 https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Radio Renascenca" group-title="Radio Portugal" radio="true" tvg-logo="https://rr.sapo.pt/img/logoRR.svg",Radio Renascencaaa
-http://playerservices.streamtheworld.com/pls/RADIO_RENASCENCA.pls
+#EXTINF:-1 tvg-name="Radio Renascenca" group-title="Radio Portugal" radio="true" tvg-logo="https://rr.sapo.pt/img/logoRR.svg",Radio Renascencaaaxxx
+http://20043.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC
