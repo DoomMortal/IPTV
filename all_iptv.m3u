@@ -165,7 +165,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR green][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
 https://5b01a3d32b65c.streamlock.net:1936/st87-live/smil:alphachannel.smil/chunklist_w838178328_b1300000_slen.m3u8
-#EXTINF:-1 tvg-logo="https://irdeb.ba.gov.br/_novo/img/marcaTVE.png" group-title="BRASIL",[COLOR green][I][B]TVE [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/320px-TVE_Bahia_logo.svg.png" group-title="BRASIL",[COLOR green][I][B]TVE [/B][/I][/COLOR]
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="BRASIL",[COLOR orange][I][B]SESC TV [/B][/I][/COLOR]
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/livestream.m3u8?sts=st=1583620954~exp=1583707954~acl=/*~hmac=e84498fd4a4c9c00e9a8832d459a9e631bd40c41ab1d6ba765a8ec4ccf146552
@@ -173,7 +173,7 @@ https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec
 https://player-api.new.livestream.com/accounts/3332377/events/9009787/broadcasts/202636696.secure.m3u8?dw=14400&hdnea=st%3D1583627074~exp%3D1583628874~acl%3D%2Fi%2F3332377_9009787_lsi5fjzb47ftf0ozqfa_1%4082726%2F%2A~hmac%3D75b31ba48d50ab88a1462fffda9e660497916f3fb9c813864badcf65f3d877d6&token=5e643c6e_b940615837740edab5e036552d845bf1d07c071c
 #EXTINF:-1 tvg-logo="http://tvines.org.br/wp-content/themes/detube/images/logo-tvines.png" group-title="BRASIL",[COLOR orange][I][B]TV INES [/B][/I][/COLOR]
 https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(Ffon3hwHwDQ)r(TOqkzw)a(2eMW5Q)p(d(lCo)k(ow4)m(tk7nBGIKpkpi77yNrFP94A)n(a(qzS5bQ)s(5LE)'a(wISkyg)s(9iU)'a(VSkCAw)s(kQA)'a(hkMtCQ)s(MJc)))s(s(254)b(W2fcCp6F968R4wH0vsE7WMVdPT6mzjHcWywiKxzOoDIIYEsnRwmOIAM8ZVuN60R7wIY5E-_6JIpQ8YPuTA)'s(gdI)b(tsqra51j3WRBvxvd4lROvJw7nyGQADtTfmKZCUbfVGJxNFh9MbUYitxFceacpG-weFaCylrbdx2_OxKwzA0e287OgYLiK7H2N2VyGvSn)'s(UxA)b(iFWVWKtX))m(0))/tvines_index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tvescolalogo2014.jpg/160px-Tvescolalogo2014.jpg" group-title="BRASIL",[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="BRASIL",[COLOR orange][I][B]CANAL ESCOLA [/B][/I][/COLOR]
 https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FfooF3Hoh58)r(TOqkzw)a(2eMW5Q)p(d(lCo)k(ow4)m(7shzpDncyYHmUg3ZdHElfg)n(a(HazFJA)s(CiA)'a(kSRInw)s(vY0)'a(qYEwLw)s(RJ0)'a(6sKAsQ)s(m2M)))s(s(RO0)b(t7--NaqwWq9RWHgsdGYnytWffSEFgcTwfDKGdfLBEXe21gJGTmLaqSYf3qEs-Ad2nnPoYn5ogh9DqDh2Dg)'s(oNQ)b(wnArdJ4FaTrmpRaUk2IjStZSuYX25Zfv1055wm8s7kUigD3YGGRz3Xl_pyVm345gziBSa-zGnHOnI8cj23r53HusmXXQRZ9MXq_zcr6I)'s(K8o)b(WR9jQfiz))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title="BRASIL",[COLOR green][I][B]CANAL 25 [/B][/I][/COLOR]
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
