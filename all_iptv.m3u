@@ -159,13 +159,13 @@ plugin://plugin.video.youtube/play/?video_id=A-Fcy7uQ-mk
 https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR yellow][I][B]SBT [/B][/I][/COLOR]
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="BRASIL",[COLOR yellow][I][B]REDE TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Redetvlogo.png" group-title="BRASIL",[COLOR yellow][I][B]REDE TV [/B][/I][/COLOR]
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_Rede_Uni%C3%A3o.png" group-title="BRASIL",[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR green][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
 https://5b01a3d32b65c.streamlock.net:1936/st87-live/smil:alphachannel.smil/chunklist_w838178328_b1300000_slen.m3u8
-#EXTINF:-1 tvg-logo="http://s26.postimg.org/ml5iv8k2x/TVE_Bahia.png" group-title="BRASIL",[COLOR green][I][B]TVE [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://irdeb.ba.gov.br/_novo/img/marcaTVE.png" group-title="BRASIL",[COLOR green][I][B]TVE [/B][/I][/COLOR]
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="BRASIL",[COLOR orange][I][B]SESC TV [/B][/I][/COLOR]
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/livestream.m3u8?sts=st=1583620954~exp=1583707954~acl=/*~hmac=e84498fd4a4c9c00e9a8832d459a9e631bd40c41ab1d6ba765a8ec4ccf146552
