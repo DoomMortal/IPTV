@@ -161,7 +161,7 @@ https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8?sd=10&reba
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="BRASIL",[COLOR yellow][I][B]REDE TV [/B][/I][/COLOR]
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ockjYC_sJd8/WcWBt2noaGI/AAAAAAAAO7E/C2VCQmoUt1kpT09Mb6P4JwCxABvDH8AyQCLcBGAs/s1600/Rede%2BUniao.png" group-title="BRASIL",[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_Rede_Uni%C3%A3o.png" group-title="BRASIL",[COLOR orange][I][B]TV UNIÃO [/B][/I][/COLOR]
 https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/--Sky3WcgUMg/WcWeOqo4yEI/AAAAAAAAO8Y/VoMToxwxmrkl473sjSCMIczUHk2jIy3bwCLcBGAs/s1600/Alpha%2BChannel.png" group-title="BRASIL",[COLOR green][I][B]ALPHA CHANNEL [/B][/I][/COLOR]
 https://5b01a3d32b65c.streamlock.net:1936/st87-live/smil:alphachannel.smil/chunklist_w838178328_b1300000_slen.m3u8
@@ -177,9 +177,9 @@ https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(Ffon3hwHwDQ)r(TOqkzw)a(2eMW5Q)p(d(lC
 https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FfooF3Hoh58)r(TOqkzw)a(2eMW5Q)p(d(lCo)k(ow4)m(7shzpDncyYHmUg3ZdHElfg)n(a(HazFJA)s(CiA)'a(kSRInw)s(vY0)'a(qYEwLw)s(RJ0)'a(6sKAsQ)s(m2M)))s(s(RO0)b(t7--NaqwWq9RWHgsdGYnytWffSEFgcTwfDKGdfLBEXe21gJGTmLaqSYf3qEs-Ad2nnPoYn5ogh9DqDh2Dg)'s(oNQ)b(wnArdJ4FaTrmpRaUk2IjStZSuYX25Zfv1055wm8s7kUigD3YGGRz3Xl_pyVm345gziBSa-zGnHOnI8cj23r53HusmXXQRZ9MXq_zcr6I)'s(K8o)b(WR9jQfiz))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/v7aUub" group-title="BRASIL",[COLOR green][I][B]CANAL 25 [/B][/I][/COLOR]
 http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/AfzyjV" group-title="BRASIL",[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://sba1.com/imagens/logo-agrocanal.png" group-title="BRASIL",[COLOR orange][I][B]AGRO CANAL [/B][/I][/COLOR]
 https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash=DAuhBUFN79vA6d2_wnRURedYCjUla4R0-cjzXBm4Gzw=
-#EXTINF:-1 tvg-logo="https://goo.gl/TMGe6E" group-title="BRASIL",[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://sba1.com/img/canais/cb.png" group-title="BRASIL",[COLOR orange][I][B]CANAL DO BOI [/B][/I][/COLOR]
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/playlist.m3u8?wowzatokenhash=K1-NvGAhK7HQZv_Yc19jCVjfKO75ZbaXvo0K1OpvCKc=
 
 
