@@ -13,9 +13,9 @@ https://live.impresa.pt/live/sic/sic.m3u8
 
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR green][I][B]TVI[/B][/I][/COLOR]
-https://channel-resolver.herokuapp.com/tvi_tv
+https://video-auth3.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDc6MjY6MTUgUE0maGFzaF92YWx1ZT1lMW9uNnpZUmJoSWZUbkdPeWoxOWt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWQ4ZGJiNTYtYWUyYy00ZTYwLTkxZjMtMzEyYzlmMTg2ZjM3
 #EXTINF:-1 tvg-id="TVI24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR green][I][B]TVI 24[/B][/I][/COLOR]
-https://channel-resolver.herokuapp.com/tvi_24
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDc6MjY6MTUgUE0maGFzaF92YWx1ZT1lMW9uNnpZUmJoSWZUbkdPeWoxOWt3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWQ4ZGJiNTYtYWUyYy00ZTYwLTkxZjMtMzEyYzlmMTg2ZjM3
 #EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Ficção[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_ficcao
 #EXTINF:-1 tvg-id="TVI_REALITY" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Reality[/B][/I][/COLOR]
