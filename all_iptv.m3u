@@ -50,85 +50,6 @@ http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Leça da Palmeira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Espinho webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/espinho/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Esmoriz webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/esmoriz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Furadouro webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/furadouro/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Torreira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/torreira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da barra webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/aveiro/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Vagueira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/vagueira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Mira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/bcmira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Figueira da Foz - Buarcos webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Norte - Nazaré webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Peniche - Supertubos webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/supertubos/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Peniche - Lagilde Baía webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/lagide/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Santa Cruz webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/santacruz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Ribeira de Ilhas webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Ericeira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia Grande webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/praiagrande/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Guincho - Norte webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Guincho - Sul webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de São Pedro do Estoril webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Carcavelos webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/carcavelos/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Costa da Caparica CDS webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Costa da Caparica - São João webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Fonte da Telha webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/fontedatelha/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Carvalhal webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/carvalhal/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de São Torpes webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/saotorpes/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Zambujeira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/zambujeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Amoreira webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/bcamoreira/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Arrifana webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/arrifana/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Luz webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/luz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Meia Praia - Duna Beach webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/meiapraia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Alvor webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/alvor/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Rocha webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/praiadarocha/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia da Galé webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/bcgale/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia do Evaristo webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/evaristo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Vilamoura webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/vilamoura/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Jardim do Mar webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia das Rocas webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/praiadasrocas/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",[COLOR yellow][I][B]Praia de Matosinhos webcam[/B][/I][/COLOR]
-http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
 http://0.0.0.0:1234
 
@@ -1042,6 +963,86 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
+
+#EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR yellow]» »Webcam Portugal « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Leça da Palmeira webcam
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Espinho webcam
+http://video-auth1.iol.pt:1935/beachcam/espinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Esmoriz webcam
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Furadouro webcam
+http://video-auth1.iol.pt:1935/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Torreira webcam
+http://video-auth1.iol.pt:1935/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da barra webcam
+http://video-auth1.iol.pt:1935/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Vagueira webcam
+http://video-auth1.iol.pt:1935/beachcam/vagueira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Mira webcam
+http://video-auth1.iol.pt:1935/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Figueira da Foz - Buarcos webcam
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Norte - Nazaré webcam
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Peniche - Supertubos webcam
+http://video-auth1.iol.pt:1935/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Peniche - Lagilde Baía webcam
+http://video-auth1.iol.pt:1935/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Santa Cruz webcam
+http://video-auth1.iol.pt:1935/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Ribeira de Ilhas webcam
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Ericeira webcam
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia Grande webcam
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Guincho - Norte webcam
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Guincho - Sul webcam
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de São Pedro do Estoril webcam
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Carcavelos webcam
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Costa da Caparica CDS webcam
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Costa da Caparica - São João webcam
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Fonte da Telha webcam
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Carvalhal webcam
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de São Torpes webcam
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Zambujeira webcam
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Amoreira webcam
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Arrifana webcam
+http://video-auth1.iol.pt:1935/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Luz webcam
+http://video-auth1.iol.pt:1935/beachcam/luz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Meia Praia - Duna Beach webcam
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Alvor webcam
+http://video-auth1.iol.pt:1935/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Rocha webcam
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia da Galé webcam
+http://video-auth1.iol.pt:1935/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia do Evaristo webcam
+http://video-auth1.iol.pt:1935/beachcam/evaristo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Vilamoura webcam
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Jardim do Mar webcam
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia das Rocas webcam
+http://video-auth1.iol.pt:1935/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://beachcam.meo.pt/images/2016/menu/meo_beachcam.png" group-title="PORTUGAL Webcam",Praia de Matosinhos webcam
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »Radio Portugal « «[/COLOR]
