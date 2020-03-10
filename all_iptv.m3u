@@ -106,6 +106,10 @@ http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
 https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash=DAuhBUFN79vA6d2_wnRURedYCjUla4R0-cjzXBm4Gzw=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="BRASIL",[COLOR green][I][B]CANAL DO BOI [/B][/I][/COLOR]
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/playlist.m3u8?wowzatokenhash=K1-NvGAhK7HQZv_Yc19jCVjfKO75ZbaXvo0K1OpvCKc=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Logotipo_da_TV_Brasil.png/230px-Logotipo_da_TV_Brasil.png" group-title="BRASIL",[COLOR green][I][B]TV Brasil [/B][/I][/COLOR]
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_240/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »ALEMANHA « «[/COLOR]
