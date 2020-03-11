@@ -38,32 +38,32 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b64000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR green][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
-#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR green][I][B]PORTO CANAL[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR green][I][B]PORTO CANAL[/B][/I][/COLOR]
 rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10
 #EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV CABO VERDE[/B][/I][/COLOR]
 http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w1661838962_b2688000_sleng.m3u8
-#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_ARTV.png" group-title="PORTUGAL",[COLOR green][I][B]TV PARLAMENTO[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="artv-canal-parlamento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_ARTV.png" group-title="PORTUGAL",[COLOR green][I][B]TV PARLAMENTO[/B][/I][/COLOR]
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV FÁTIMA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV FÁTIMA[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR yellow][I][B]Andalucía TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR yellow][I][B]Andalucía TV [/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/canal_sur
 #EXTINF:-1 tvg-id="Galicia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR green][I][B]TV Galicia [/B][/I][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR green][I][B]LA 1 [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR green][I][B]LA 1 [/B][/I][/COLOR]
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static2.telemadrid.es/static/BB3HTML/images/logo.png" group-title="ESPANHA",[COLOR green][I][B]TELEMADRID [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Telemadrid" tvg-logo="http://static2.telemadrid.es/static/BB3HTML/images/logo.png" group-title="ESPANHA",[COLOR green][I][B]TELEMADRID [/B][/I][/COLOR]
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR green][I][B]CANAL ESTREMADURA [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Canal Extremadura TV" tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR green][I][B]CANAL ESTREMADURA [/B][/I][/COLOR]
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel4DVR.smil/chunklist_b500000_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="ESPANHA",[COLOR green][I][B]ARAGON TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Aragón Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="ESPANHA",[COLOR green][I][B]ARAGON TV [/B][/I][/COLOR]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png" group-title="ESPANHA",[COLOR green][I][B]LANCELOTE TV [/B][/I][/COLOR]
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
@@ -71,7 +71,7 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/200px-324_%28CCMA%29_logo.svg.png" group-title="ESPANHA",[COLOR green][I][B]3/24[/B][/I][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR green][I][B]REAL MADRID TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR green][I][B]REAL MADRID TV [/B][/I][/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 

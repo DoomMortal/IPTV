@@ -44,6 +44,51 @@
     <display-name lang="pt">TVI24</display-name>
     <url>http://www.tvi.pt</url>
   </channel>
+  <channel id="TVI_FICCAO">
+    <display-name lang="pt">TVI_FICCAO</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
+  <channel id="TVIReality">
+    <display-name lang="pt">TVIReality</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ARTV (Canal Parlamento)">
+    <display-name lang="pt">ARTV (Canal Parlamento)</display-name>
+    <url>http://www.portalnacional.com.pt</url>
+  </channel>
+  <channel id="Canal Sur Andalucía">
+    <display-name lang="es">Canal Sur Andalucía</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="Galicia TV">
+    <display-name lang="es">Galicia TV</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="La 1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="Aragón Televisión">
+    <display-name lang="es">Aragón Televisión</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="Canal Extremadura TV">
+    <display-name lang="es">Canal Extremadura TV</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="es">Real Madrid TV</display-name>
+    <url>http://www.elpais.com</url>
+  </channel>
   <channel id="Das Erste">
     <display-name lang="de">Das Erste</display-name>
     <icon src="https://senderlogos.images.dvbdata.com/302x190_w/71.png" />
@@ -154,14 +199,9 @@
     <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311195900 +0000" stop="20200311211500 +0000" channel="RTP1">
+  <programme start="20200311195900 +0000" stop="20200311215300 +0000" channel="RTP1">
     <title lang="en">Telejornal</title>
     <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311211500 +0000" stop="20200311215300 +0000" channel="RTP1">
-    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
-    <desc lang="en">G Pousada - Óscar Geadas - Bragança(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311215300 +0000" stop="20200311224900 +0000" channel="RTP1">
@@ -867,14 +907,9 @@
     <desc lang="en">Um programa de Literatura feito com a certeza de que, por melhor que seja, nada será como Dante(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311165800 +0000" stop="20200311175800 +0000" channel="RTP2">
+  <programme start="20200311165800 +0000" stop="20200311180000 +0000" channel="RTP2">
     <title lang="en">Ella Bella Bingo</title>
     <desc lang="en">Ella Bella Bingo é uma menina cheia de ideias e um entusiasmo contagiante! Não podes perder a terceira temporada!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311175800 +0000" stop="20200311180000 +0000" channel="RTP2">
-    <title lang="en">Banda Zig Zag</title>
-    <desc lang="en">!(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311180000 +0000" stop="20200311192500 +0000" channel="RTP2">
@@ -882,29 +917,9 @@
     <desc lang="en">Vem explorar o céu com as aventuras destes novos e encantadores amigos(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311192500 +0000" stop="20200311194800 +0000" channel="RTP2">
+  <programme start="20200311192500 +0000" stop="20200311202700 +0000" channel="RTP2">
     <title lang="en">Hardball</title>
     <desc lang="en">Uma série de comédia fora da caixa, com muito humor e emoção!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311194800 +0000" stop="20200311200000 +0000" channel="RTP2">
-    <title lang="en">Robin dos Bosques - Travessuras em Sherwood</title>
-    <desc lang="en">O jovem Robin de Locksley e os seus amigos vivem imensas aventuras, sem perder a oportunidade de se divertir!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311200000 +0000" stop="20200311201300 +0000" channel="RTP2">
-    <title lang="en">Robin dos Bosques - Travessuras em Sherwood</title>
-    <desc lang="en">O jovem Robin de Locksley e os seus amigos vivem imensas aventuras, sem perder a oportunidade de se divertir!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311201300 +0000" stop="20200311202400 +0000" channel="RTP2">
-    <title lang="en">Scream Street</title>
-    <desc lang="en">Uma série cheia de humor, assustadora e horripilante que conta as aventuras de Luke Watson, um adolescente perfeitamente normal... fora o facto de ter o gene do lobisomem!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311202400 +0000" stop="20200311202700 +0000" channel="RTP2">
-    <title lang="en">Destemidas</title>
-    <desc lang="en">As histórias de mulheres excecionais que foram além das convenções e preconceitos(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311202700 +0000" stop="20200311203300 +0000" channel="RTP2">
@@ -3039,14 +3054,9 @@
     <desc lang="en">Ligados a África... um continente em constante mudança(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311200000 +0000" stop="20200311210000 +0000" channel="RTP3">
+  <programme start="20200311200000 +0000" stop="20200311230000 +0000" channel="RTP3">
     <title lang="en">Às portas do inferno: Honduras, a taxa de guerra de Mara</title>
     <desc lang="en">Os motoristas de transportes públicos e os gangues criminosos nas Honduras(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311210000 +0000" stop="20200311230000 +0000" channel="RTP3">
-    <title lang="en">360</title>
-    <desc lang="en">Os vários ângulos da notícia. Todos os dias úteis às 21H00(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311230000 +0000" stop="20200311230500 +0000" channel="RTP3">
@@ -3923,19 +3933,19 @@
     <desc lang="en">Microprogramas com pérolas da Cinemateca Digital(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311191500 +0000" stop="20200311201000 +0000" channel="RTP Memória">
+  <programme start="20200311191500 +0000" stop="20200311200500 +0000" channel="RTP Memória">
     <title lang="en">Donos Disto Tudo</title>
     <desc lang="en">No regresso do humor sobre a atualidade ao prime time da RTP, um grupo de cinco comediantes(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311201000 +0000" stop="20200311210000 +0000" channel="RTP Memória">
-    <title lang="en">Os Anjos de Charlie</title>
-    <desc lang="en">Jill, Sabrina e Kelly... As aventuras de três belas detectives, numa das séries mais intemporais da história da televisão(n)</desc>
+  <programme start="20200311200500 +0000" stop="20200311201000 +0000" channel="RTP Memória">
+    <title lang="en">Boca de Cena</title>
+    <desc lang="en">Não perca pequenos grandes momentos do teatro português(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311210000 +0000" stop="20200311214900 +0000" channel="RTP Memória">
-    <title lang="en">MacGyver</title>
-    <desc lang="en">As aventuras de MacGyver: a sua mente é um autêntico canivete suíço(n)</desc>
+  <programme start="20200311201000 +0000" stop="20200311214900 +0000" channel="RTP Memória">
+    <title lang="en">Os Anjos de Charlie</title>
+    <desc lang="en">Jill, Sabrina e Kelly... As aventuras de três belas detectives, numa das séries mais intemporais da história da televisão(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311214900 +0000" stop="20200311225600 +0000" channel="RTP Memória">
@@ -4966,32 +4976,37 @@
     <desc lang="en">À medida que o tempo vai passando, o hotel vai perdendo excelência e, consequentemente, as suas estrelas... n n n n n n n n n n n n n n n(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200316223500 +0000" stop="20200316230000 +0000" channel="RTP Memória">
+  <programme start="20200316223500 +0000" stop="20200316225300 +0000" channel="RTP Memória">
     <title lang="en">Doido Por Ti</title>
     <desc lang="en">Série cómica e icónica dos anos 90 sobre as aventuras de um jovem casal nova-iorquino(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200316230000 +0000" stop="20200317000000 +0000" channel="RTP Memória">
+  <programme start="20200316225300 +0000" stop="20200316230000 +0000" channel="RTP Memória">
+    <title lang="en">Dora e Dário</title>
+    <desc lang="en">Os cromos de Ana Bola e Víctor de Sousa no seu melhor(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316230000 +0000" stop="20200316234400 +0000" channel="RTP Memória">
     <title lang="en">Ideias com História</title>
     <desc lang="en">Uma viagem pela História, pela dramatização dos seus grandes protagonistas(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317000000 +0000" stop="20200317001000 +0000" channel="RTP Memória">
+  <programme start="20200316234400 +0000" stop="20200317000000 +0000" channel="RTP Memória">
+    <title lang="en">Entrevista Histórica com Herman José</title>
+    <desc lang="en">A História segundo Herman José n n n n n(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317000000 +0000" stop="20200317002100 +0000" channel="RTP Memória">
     <title lang="en">Hora Cinemateca</title>
     <desc lang="en">Divulgar património preservado e restaurado pela Cinemateca em parceria com a RTP Memória(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317001000 +0000" stop="20200317002500 +0000" channel="RTP Memória">
+  <programme start="20200317002100 +0000" stop="20200317004200 +0000" channel="RTP Memória">
     <title lang="en">Hora Cinemateca</title>
     <desc lang="en">Divulgar património preservado e restaurado pela Cinemateca em parceria com a RTP Memória(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317002500 +0000" stop="20200317004000 +0000" channel="RTP Memória">
-    <title lang="en">Hora Cinemateca</title>
-    <desc lang="en">Divulgar património preservado e restaurado pela Cinemateca em parceria com a RTP Memória(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317004000 +0000" stop="20200317010000 +0000" channel="RTP Memória">
+  <programme start="20200317004200 +0000" stop="20200317010000 +0000" channel="RTP Memória">
     <title lang="en">Hora Cinemateca</title>
     <desc lang="en">Divulgar património preservado e restaurado pela Cinemateca em parceria com a RTP Memória(n)</desc>
     <category lang="en">News</category>
@@ -5016,22 +5031,27 @@
     <desc lang="en">Um olhar sobre a irrealidade do país..(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317033000 +0000" stop="20200317042500 +0000" channel="RTP Memória">
+  <programme start="20200317033000 +0000" stop="20200317041500 +0000" channel="RTP Memória">
     <title lang="en">Os Filhos do Rock</title>
     <desc lang="en">O rock volta a fazer história!... na nova série de época da RTP com a história da geração que atravessou os melhores anos do rock em Portugal..(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317042500 +0000" stop="20200317043000 +0000" channel="RTP Memória">
-    <title lang="en">A Música Portuguesa a Gostar Dela Própria</title>
-    <desc lang="en">Porque é importante a preservação da memória musical de um país(n)</desc>
+  <programme start="20200317041500 +0000" stop="20200317043600 +0000" channel="RTP Memória">
+    <title lang="en">Boião de Cultura</title>
+    <desc lang="en">Sketches humoristicos retirado da série de programas Parabéns apresentada por Herman José e produzida em 1994/95/96(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317043000 +0000" stop="20200317052500 +0000" channel="RTP Memória">
+  <programme start="20200317043600 +0000" stop="20200317052500 +0000" channel="RTP Memória">
     <title lang="en">Donos Disto Tudo</title>
     <desc lang="en">No regresso do humor sobre a atualidade ao prime time da RTP, um grupo de cinco comediantes(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200317052500 +0000" stop="20200317060000 +0000" channel="RTP Memória">
+  <programme start="20200317052500 +0000" stop="20200317053000 +0000" channel="RTP Memória">
+    <title lang="en">A Música Portuguesa a Gostar Dela Própria</title>
+    <desc lang="en">Porque é importante a preservação da memória musical de um país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317053000 +0000" stop="20200317060000 +0000" channel="RTP Memória">
     <title lang="en">Débora</title>
     <desc lang="en">Joaquina é uma cantora(n)</desc>
     <category lang="en">News</category>
@@ -5206,9 +5226,14 @@
     <desc lang="en">Um olhar sobre a irrealidade do país..(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200318033000 +0000" stop="20200318042500 +0000" channel="RTP Memória">
+  <programme start="20200318033000 +0000" stop="20200318041900 +0000" channel="RTP Memória">
     <title lang="en">Os Filhos do Rock</title>
     <desc lang="en">O rock volta a fazer história!... na nova série de época da RTP com a história da geração que atravessou os melhores anos do rock em Portugal..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318041900 +0000" stop="20200318042500 +0000" channel="RTP Memória">
+    <title lang="en">Boião de Cultura</title>
+    <desc lang="en">Sketches humoristicos retirado da série de programas Parabéns apresentada por Herman José e produzida em 1994/95/96(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200318042500 +0000" stop="20200318043000 +0000" channel="RTP Memória">
@@ -5405,19 +5430,9 @@
     <desc lang="en">Ligados a África... um continente em constante mudança(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311185600 +0000" stop="20200311195900 +0000" channel="RTP África">
+  <programme start="20200311185600 +0000" stop="20200311213200 +0000" channel="RTP África">
     <title lang="en">Fórum África</title>
     <desc lang="en">Hamilton Cruz(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311195900 +0000" stop="20200311210100 +0000" channel="RTP África">
-    <title lang="en">Telejornal</title>
-    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311210100 +0000" stop="20200311213200 +0000" channel="RTP África">
-    <title lang="en">Rumos</title>
-    <desc lang="en">Raffaella Gozzelino(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311213200 +0000" stop="20200311220700 +0000" channel="RTP África">
@@ -5435,14 +5450,9 @@
     <desc lang="en">Nada é o que parece(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312000800 +0000" stop="20200312013400 +0000" channel="RTP África">
+  <programme start="20200312000800 +0000" stop="20200312034400 +0000" channel="RTP África">
     <title lang="en">24 Horas</title>
     <desc lang="en">Jornal diário da RTP 3, trnsmitido a partir dos Estúdios do Porto da RTP(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312013400 +0000" stop="20200312034400 +0000" channel="RTP África">
-    <title lang="en">Sociedade Civil</title>
-    <desc lang="en">100 Oportunidades(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200312034400 +0000" stop="20200312060000 +0000" channel="RTP África">
@@ -6370,14 +6380,9 @@
     <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311151100 +0000" stop="20200311210000 +0000" channel="RTP Internacional">
+  <programme start="20200311151100 +0000" stop="20200311213200 +0000" channel="RTP Internacional">
     <title lang="en">A Nossa Tarde</title>
     <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311210000 +0000" stop="20200311213200 +0000" channel="RTP Internacional">
-    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
-    <desc lang="en">Yeatman - Ricardo Costa - Vila Nova de Gaia(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311213200 +0000" stop="20200311223300 +0000" channel="RTP Internacional">
@@ -7236,9 +7241,14 @@
     <desc lang="en">Pérolas do Oceano - para melhor conhecer a África contemporânea(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311170000 +0000" stop="20200311190000 +0000" channel="RTP Açores">
+  <programme start="20200311170000 +0000" stop="20200311183000 +0000" channel="RTP Açores">
     <title lang="en">Açores Hoje</title>
     <desc lang="en">Açores Hoje mostra as nove ilhas dos Açores(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200311183000 +0000" stop="20200311190000 +0000" channel="RTP Açores">
+    <title lang="en">Filhos da Nação</title>
+    <desc lang="en">Cláudia Almeida entrevista os nossos protagonistas(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311190000 +0000" stop="20200311191500 +0000" channel="RTP Açores">
@@ -7246,14 +7256,9 @@
     <desc lang="en">Viagens à volta do mundo(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311191500 +0000" stop="20200311200000 +0000" channel="RTP Açores">
+  <programme start="20200311191500 +0000" stop="20200311204000 +0000" channel="RTP Açores">
     <title lang="en">Os Nossos Dias</title>
     <desc lang="en">É mais do que uma história de vingança. Uma luta constante pela verdade e justiça. Um jogo onde ninguém pode confiar em ninguém(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311200000 +0000" stop="20200311204000 +0000" channel="RTP Açores">
-    <title lang="en">Telejornal Açores</title>
-    <desc lang="en">Toda a informação dos Açores diariamente em destaque no Telejornal(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311204000 +0000" stop="20200311204500 +0000" channel="RTP Açores">
@@ -8190,22 +8195,14 @@
     <desc lang="en">A aproximação da diáspora com origem nas regiões autónomas dos Açores e da Madeira, com os assuntos que marcam a atualidade destas ilhas(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311172500 +0000" stop="20200311185000 +0000" channel="RTP Madeira">
+  <programme start="20200311172500 +0000" stop="20200311190000 +0000" channel="RTP Madeira">
     <title lang="en">Super Especial 2020</title>
     <desc lang="en">Rampa da Camacha(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311185000 +0000" stop="20200311190000 +0000" channel="RTP Madeira">
-    <title lang="en">Parlamento Madeira - 2020</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311190000 +0000" stop="20200311192000 +0000" channel="RTP Madeira">
+  <programme start="20200311190000 +0000" stop="20200311215000 +0000" channel="RTP Madeira">
     <title lang="en">Notícias das 19 (Madeira)</title>
     <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311192000 +0000" stop="20200311215000 +0000" channel="RTP Madeira">
-    <title lang="en">Madeira Viva 2020</title>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311215000 +0000" stop="20200311233500 +0000" channel="RTP Madeira">
@@ -9646,6 +9643,1193 @@
   <programme start="20200317233200 +0000" stop="20200318004500 +0000" channel="TVI24">
     <title lang="pt">Onde está Elisa?</title>
   </programme>
+  <programme start="20200311060000 +0000" stop="20200311070000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200311070000 +0000" stop="20200311101400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200311101400 +0000" stop="20200311130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200311130000 +0000" stop="20200311144500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200311144500 +0000" stop="20200311161500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200311161500 +0000" stop="20200311190000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200311190000 +0000" stop="20200311195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200311195700 +0000" stop="20200311210000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200311210000 +0000" stop="20200311215500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200311215500 +0000" stop="20200311233200 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200311233200 +0000" stop="20200312004500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200312004500 +0000" stop="20200312013000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200312013000 +0000" stop="20200312022300 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Defesa à medida</title>
+  </programme>
+  <programme start="20200312022300 +0000" stop="20200312030000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200312030000 +0000" stop="20200312032500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200312032500 +0000" stop="20200312034800 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200312034800 +0000" stop="20200312041000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200312041000 +0000" stop="20200312043000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200312043000 +0000" stop="20200312060000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200312060000 +0000" stop="20200312070000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200312070000 +0000" stop="20200312101400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200312101400 +0000" stop="20200312130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200312130000 +0000" stop="20200312144500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200312144500 +0000" stop="20200312161500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200312161500 +0000" stop="20200312190000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200312190000 +0000" stop="20200312195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200312195700 +0000" stop="20200312215500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200312215500 +0000" stop="20200312233200 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200312233200 +0000" stop="20200313004100 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200313004100 +0000" stop="20200313012700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200313012700 +0000" stop="20200313021900 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200313021900 +0000" stop="20200313025700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200313025700 +0000" stop="20200313032100 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200313032100 +0000" stop="20200313034500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200313034500 +0000" stop="20200313040900 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200313040900 +0000" stop="20200313043000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200313043000 +0000" stop="20200313060000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200313060000 +0000" stop="20200313070000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200313070000 +0000" stop="20200313101400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200313101400 +0000" stop="20200313130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200313130000 +0000" stop="20200313144500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200313144500 +0000" stop="20200313161500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200313161500 +0000" stop="20200313191300 +0000" channel="TVI_FICCAO">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200313191300 +0000" stop="20200313195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200313195700 +0000" stop="20200313215500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200313215500 +0000" stop="20200313233200 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200313233200 +0000" stop="20200314004100 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200314004100 +0000" stop="20200314012400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200314012400 +0000" stop="20200314021500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200314021500 +0000" stop="20200314031700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Autores</title>
+    <sub-title lang="pt">Jorge Curvel</sub-title>
+  </programme>
+  <programme start="20200314031700 +0000" stop="20200314034500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200314034500 +0000" stop="20200314041000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200314041000 +0000" stop="20200314043000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200314043000 +0000" stop="20200314060000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200314060000 +0000" stop="20200314070000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200314070000 +0000" stop="20200314101400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200314101400 +0000" stop="20200314130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200314130000 +0000" stop="20200314144500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200314144500 +0000" stop="20200314161500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200314161500 +0000" stop="20200314190000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200314190000 +0000" stop="20200314195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200314195700 +0000" stop="20200314214500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Euromilhões</sub-title>
+  </programme>
+  <programme start="20200314214500 +0000" stop="20200314230000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200314230000 +0000" stop="20200315000000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200315000000 +0000" stop="20200315010000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200315010000 +0000" stop="20200315014500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200315014500 +0000" stop="20200315021500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200315021500 +0000" stop="20200315040000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Cirque du soleil: viagem a mundos distantes</title>
+  </programme>
+  <programme start="20200315040000 +0000" stop="20200315054500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200315061500 +0000" stop="20200315065500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200315065500 +0000" stop="20200315080000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315090000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200315090000 +0000" stop="20200315120000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+    <sub-title lang="pt">Especial</sub-title>
+  </programme>
+  <programme start="20200315120000 +0000" stop="20200315130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Conta-me como és</title>
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315142000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200315142000 +0000" stop="20200315195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Somos Portugal</title>
+  </programme>
+  <programme start="20200315195700 +0000" stop="20200315213000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200315213000 +0000" stop="20200315225200 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mental Samurai</title>
+  </programme>
+  <programme start="20200315225200 +0000" stop="20200316000000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200316000000 +0000" stop="20200316020000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Atividade Paranormal 4</title>
+  </programme>
+  <programme start="20200316020000 +0000" stop="20200316021500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">GTI</title>
+  </programme>
+  <programme start="20200316021500 +0000" stop="20200316024500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200316024500 +0000" stop="20200316031500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200316031500 +0000" stop="20200316040000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200316040000 +0000" stop="20200316054500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200316061500 +0000" stop="20200316064500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Todos Iguais</title>
+  </programme>
+  <programme start="20200316064500 +0000" stop="20200316080000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200316080000 +0000" stop="20200316090000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200316090000 +0000" stop="20200316103000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200316103000 +0000" stop="20200316110000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Selfie</title>
+  </programme>
+  <programme start="20200316110000 +0000" stop="20200316123000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Missa</title>
+    <sub-title lang="pt">Torres Novas</sub-title>
+  </programme>
+  <programme start="20200316123000 +0000" stop="20200316130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Mesa Nacional</title>
+  </programme>
+  <programme start="20200316130000 +0000" stop="20200316140000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200316140000 +0000" stop="20200316195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Somos Portugal</title>
+    <sub-title lang="pt">Oliveira do Hospital</sub-title>
+  </programme>
+  <programme start="20200316195700 +0000" stop="20200316213000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200316213000 +0000" stop="20200317000000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">A gala</sub-title>
+  </programme>
+  <programme start="20200317000000 +0000" stop="20200317004500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">Frente-a-frente</sub-title>
+  </programme>
+  <programme start="20200317004500 +0000" stop="20200317031500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">O Caçador e a Rainha do Gelo</title>
+  </programme>
+  <programme start="20200317031500 +0000" stop="20200317040000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200317040000 +0000" stop="20200317054500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200317054500 +0000" stop="20200317060000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Batanetes</title>
+  </programme>
+  <programme start="20200317060000 +0000" stop="20200317070000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200317070000 +0000" stop="20200317101400 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200317101400 +0000" stop="20200317130000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200317130000 +0000" stop="20200317144500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200317144500 +0000" stop="20200317161500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200317161500 +0000" stop="20200317190000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200317190000 +0000" stop="20200317195700 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200317195700 +0000" stop="20200317210000 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200317210000 +0000" stop="20200317215500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200317215500 +0000" stop="20200317233200 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200317233200 +0000" stop="20200318004500 +0000" channel="TVI_FICCAO">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200311060000 +0000" stop="20200311070000 +0000" channel="TVIReality">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200311070000 +0000" stop="20200311101400 +0000" channel="TVIReality">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200311101400 +0000" stop="20200311130000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200311130000 +0000" stop="20200311144500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200311144500 +0000" stop="20200311161500 +0000" channel="TVIReality">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200311161500 +0000" stop="20200311190000 +0000" channel="TVIReality">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200311190000 +0000" stop="20200311195700 +0000" channel="TVIReality">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200311195700 +0000" stop="20200311210000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200311210000 +0000" stop="20200311215500 +0000" channel="TVIReality">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200311215500 +0000" stop="20200311233200 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200311233200 +0000" stop="20200312004500 +0000" channel="TVIReality">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200312004500 +0000" stop="20200312013000 +0000" channel="TVIReality">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200312013000 +0000" stop="20200312022300 +0000" channel="TVIReality">
+    <title lang="pt">Defesa à medida</title>
+  </programme>
+  <programme start="20200312022300 +0000" stop="20200312030000 +0000" channel="TVIReality">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200312030000 +0000" stop="20200312032500 +0000" channel="TVIReality">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200312032500 +0000" stop="20200312034800 +0000" channel="TVIReality">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200312034800 +0000" stop="20200312041000 +0000" channel="TVIReality">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200312041000 +0000" stop="20200312043000 +0000" channel="TVIReality">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200312043000 +0000" stop="20200312060000 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200312060000 +0000" stop="20200312070000 +0000" channel="TVIReality">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200312070000 +0000" stop="20200312101400 +0000" channel="TVIReality">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200312101400 +0000" stop="20200312130000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200312130000 +0000" stop="20200312144500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200312144500 +0000" stop="20200312161500 +0000" channel="TVIReality">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200312161500 +0000" stop="20200312190000 +0000" channel="TVIReality">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200312190000 +0000" stop="20200312195700 +0000" channel="TVIReality">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200312195700 +0000" stop="20200312215500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200312215500 +0000" stop="20200312233200 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200312233200 +0000" stop="20200313004100 +0000" channel="TVIReality">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200313004100 +0000" stop="20200313012700 +0000" channel="TVIReality">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200313012700 +0000" stop="20200313021900 +0000" channel="TVIReality">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200313021900 +0000" stop="20200313025700 +0000" channel="TVIReality">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200313025700 +0000" stop="20200313032100 +0000" channel="TVIReality">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200313032100 +0000" stop="20200313034500 +0000" channel="TVIReality">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200313034500 +0000" stop="20200313040900 +0000" channel="TVIReality">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200313040900 +0000" stop="20200313043000 +0000" channel="TVIReality">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200313043000 +0000" stop="20200313060000 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200313060000 +0000" stop="20200313070000 +0000" channel="TVIReality">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200313070000 +0000" stop="20200313101400 +0000" channel="TVIReality">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200313101400 +0000" stop="20200313130000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200313130000 +0000" stop="20200313144500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200313144500 +0000" stop="20200313161500 +0000" channel="TVIReality">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200313161500 +0000" stop="20200313191300 +0000" channel="TVIReality">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200313191300 +0000" stop="20200313195700 +0000" channel="TVIReality">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200313195700 +0000" stop="20200313215500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200313215500 +0000" stop="20200313233200 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200313233200 +0000" stop="20200314004100 +0000" channel="TVIReality">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200314004100 +0000" stop="20200314012400 +0000" channel="TVIReality">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200314012400 +0000" stop="20200314021500 +0000" channel="TVIReality">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200314021500 +0000" stop="20200314031700 +0000" channel="TVIReality">
+    <title lang="pt">Autores</title>
+    <sub-title lang="pt">Jorge Curvel</sub-title>
+  </programme>
+  <programme start="20200314031700 +0000" stop="20200314034500 +0000" channel="TVIReality">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200314034500 +0000" stop="20200314041000 +0000" channel="TVIReality">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200314041000 +0000" stop="20200314043000 +0000" channel="TVIReality">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200314043000 +0000" stop="20200314060000 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200314060000 +0000" stop="20200314070000 +0000" channel="TVIReality">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200314070000 +0000" stop="20200314101400 +0000" channel="TVIReality">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200314101400 +0000" stop="20200314130000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200314130000 +0000" stop="20200314144500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200314144500 +0000" stop="20200314161500 +0000" channel="TVIReality">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200314161500 +0000" stop="20200314190000 +0000" channel="TVIReality">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200314190000 +0000" stop="20200314195700 +0000" channel="TVIReality">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200314195700 +0000" stop="20200314214500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Euromilhões</sub-title>
+  </programme>
+  <programme start="20200314214500 +0000" stop="20200314230000 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200314230000 +0000" stop="20200315000000 +0000" channel="TVIReality">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200315000000 +0000" stop="20200315010000 +0000" channel="TVIReality">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200315010000 +0000" stop="20200315014500 +0000" channel="TVIReality">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200315014500 +0000" stop="20200315021500 +0000" channel="TVIReality">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200315021500 +0000" stop="20200315040000 +0000" channel="TVIReality">
+    <title lang="pt">Cirque du soleil: viagem a mundos distantes</title>
+  </programme>
+  <programme start="20200315040000 +0000" stop="20200315054500 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200315061500 +0000" stop="20200315065500 +0000" channel="TVIReality">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200315065500 +0000" stop="20200315080000 +0000" channel="TVIReality">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315090000 +0000" channel="TVIReality">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200315090000 +0000" stop="20200315120000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+    <sub-title lang="pt">Especial</sub-title>
+  </programme>
+  <programme start="20200315120000 +0000" stop="20200315130000 +0000" channel="TVIReality">
+    <title lang="pt">Conta-me como és</title>
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315142000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200315142000 +0000" stop="20200315195700 +0000" channel="TVIReality">
+    <title lang="pt">Somos Portugal</title>
+  </programme>
+  <programme start="20200315195700 +0000" stop="20200315213000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200315213000 +0000" stop="20200315225200 +0000" channel="TVIReality">
+    <title lang="pt">Mental Samurai</title>
+  </programme>
+  <programme start="20200315225200 +0000" stop="20200316000000 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200316000000 +0000" stop="20200316020000 +0000" channel="TVIReality">
+    <title lang="pt">Atividade Paranormal 4</title>
+  </programme>
+  <programme start="20200316020000 +0000" stop="20200316021500 +0000" channel="TVIReality">
+    <title lang="pt">GTI</title>
+  </programme>
+  <programme start="20200316021500 +0000" stop="20200316024500 +0000" channel="TVIReality">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200316024500 +0000" stop="20200316031500 +0000" channel="TVIReality">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200316031500 +0000" stop="20200316040000 +0000" channel="TVIReality">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200316040000 +0000" stop="20200316054500 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200316061500 +0000" stop="20200316064500 +0000" channel="TVIReality">
+    <title lang="pt">Todos Iguais</title>
+  </programme>
+  <programme start="20200316064500 +0000" stop="20200316080000 +0000" channel="TVIReality">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200316080000 +0000" stop="20200316090000 +0000" channel="TVIReality">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200316090000 +0000" stop="20200316103000 +0000" channel="TVIReality">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200316103000 +0000" stop="20200316110000 +0000" channel="TVIReality">
+    <title lang="pt">Selfie</title>
+  </programme>
+  <programme start="20200316110000 +0000" stop="20200316123000 +0000" channel="TVIReality">
+    <title lang="pt">Missa</title>
+    <sub-title lang="pt">Torres Novas</sub-title>
+  </programme>
+  <programme start="20200316123000 +0000" stop="20200316130000 +0000" channel="TVIReality">
+    <title lang="pt">Mesa Nacional</title>
+  </programme>
+  <programme start="20200316130000 +0000" stop="20200316140000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200316140000 +0000" stop="20200316195700 +0000" channel="TVIReality">
+    <title lang="pt">Somos Portugal</title>
+    <sub-title lang="pt">Oliveira do Hospital</sub-title>
+  </programme>
+  <programme start="20200316195700 +0000" stop="20200316213000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200316213000 +0000" stop="20200317000000 +0000" channel="TVIReality">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">A gala</sub-title>
+  </programme>
+  <programme start="20200317000000 +0000" stop="20200317004500 +0000" channel="TVIReality">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">Frente-a-frente</sub-title>
+  </programme>
+  <programme start="20200317004500 +0000" stop="20200317031500 +0000" channel="TVIReality">
+    <title lang="pt">O Caçador e a Rainha do Gelo</title>
+  </programme>
+  <programme start="20200317031500 +0000" stop="20200317040000 +0000" channel="TVIReality">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200317040000 +0000" stop="20200317054500 +0000" channel="TVIReality">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200317054500 +0000" stop="20200317060000 +0000" channel="TVIReality">
+    <title lang="pt">Batanetes</title>
+  </programme>
+  <programme start="20200317060000 +0000" stop="20200317070000 +0000" channel="TVIReality">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200317070000 +0000" stop="20200317101400 +0000" channel="TVIReality">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200317101400 +0000" stop="20200317130000 +0000" channel="TVIReality">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200317130000 +0000" stop="20200317144500 +0000" channel="TVIReality">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200317144500 +0000" stop="20200317161500 +0000" channel="TVIReality">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200317161500 +0000" stop="20200317190000 +0000" channel="TVIReality">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200317190000 +0000" stop="20200317195700 +0000" channel="TVIReality">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200317195700 +0000" stop="20200317210000 +0000" channel="TVIReality">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200317210000 +0000" stop="20200317215500 +0000" channel="TVIReality">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200317215500 +0000" stop="20200317233200 +0000" channel="TVIReality">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200317233200 +0000" stop="20200318004500 +0000" channel="TVIReality">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200311040000 +0000" stop="20200311043000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <desc lang="pt">Um programa dedicado à divulgação da História e do Património do nosso país, que visa valorizar a nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723025/M" />
+  </programme>
+  <programme start="20200311043000 +0000" stop="20200311050000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Imperdíveis</title>
+    <desc lang="pt">Programa dedicado ao vinho e à gastronomia, cujo foco incide nas grandes quintas produtoras de vinho português e de vinho do Porto. Dá-nos a conhecer os vários eventos dedicados à vitivinicultura, assim como novos locais e espaços de degustação(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723017/M" />
+  </programme>
+  <programme start="20200311050000 +0000" stop="20200311053000 +0000" channel="PORTO CANAL">
+    <title lang="pt">5 Dias Por Semana - Glitter Late Night</title>
+    <desc lang="pt">Programa de Carina Caldeira, uma das maiores influencers do panorama nacional. Considerada uma It Girl, que já viveu em cidades como Madrid ou Nova Iorque, a apresentadora de TV que adora moda e beleza passa agora a fazer-nos companhia '5 Dias Por Semana'(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723027/M" />
+  </programme>
+  <programme start="20200311053000 +0000" stop="20200311060000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Gente Que Conta (?)</title>
+  </programme>
+  <programme start="20200311060000 +0000" stop="20200311063000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723031/M" />
+  </programme>
+  <programme start="20200311063000 +0000" stop="20200311064500 +0000" channel="PORTO CANAL">
+    <title lang="pt">O Meu Bairro</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723033/M" />
+  </programme>
+  <programme start="20200311064500 +0000" stop="20200311070000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha - Agenda</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723035/M" />
+  </programme>
+  <programme start="20200311070000 +0000" stop="20200311073000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723037/M" />
+  </programme>
+  <programme start="20200311073000 +0000" stop="20200311080000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <desc lang="pt">A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país: os eventos, as marcas e produtos, hotéis e restaurantes, o mundo digital e as suas melhores figuras. A par com convidados, e durante meia hora, o Glitter Show faz-nos sonhar, mas acima de tudo rir, rir muito. E ainda é grátis!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723039/M" />
+  </programme>
+  <programme start="20200311080000 +0000" stop="20200311090000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723041/M" />
+  </programme>
+  <programme start="20200311090000 +0000" stop="20200311100000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Filhos &amp; Cadilhos</title>
+    <desc lang="pt">Filhos e Cadilhos é um programa dedicado à parentalidade. A ideia é, semanalmente, abordar todas as questões relacionadas com a gravidez, recém-nascidos e crianças: saúde, alimentação, roupa e acessórios, puericultura, primeiros cuidados com o bebé, etc(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723043/M" />
+  </programme>
+  <programme start="20200311100000 +0000" stop="20200311103000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723037/M" />
+  </programme>
+  <programme start="20200311103000 +0000" stop="20200311130000 +0000" channel="PORTO CANAL">
+    <title lang="pt">D'Mais</title>
+    <desc lang="pt">Programa apresentado por Débora Sá onde o formato combina várias vertentes, nomeadamente entrevista, rúbricas e música, prometendo tornar-se num espaço de surpresas, emoções e claro, muito humor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723045/M" />
+  </programme>
+  <programme start="20200311130000 +0000" stop="20200311131500 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Jornal</title>
+    <desc lang="pt">O Universo Porto - Jornal e´ um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723047/M" />
+  </programme>
+  <programme start="20200311131500 +0000" stop="20200311133000 +0000" channel="PORTO CANAL">
+    <title lang="pt">O Meu Bairro</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723033/M" />
+  </programme>
+  <programme start="20200311133000 +0000" stop="20200311140000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Mentes Que Brilham</title>
+    <desc lang="pt">Um programa sobre ciência e investigação que dá voz aos mais variados temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723049/M" />
+  </programme>
+  <programme start="20200311140000 +0000" stop="20200311150000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723041/M" />
+  </programme>
+  <programme start="20200311150000 +0000" stop="20200311153000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723051/M" />
+  </programme>
+  <programme start="20200311153000 +0000" stop="20200311170000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Consultório</title>
+    <desc lang="pt">Programa diário sobre saúde e medicina. Todos os dias os especialistas convidados, na primeira parte do programa, falam sobre as doenças que mais afetam a população portuguesa. Apresentado por Susana Cunha Guimarães(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723053/M" />
+  </programme>
+  <programme start="20200311170000 +0000" stop="20200311173000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <desc lang="pt">Um programa dedicado à divulgação da História e do Património do nosso país, que visa valorizar a nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723025/M" />
+  </programme>
+  <programme start="20200311173000 +0000" stop="20200311194500 +0000" channel="PORTO CANAL">
+    <title lang="pt">Alô Ricardo</title>
+    <desc lang="pt">Programa de segunda a sexta-feira apresentado por Ricardo Couto e com a participação de Francisco Tavares com o foco no entretenimento. Com espaços de música, animação, culinária e entrevistas, este programa quer levar até ao espetador o que de melhor se faz em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723055/M" />
+  </programme>
+  <programme start="20200311194500 +0000" stop="20200311200000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Jornal</title>
+    <desc lang="pt">O Universo Porto - Jornal e´ um programa de informação desportiva, sobre conteúdos do FC Porto. Trata-se de um programa diário, de segunda a sexta-feira, com todas as informações do FC Porto, um olhar atento sobre o dia-a-dia do clube, com síntese sobre todas as modalidades(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723047/M" />
+  </programme>
+  <programme start="20200311200000 +0000" stop="20200311203000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723031/M" />
+  </programme>
+  <programme start="20200311203000 +0000" stop="20200311210000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <desc lang="pt">A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país: os eventos, as marcas e produtos, hotéis e restaurantes, o mundo digital e as suas melhores figuras. A par com convidados, e durante meia hora, o Glitter Show faz-nos sonhar, mas acima de tudo rir, rir muito. E ainda é grátis!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723039/M" />
+  </programme>
+  <programme start="20200311210000 +0000" stop="20200311220000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Jornal Diário</title>
+    <desc lang="pt">Um programa diário que parte do Porto e Norte para o resto do país(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723057/M" />
+  </programme>
+  <programme start="20200311220000 +0000" stop="20200311230000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Bancada De Imprensa</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723059/M" />
+  </programme>
+  <programme start="20200311230000 +0000" stop="20200311233000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723061/M" />
+  </programme>
+  <programme start="20200311233000 +0000" stop="20200312001500 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pontos Nos Is</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723063/M" />
+  </programme>
+  <programme start="20200312013000 +0000" stop="20200312033000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Basquetebol: FC Porto x Oliveirense</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723069/M" />
+  </programme>
+  <programme start="20200312033000 +0000" stop="20200312040000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Azul e Branco</title>
+    <desc lang="pt">Reportagem de Ricardo Amorim sobre o universo menos conhecido do FC Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723071/M" />
+  </programme>
+  <programme start="20200312040000 +0000" stop="20200312043000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723073/M" />
+  </programme>
+  <programme start="20200312043000 +0000" stop="20200312051500 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pontos Nos Is</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723075/M" />
+  </programme>
+  <programme start="20200312051500 +0000" stop="20200312053000 +0000" channel="PORTO CANAL">
+    <title lang="pt">O Meu Bairro</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723077/M" />
+  </programme>
+  <programme start="20200312053000 +0000" stop="20200312060000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Mentes Que Brilham</title>
+    <desc lang="pt">Um programa sobre ciência e investigação que dá voz aos mais variados temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723079/M" />
+  </programme>
+  <programme start="20200312060000 +0000" stop="20200312063000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723081/M" />
+  </programme>
+  <programme start="20200312063000 +0000" stop="20200312070000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Porto Beats</title>
+    <desc lang="pt">Fique a conhecer pessoas e sítios que dão vida ao Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723083/M" />
+  </programme>
+  <programme start="20200312070000 +0000" stop="20200312073000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723085/M" />
+  </programme>
+  <programme start="20200312073000 +0000" stop="20200312080000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723065/M" />
+  </programme>
+  <programme start="20200312080000 +0000" stop="20200312093000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723087/M" />
+  </programme>
+  <programme start="20200312093000 +0000" stop="20200312100000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pontos Cardeais</title>
+    <desc lang="pt">Pontos Cardeais é emitido semanalmente e mostra as principais atividades económicas, bem como os principais pontos de atração turística das cidades portuguesas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723089/M" />
+  </programme>
+  <programme start="20200312100000 +0000" stop="20200312103000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723085/M" />
+  </programme>
+  <programme start="20200312103000 +0000" stop="20200312130000 +0000" channel="PORTO CANAL">
+    <title lang="pt">D'Mais</title>
+    <desc lang="pt">Programa apresentado por Débora Sá onde o formato combina várias vertentes, nomeadamente entrevista, rúbricas e música, prometendo tornar-se num espaço de surpresas, emoções e claro, muito humor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723091/M" />
+  </programme>
+  <programme start="20200314013000 +0000" stop="20200314030000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723165/M" />
+  </programme>
+  <programme start="20200314030000 +0000" stop="20200314033000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Azul e Branco</title>
+    <desc lang="pt">Reportagem de Ricardo Amorim sobre o universo menos conhecido do FC Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723167/M" />
+  </programme>
+  <programme start="20200314033000 +0000" stop="20200314040000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723169/M" />
+  </programme>
+  <programme start="20200314040000 +0000" stop="20200314043000 +0000" channel="PORTO CANAL">
+    <title lang="pt">5 Dias Por Semana - Glitter Late Night (?)</title>
+  </programme>
+  <programme start="20200314043000 +0000" stop="20200314050000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Alemanha 30 Anos Depois</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723173/M" />
+  </programme>
+  <programme start="20200314050000 +0000" stop="20200314053000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Alemanha 30 Anos Depois</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723173/M" />
+  </programme>
+  <programme start="20200314053000 +0000" stop="20200314060000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Transparências</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723175/M" />
+  </programme>
+  <programme start="20200315013000 +0000" stop="20200315033000 +0000" channel="PORTO CANAL">
+    <title lang="pt">FC Porto B x Ac. Viseu - Segunda Liga</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723217/M" />
+  </programme>
+  <programme start="20200315033000 +0000" stop="20200315043000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723219/M" />
+  </programme>
+  <programme start="20200315043000 +0000" stop="20200315063000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Basquetebol: FC Porto x CAB</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723221/M" />
+  </programme>
+  <programme start="20200315063000 +0000" stop="20200315070000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723223/M" />
+  </programme>
+  <programme start="20200315070000 +0000" stop="20200315073000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <desc lang="pt">A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país: os eventos, as marcas e produtos, hotéis e restaurantes, o mundo digital e as suas melhores figuras. A par com convidados, e durante meia hora, o Glitter Show faz-nos sonhar, mas acima de tudo rir, rir muito. E ainda é grátis!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723225/M" />
+  </programme>
+  <programme start="20200315073000 +0000" stop="20200315080000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723215/M" />
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315093000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <desc lang="pt">Programa de culinária, apresentado pelo Chef José Alexandre, onde diariamente são confecionadas receitas rápidas e económicas para o dia-a-dia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723227/M" />
+  </programme>
+  <programme start="20200315093000 +0000" stop="20200315100000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pontos Cardeais</title>
+    <desc lang="pt">Pontos Cardeais é emitido semanalmente e mostra as principais atividades económicas, bem como os principais pontos de atração turística das cidades portuguesas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723229/M" />
+  </programme>
+  <programme start="20200315100000 +0000" stop="20200315110000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Filhos &amp; Cadilhos</title>
+    <desc lang="pt">Filhos e Cadilhos é um programa dedicado à parentalidade. A ideia é, semanalmente, abordar todas as questões relacionadas com a gravidez, recém-nascidos e crianças: saúde, alimentação, roupa e acessórios, puericultura, primeiros cuidados com o bebé, etc(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723231/M" />
+  </programme>
+  <programme start="20200315110000 +0000" stop="20200315113000 +0000" channel="PORTO CANAL">
+    <title lang="pt">No Coração da Ação</title>
+    <desc lang="pt">'Au cœur de l'extrême', magazine Trip-Freestyle-Lifestyle, desportos radicais, apresentado por Bruno Detante(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723233/M" />
+  </programme>
+  <programme start="20200315113000 +0000" stop="20200315120000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723235/M" />
+  </programme>
+  <programme start="20200315120000 +0000" stop="20200315130000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Nota Alta</title>
+    <desc lang="pt">O novo programa semanal de Rui Massena, “Nota Alta”, vai contar com a presença de convidados e artistas em estúdio para conversas informais sobre diversas temáticas. Com este programa a música marca também presença num ambiente intimista(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723237/M" />
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315131500 +0000" channel="PORTO CANAL">
+    <title lang="pt">O Meu Bairro</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723239/M" />
+  </programme>
+  <programme start="20200315131500 +0000" stop="20200315133000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Foyer</title>
+    <desc lang="pt">Neste magazine cultural, emitido quinzenalmente no Porto Canal, mostramos os destaques da programação do Coliseu do Porto, a agenda com os próximos espetáculos e contamos histórias sobre este teatro histórico do Porto, inaugurado em 1941(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723241/M" />
+  </programme>
+  <programme start="20200315133000 +0000" stop="20200315140000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Mentes Que Brilham</title>
+    <desc lang="pt">Um programa sobre ciência e investigação que dá voz aos mais variados temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723243/M" />
+  </programme>
+  <programme start="20200315140000 +0000" stop="20200315143000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723215/M" />
+  </programme>
+  <programme start="20200315143000 +0000" stop="20200315153000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Júlio Magalhães</title>
+    <desc lang="pt">Júlio Magalhães entrevista a diversas figuras da sociedade portuguesa. Desde a política, à música, passando pelo humor, muitos serão os convidados do jornalista(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723245/M" />
+  </programme>
+  <programme start="20200315153000 +0000" stop="20200315160000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <desc lang="pt">A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país: os eventos, as marcas e produtos, hotéis e restaurantes, o mundo digital e as suas melhores figuras. A par com convidados, e durante meia hora, o Glitter Show faz-nos sonhar, mas acima de tudo rir, rir muito. E ainda é grátis!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723225/M" />
+  </programme>
+  <programme start="20200315160000 +0000" stop="20200315163000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723223/M" />
+  </programme>
+  <programme start="20200315163000 +0000" stop="20200315173000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723219/M" />
+  </programme>
+  <programme start="20200315173000 +0000" stop="20200315180000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <desc lang="pt">Um programa dedicado à divulgação da História e do Património do nosso país, que visa valorizar a nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723247/M" />
+  </programme>
+  <programme start="20200315180000 +0000" stop="20200315184500 +0000" channel="PORTO CANAL">
+    <title lang="pt">Domingo Informativo</title>
+    <desc lang="pt">Espaço noticioso dedicado às notícias de proximidade dos portugueses(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723249/M" />
+  </programme>
+  <programme start="20200315184500 +0000" stop="20200315200000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Famalicão x FC Porto (Pré-Match)</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723251/M" />
+  </programme>
+  <programme start="20200315200000 +0000" stop="20200315215000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Ao Minuto: Famalicão x FC Porto</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723253/M" />
+  </programme>
+  <programme start="20200315215000 +0000" stop="20200315230000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Famalicão x FC Porto (Pós-Match)</title>
+    <desc lang="pt">Espaço dedicado a transmissões desportivas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723255/M" />
+  </programme>
+  <programme start="20200315230000 +0000" stop="20200315233000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Transparências</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723257/M" />
+  </programme>
+  <programme start="20200315233000 +0000" stop="20200316000000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado à Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas. Apresentado por Pedro Oliveira(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723235/M" />
+  </programme>
+  <programme start="20200316000000 +0000" stop="20200316003000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Imperdíveis</title>
+    <desc lang="pt">Programa dedicado ao vinho e à gastronomia, cujo foco incide nas grandes quintas produtoras de vinho português e de vinho do Porto. Dá-nos a conhecer os vários eventos dedicados à vitivinicultura, assim como novos locais e espaços de degustação(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723265/M" />
+  </programme>
+  <programme start="20200316003000 +0000" stop="20200316010000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Porto Beats</title>
+    <desc lang="pt">Fique a conhecer pessoas e sítios que dão vida ao Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723263/M" />
+  </programme>
+  <programme start="20200316010000 +0000" stop="20200316020000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Duelo de Campeões</title>
+    <desc lang="pt">Magazine centrado nos desportes de combate(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723261/M" />
+  </programme>
+  <programme start="20200316020000 +0000" stop="20200316030000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto Entrevista</title>
+    <desc lang="pt">Entrevistas aos principais intervenientes no Universo do Futebol Clube do Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723259/M" />
+  </programme>
+  <programme start="20200316030000 +0000" stop="20200316033000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <desc lang="pt">'Pole Position' traz as novidades do desporto automóvel, a adrenalina das corridas, as histórias dos pilotos, os treinos, a luta pela vitória em todos os Campeonatos de Portugal da modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723267/M" />
+  </programme>
+  <programme start="20200316033000 +0000" stop="20200316040000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Cadeira de Sonho</title>
+    <desc lang="pt">O “Cadeira de Sonho” procura histórias de vida de gente comum que tem paixão pelo FC Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723269/M" />
+  </programme>
+  <programme start="20200316040000 +0000" stop="20200316043000 +0000" channel="PORTO CANAL">
+    <title lang="pt">No Coração da Ação</title>
+    <desc lang="pt">'Au cœur de l'extrême', magazine Trip-Freestyle-Lifestyle, desportos radicais, apresentado por Bruno Detante(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723271/M" />
+  </programme>
+  <programme start="20200316043000 +0000" stop="20200316050000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <desc lang="pt">A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país: os eventos, as marcas e produtos, hotéis e restaurantes, o mundo digital e as suas melhores figuras. A par com convidados, e durante meia hora, o Glitter Show faz-nos sonhar, mas acima de tudo rir, rir muito. E ainda é grátis!(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723273/M" />
+  </programme>
+  <programme start="20200316050000 +0000" stop="20200316053000 +0000" channel="PORTO CANAL">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural que apresenta semanalmente sugestões e novidades no meio cultural do Porto e Norte do país. Exposições, concertos, cinema, arte etc. vão ser os temas em destaque(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723275/M" />
+  </programme>
+  <programme start="20200316053000 +0000" stop="20200316060000 +0000" channel="PORTO CANAL">
+    <title lang="pt">Transparências</title>
+    <desc lang="pt">0(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13723277/M" />
+  </programme>
+  <programme start="20200317020000 +0000" stop="20200317040000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317040000 +0000" stop="20200317060000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317060000 +0000" stop="20200317080000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317080000 +0000" stop="20200317100000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317100000 +0000" stop="20200317120000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317120000 +0000" stop="20200317140000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317140000 +0000" stop="20200317160000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317160000 +0000" stop="20200317180000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317180000 +0000" stop="20200317200000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317200000 +0000" stop="20200317220000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
+  <programme start="20200317220000 +0000" stop="20200318000000 +0000" channel="PORTO CANAL">
+    <title lang="pt">PORTO CANAL</title>
+    <desc lang="pt">PORTO CANAL(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13236030/M" />
+  </programme>
   <programme start="20200311050000 +0100" stop="20200311053000 +0100" channel="Das Erste">
     <title lang="de">Report München</title>
     <desc lang="de">Geplante Themen: Amokläufe und die psychischen Folgen - ein Polizist klagt an • Rechtsextreme in der AfD - Parteiinterner Streit kurz vor der Kommunalwahl • Umfrage: Bedrohung von BürgermeisterInnen stark gestiegen • Corona-Virus - unser Gesundheitssystem im Stresstest(n)</desc>
@@ -9661,9 +10845,9 @@
   </programme>
   <programme start="20200311053000 +0100" stop="20200311090000 +0100" channel="Das Erste">
     <title lang="de">ZDF-Morgenmagazin</title>
-    <desc lang="de">So startet man gut in den Tag. Mit dem "ZDF-Morgenmagazin" kann man sich gleich zum Frühstück über die neuesten Nachrichten aus den Bereichen Politik, Wirtschaft, Gesellschaft, Kultur und Sport informieren. Zu den wichtigsten News gibt es interessante und kritische Hintergrundberichte. Außerdem werden Politiker, Kulturschaffende, Comedians und Sportler interviewt(n)</desc>
+    <desc lang="de">Das "ZDF-Morgenmagazin" - der Blick in den Tag mit aktuellen, hintergründigen Berichten und Gesprächen aus Politik, Wirtschaft, Sport und Kultur. Live aus dem ZDF-Hauptstadtstudio. Halbstündlich informiert die "heute Xpress" aus Mainz. Hinzu kommen Service-Beiträge mit Verbrauchertipps. Im "Moma-Café" treten Musiker live vor Publikum auf(n)</desc>
     <credits>
-      <presenter>Dunja Hayali</presenter>
+      <presenter>Mirjam Meinhardt</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Morgenmagazin</category>
@@ -9780,6 +10964,7 @@
     <credits>
       <director>Mattes Reischel</director>
       <actor>Bruce Willis</actor>
+      <actor>Alex Philipp</actor>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
@@ -9980,7 +11165,7 @@
     <sub-title lang="de">Mit Wetter</sub-title>
     <desc lang="de">Mit Wetter - Aktuelle Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland werden in ausführlichen Hintergrundberichten beleuchtet. In Stellungnahmen und Meinungsäußerungen wird auch unterschiedlichne Standpunkten Raum gegeben(n)</desc>
     <credits>
-      <presenter>Caren Miosga</presenter>
+      <presenter>Ingo Zamperoni</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Nachrichten</category>
@@ -9991,6 +11176,7 @@
   </programme>
   <programme start="20200311224500 +0100" stop="20200312000000 +0100" channel="Das Erste">
     <title lang="de">maischberger. vor Ort</title>
+    <desc lang="de">Die Wahl eines neuen Ministerpräsidenten im Erfurter Landtag hat bundesweit für ein politisches Beben gesorgt, das nicht nur die CDU durcheinandergeschüttelt hat. In Thüringen führte es zu einem wochenlangen Regierungschaos und offenbarte, wie tief die politischen Gräben sind, die sich durch das ganze Land ziehen. Zwar gibt es in Thüringen wieder eine Regierung, viele grundsätzliche Fragen aber bleiben offen: Ist es richtig, die Linkspartei und die AfD in einen Topf zu werfen, wenn es um die Frage der Zusammenarbeit geht? Welche Folgen haben die Ereignisse für das Vertrauen in die Parteien? Haben die Bundesparteien in Berlin zu wenig Verständnis für ostdeutsche Besonderheiten? Der Diskussion stellen sich: Katja Kipping (Die Linke, Bundesvorsitzende) • Tino Chrupalla (AfD, Bundesvorsitzender) • Mario Voigt (CDU, Fraktionsvorsitzender Thüringen) • Außerdem als Experte: der Erfurter Politikwissenschaftler André Brodocz(n)</desc>
     <credits>
       <presenter>Sandra Maischberger</presenter>
     </credits>
@@ -13958,8 +15144,8 @@
     <sub-title lang="de">Mare TV - An Italiens Riviera - Cinque Terre, Portofino, Dolce Vita</sub-title>
     <desc lang="de">Mare TV - An Italiens Riviera - Cinque Terre, Portofino, Dolce Vita - An der italienischen Riviera, die von der französischen Küste bis zur Toskana reicht, taucht "mareTV" ein in das Dolce Vita und den Alltag der Einheimischen. Die Menschen dort sind berühmt sind für ihren Einfallsreichtum. Und für legendäre Feste. Einmal im Jahr wird der Dorfheilige San Fortunato in Camogli richtig gefeiert. Dann werden Unmengen Fisch in einer Riesenpfanne gebraten. Diese muss allerdings erst durch die engen Gassen in den kleinen Hafen transportiert werden. Nach dem Festmahl folgt die große Prozession. Mehrere meterhohe Kreuze samt Jesusfigur werden durch den Ort geschleppt. Der beschwerliche Weg führt durch Arkaden, steile Treppen hinauf und wieder herunter, besonders heikel aber sind die vielen Lichterketten. Sobald es dunkel ist, werden die beiden "falò" abgefackelt, das sind zehn Meter hohe Holzkonstruktionen, die die Einheimischen in den letzten Wochen am Strand errichten haben. Der Fisch für die Riesenpfanne kommt aus dem Naturschutzgebiet von Portofino. Hier dürfen nur die Fischer Camoglis ihre Netze auswerfen und nur unter strenger Aufsicht. Ein paar Buchten weiter, an den steilen Klippen von Cinque Terre, sitzt der Biobauer Samuele Bonanini auf seinem "trenino", einer Minibahn, die ihm zum besten Freund geworden ist. 16 ligurische Rebsorten baut Samuele auf einem Acker mit 45 Grad Gefälle an. Nur dank des besonderen Gefährts kann er hier überhaupt arbeiten und die Ernte und sich selbst vom Meer in die Höhe befördern. Da bewirtschaftbare Flächen an diesem Küstenabschnitt rar sind, haben sich junge Ingenieure aus Noli etwas Besonderes ausgedacht. Sie kultivieren Pflanzen unter Wasser(n)</desc>
     <credits>
-      <director>Cristina Trebbi</director>
-      <writer>Cristina Trebbi</writer>
+      <director>Heike Nikolaus</director>
+      <writer>Heike Nikolaus</writer>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Reisereportage</category>
@@ -14027,12 +15213,10 @@
     <sub-title lang="de">Wann begann die Zeit?</sub-title>
     <desc lang="de">Wann begann die Zeit? - Der Hollywood-Star Morgan Freeman hinterfragt die Mysterien des Weltalls: Vom Urknall bis hin zu Schwarzen Löchern(n)</desc>
     <credits>
-      <director>Kurt Sayenga</director>
+      <director>Anthony Lund</director>
       <actor>Morgan Freeman</actor>
       <actor>Sean Carroll</actor>
-      <actor>Alexander Gaeta</actor>
-      <actor>Max Gaeta</actor>
-      <writer>Kurt Sayenga</writer>
+      <writer>Anthony Lund</writer>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
@@ -14058,12 +15242,12 @@
     <sub-title lang="de">Angkor Wat</sub-title>
     <desc lang="de">Angkor Wat - Die Dokureihe trug ursprünglich den Titel "Alte Baukunst neu entschlüsselt". Es geht darum, die Geheimnisse berühmter, alter Bauwerke zu entschlüsseln. Mittels CGI-Animationen werden Erkenntnisse von Archäologen, Geologen und Altertumsforschern anschaulich dargestellt. Unter den vorgestellten Bauwerken sind beispielsweise der Parthenon, der Big Ben oder die Ruinenstätte Chichén Itzá(n)</desc>
     <credits>
-      <director>James Franklin</director>
+      <director>Tom Ranson</director>
       <actor>Steven Kearney</actor>
-      <actor>Jo Buckberry</actor>
-      <actor>Gordon Ewart</actor>
-      <actor>Sue Ovenden</actor>
-      <actor>Adrian Cox</actor>
+      <actor>Simon Warrack</actor>
+      <actor>Jean-Baptiste Chevance</actor>
+      <actor>Mitch Hendrickson</actor>
+      <actor>Ginevra Boatto</actor>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
@@ -14118,8 +15302,8 @@
     <sub-title lang="de">Mare TV - Das Bassin von Arcachon - Frankreichs Traumbucht am Atlantik</sub-title>
     <desc lang="de">Mare TV - Das Bassin von Arcachon - Frankreichs Traumbucht am Atlantik - Das Becken von Arcachon am südlichen Ende der französischen Atlantikküste ist eine Welt für sich: eine riesige Bucht mit einer riesigen Düne und einem riesigen Austernzuchtpark. Das 155 Quadratkilometer große Bassin wird von rund 1.000 Betrieben bewirtschaftet. In den traditionellen Holzhütten, den Cabanes, bieten sie die Meeresfrüchte zur Verkostung an(n)</desc>
     <credits>
-      <director>Cristina Trebbi</director>
-      <writer>Cristina Trebbi</writer>
+      <director>Heike Nikolaus</director>
+      <writer>Heike Nikolaus</writer>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Reisereportage</category>
@@ -14133,12 +15317,12 @@
     <sub-title lang="de">Schottlands Schicksalsburg</sub-title>
     <desc lang="de">Schottlands Schicksalsburg - Die Dokureihe trug ursprünglich den Titel "Alte Baukunst neu entschlüsselt". Es geht darum, die Geheimnisse berühmter, alter Bauwerke zu entschlüsseln. Mittels CGI-Animationen werden Erkenntnisse von Archäologen, Geologen und Altertumsforschern anschaulich dargestellt. Unter den vorgestellten Bauwerken sind beispielsweise der Parthenon, der Big Ben oder die Ruinenstätte Chichén Itzá(n)</desc>
     <credits>
-      <director>James Franklin</director>
+      <director>Tom Ranson</director>
       <actor>Steven Kearney</actor>
-      <actor>Jo Buckberry</actor>
-      <actor>Gordon Ewart</actor>
-      <actor>Sue Ovenden</actor>
-      <actor>Adrian Cox</actor>
+      <actor>Simon Warrack</actor>
+      <actor>Jean-Baptiste Chevance</actor>
+      <actor>Mitch Hendrickson</actor>
+      <actor>Ginevra Boatto</actor>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
@@ -14497,8 +15681,8 @@
     <sub-title lang="de">Burgen zwischen Winterschlaf und Frühlingserwachen</sub-title>
     <desc lang="de">Burgen zwischen Winterschlaf und Frühlingserwachen - Ruhe vor dem Burgen-Ansturm. Während Mittelalter-Fans die Eröffnung der Burgensaison kaum erwarten können, inspiziert SWR Moderatorin Anna Lena Dörr auf ihrer Expedition fünf unterschiedliche Burgen in der Winterpause. Sie putzt mit "Bediensteten" königliches Silber, rüstet mit einem Burgherrn die Rüstkammer um, trifft auf verrückte Hexen, testet freiwillig die Geräte in einer "Folterkammer" und entdeckt unheimliche und gruselige Burgengeschichten. Anna Lena hat die Burgen - fast - für sich allein: Welch ein Luxus. Oder? Diese "Expedition in die Heimat" führt in ausgekühlte, fast menschenleere alte Mauern hinter meist verschlossenen Toren. Ein Abenteuer der besonderen Art(n)</desc>
     <credits>
-      <writer>Heidrun Wieser</writer>
-      <presenter>Anna Lena Dörr</presenter>
+      <writer>Cornelia Andelfinger</writer>
+      <presenter>Steffen König</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Reisemagazin</category>
@@ -14530,9 +15714,6 @@
     <title lang="de">Planet Wissen</title>
     <sub-title lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich?</sub-title>
     <desc lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich? - Jüdisches Leben in Deutschland ist auch 75 Jahre nach dem Ende der Shoah nicht wieder zur Normalität geworden. Anschläge wie der auf die Synagoge in Halle und Anfeindungen und Angriffe sogar auf offener Straße nehmen zu. Jüdische Einrichtungen stehen unter Polizeischutz. Wie erleben das in Deutschland lebende Juden? Wie wird ihr Alltag davon beeinflusst? Und was muss sich ändern? Darüber diskutieren die deutsch-jüdischen Autorin Linda Rachel Sabiers, Michael Rubinstein vom Landesverband der Jüdischen Gemeinden von Nordrhein und Sina Arnold vom Zentrum für Antisemitismusforschung(n)</desc>
-    <credits>
-      <presenter>Andrea Grießmann</presenter>
-    </credits>
     <category lang="de">Information</category>
     <category lang="de">Wissensmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8536851/8536851_478x268.jpg" />
@@ -14715,12 +15896,9 @@
     <title lang="de">Planet Wissen</title>
     <sub-title lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich?</sub-title>
     <desc lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich? - Jüdisches Leben in Deutschland ist auch 75 Jahre nach dem Ende der Shoah nicht wieder zur Normalität geworden. Anschläge wie der auf die Synagoge in Halle und Anfeindungen und Angriffe sogar auf offener Straße nehmen zu. Jüdische Einrichtungen stehen unter Polizeischutz. Wie erleben das in Deutschland lebende Juden? Wie wird ihr Alltag davon beeinflusst? Und was muss sich ändern? Darüber diskutieren die deutsch-jüdischen Autorin Linda Rachel Sabiers, Michael Rubinstein vom Landesverband der Jüdischen Gemeinden von Nordrhein und Sina Arnold vom Zentrum für Antisemitismusforschung(n)</desc>
-    <credits>
-      <presenter>Andrea Grießmann</presenter>
-    </credits>
     <category lang="de">Information</category>
     <category lang="de">Wissensmagazin</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/8536851/8536851_478x268.jpg" />
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7347613/7347613_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
@@ -14729,6 +15907,9 @@
     <title lang="de">alpha-demokratie</title>
     <sub-title lang="de">Berufsbeamtentum</sub-title>
     <desc lang="de">Berufsbeamtentum - In der politischen Berichterstattung in Funk und Fernsehen fallen oft Begriffe, mit denen nicht jeder vertraut ist. Deshalb wird hier Aufklärung hinsichtlich des Vokabulars zur Demokratie betrieben(n)</desc>
+    <credits>
+      <presenter>Özlem Sarikaya</presenter>
+    </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/7588648/7588648_478x268.jpg" />
@@ -14861,7 +16042,7 @@
     <sub-title lang="de">Norddeutschland und die Welt</sub-title>
     <desc lang="de">Norddeutschland und die Welt - Täglich um 18:45 Uhr nimmt ein prominenter Gast Platz auf dem roten Sofa und steht den Moderatoren Rede und Antwort. Außerdem gibt es einen ausführlichen Nachrichtenüberblick, der am Anfang der Sendung präsentiert wird, sowie verschiedene Beiträge, die einen Bezug zu Norddeutschland aufweisen. Mehrmals im Jahr finden ist das Magazin im Norden unterwegs und sendet von verschiedenen Orten(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/5953091/5953091_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -14907,8 +16088,8 @@
     <title lang="de">Rote Rosen</title>
     <desc lang="de">Astrid ist sauer, weil Pia wieder die Schule schwänzt - zugunsten von "Fridays for Future". Pia will sogar ein Jahr mit der Schule aussetzen, um sich für den Klimaschutz zu engagieren. Bei Tina kann sich Astrid aussprechen, doch dann ist Pia plötzlich abgehauen. Gregor lässt Judith abblitzen, er nimmt das Bestechungsgeld nicht zurück. Judith lügt Alex an, dass sie die Angelegenheit zum Guten regeln konnte. Doch Amelie macht ihr deutlich klar, dass Gregor sie nie aus seinen Fängen lassen wird. Prompt wird die hoch nervöse Judith von ihren Ängsten eingeholt. Amelie hat Vivien in Verdacht, im Hotel Stimmung gegen Schwangerschaftsabbrüche zu machen, um ihr damit persönlich zu schaden. Vivien ihrerseits fürchtet, dass Amelie wegen des heimlichen Friseur-Services im Hotel hinter ihr her ist. Johanna verfolgt hartnäckig ihren Plan, bei der Ausstellung von Porträts bedeutender Lüneburger dabei zu sein. Doch sie findet keinen Maler, der sie so kurzfristig porträtiert. Schließlich offenbart sie dem verblüfften Thomas, dass sie beschlossen hat, sich selbst zu malen. Direkt nach der linearen Ausstrahlung einer Folge der Serie gibt es die nächste schon online first und danach für drei Monate in der ARD-Mediathek(n)</desc>
     <credits>
-      <director>Mattes Reischel</director>
       <actor>Bruce Willis</actor>
+      <actor>Alex Philipp</actor>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
@@ -14923,12 +16104,11 @@
     <desc lang="de">Dirk plagt das schlechte Gewissen gegenüber Tim, und er stellt Nadja zur Rede, wie lange sie Tim ihre Schwangerschaft noch vorspielen möchte. Als Fabien aus Leipzig zu Besuch kommt, bittet Michael Natascha, seine Probleme nicht zu erwähnen. Sie ist hin- und hergerissen, ob sie Michaels Sucht verschweigen soll. Lucys Kuss hat Bela durcheinandergebracht. Sie befürchtet nun, ihn überfordert zu haben(n)</desc>
     <credits>
       <director>Carsten Meyer-Grohbrügge</director>
-      <actor>Léa Wegmann</actor>
-      <actor>Florian Frowein</actor>
-      <actor>Dieter Bach</actor>
-      <actor>Sepp Schauer</actor>
-      <actor>Antje Hagen</actor>
-      <writer>Sabine Bachthaler</writer>
+      <actor>Franzi Krummbiegl</actor>
+      <actor>Tim Saalfeld</actor>
+      <actor>Annabelle Sullivan</actor>
+      <actor>Christoph Saalfeld</actor>
+      <actor>Alfons Sonnbichler</actor>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
@@ -14952,7 +16132,7 @@
     <title lang="de">Hamburg Journal</title>
     <desc lang="de">Das Regionalmagazin des Norddeutschen Rundfunks für das Land Hamburg berichtet über das politische und kulturelle Leben der Hansestadt und liefert Hintergrundinformationen zu besonderen Ereignissen(n)</desc>
     <credits>
-      <presenter>Julia-Niharika Sen</presenter>
+      <presenter>Jens Riewa</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Magazin</category>
@@ -14997,7 +16177,7 @@
     <sub-title lang="de">Biikebrennen auf Sylt</sub-title>
     <desc lang="de">Biikebrennen auf Sylt - Das Biikebrennen in Nordfriesland ist ein von Mythen und Traditionen durchsetzter Brauch. Jedes Jahr am 21. Februar endet der "Winterschlaf" auf der Insel Sylt und das erste touristische Highlight des Jahres lodert auf. Riesige Feuer sollen an heidnische Opfergaben für die Götter erinnern, sollen die Walfänger verabschieden, sollen den Winter vertreiben. Welche Interpretation auch immer gewählt wird, das Biikebrennen ist ein Fest der Friesen, das Zusammengehörigkeit und Heimatliebe symbolisiert. Deftiger Abschluss ist das Grünkohlessen(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Regionalreportage</category>
+    <category lang="de">Reportagereihe</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8518745/8518745_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15107,7 +16287,7 @@
     <sub-title lang="de">Norddeutschland und die Welt</sub-title>
     <desc lang="de">Norddeutschland und die Welt - Täglich um 18:45 Uhr nimmt ein prominenter Gast Platz auf dem roten Sofa und steht den Moderatoren Rede und Antwort. Außerdem gibt es einen ausführlichen Nachrichtenüberblick, der am Anfang der Sendung präsentiert wird, sowie verschiedene Beiträge, die einen Bezug zu Norddeutschland aufweisen. Mehrmals im Jahr finden ist das Magazin im Norden unterwegs und sendet von verschiedenen Orten(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/5953091/5953091_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15141,7 +16321,7 @@
       <director>Ivo Nörenberg</director>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Tierreihe</category>
+    <category lang="de">Dokureihe</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8513082/8513082_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15152,7 +16332,7 @@
     <sub-title lang="de">Unter Afrikas Affen - Das Abenteuer</sub-title>
     <desc lang="de">Unter Afrikas Affen - Das Abenteuer - Vor der Küste Zentralafrikas liegt eine geheimnisvolle Insel im Atlantik: Bioko. Bedeckt von dichten Regenwäldern, ist sie die Heimat für eine der seltensten Affenarten der Welt. Bisher gab es noch keinen Film über die vom Aussterben bedrohten Tiere: Drills. Das erste intime Porträt der Affengattung zeigt erstmals ihren Lebensraum, der zu den artenreichsten der Erde zählt. Für die Tierfilmer Oliver Goetzl, Ivo Nörenberg und ihrem Team sollten die Dreharbeiten es zu einem wahren Höllenritt werden, wie dieses Making-of zeigt. Helikopterkameras stürzen im Dschungel ab, hartnäckige Tropenkrankheiten stellen selbst erfahrene Mediziner vor Rätsel. Und die Drills kommen den Filmern nicht nur einmal gefährlich nah. Aber die Strapazen lohnen sich in vielerlei Hinsicht. Die Küste der Insel ist jedes Jahr das Ziel zahlloser Meeresschildkröten, die hier ihre Eier ablegen. Dem internationalen Team gelingen einzigartige Aufnahmen sowohl von der Eiablage als auch von den lebensgefährlichen ersten Schritten der kleinen Schildkröten, kurz nachdem sie aus dem Ei geschlüpft sind. Im Inneren von Bioko ragen die steilen Wände einer uralten Caldera in den Himmel. Das Innere dieses erloschenen Vulkans haben wahrscheinlich weniger Menschen betreten als den Mond. Für Oliver Goetzl und sein Team eine waghalsige mehrtägige Kletterpartie. In der Caldera angekommen, gelingen ihnen nicht nur weitere Aufnahmen der Drill-Gruppe, sondern auch erste Bilder von Schwarzen Stummelaffen, einer Primatenart, die noch seltener und schwieriger zu filmen ist. Oliver Goetzl und Ivo Nörenberg, Preisträger des Wildscreen Animal Behavior Awards, haben sich der Herausforderung dieses extremen Drehorts gestellt. Sie sind die Spezialisten für Tierarten, die besonders schwer zu filmen sind. Dazu gehören Vielfraße, Lippenbären oder Polarwölfe. Unterstützt wird das Duo vom Drill-Experten Justin Jay. 2010 gelangen dem US-amerikanischen Biologen erste Aufnahmen der Affen in freier Wildbahn. Seitdem erforscht er intensiv die Primaten auf Bioko. Also beste Voraussetzungen für die Dreharbeiten: das Know-how der Tierfilmer Goetzl und Nörenberg hinter der Kamera in Kombination mit dem detaillierten Wissen des Affenforschers Justin Jay. So konnte das bislang erste und einzige Porträt über das heimliche Leben der Dschungel-Könige in einem ihrer letzten Refugien entstehen(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Tierreihe</category>
+    <category lang="de">Dokureihe</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8543654/8543654_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15176,7 +16356,7 @@
       <presenter>Christian Ehring</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Satiremagazin</category>
+    <category lang="de">Magazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8435753/8435753_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15268,7 +16448,7 @@
       <presenter>Jan Starkebaum</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Regionalmagazin</category>
+    <category lang="de">Magazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/1683866/1683866_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15278,7 +16458,7 @@
     <title lang="de">Nordmagazin</title>
     <desc lang="de">Kulturelle und politische Informationen sowie regionaler Sport und allgemeine unterhaltsame Geschichten aus dem Land präsentiert das Magazin für Mecklenburg-Vorpommern täglich um 19:30 Uhr(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Regionalmagazin</category>
+    <category lang="de">Magazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/1538720/1538720_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15304,7 +16484,7 @@
       <presenter>Jens Riewa</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Regionalmagazin</category>
+    <category lang="de">Magazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/1056568/1056568_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -15340,9 +16520,6 @@
     <title lang="de">ANIXE auf Reisen</title>
     <sub-title lang="de">Hongkong - traditionell</sub-title>
     <desc lang="de">Hongkong - traditionell - Mit Anja Kruse in Hongkong, Sigmar Solbach in Russland, Michaela May im Northern Territory oder Hannes Jaenicke auf Neuseeland: Jeden Samstag begleitet die Reihe Prominente, die auf ihren Reisen und Entdeckungstouren in ferne Länder und Metropolen vor stimmungsvoller Kulisse die interessantesten Flecken und die kulturellen Besonderheiten des jeweiligen Landes vorstellen(n)</desc>
-    <credits>
-      <actor>Juergen Heinrich</actor>
-    </credits>
     <category lang="de">Information</category>
     <category lang="de">Reisemagazin</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1020_478x268.jpg" />
@@ -15366,7 +16543,7 @@
     <desc lang="de">Jackie Chan - Close Up nimmt Sie mit auf eine Reise nach Hollywood und gibt einzigartige Einblicke in das Leben Ihrer Lieblings-Stars. Ein Promiexperte sieht ganz genau hin und eröffnet ganz neue Aspekte über den Werdegang der Hollywood Größen. Auch das Privatleben dieser Ikonen wird hier genauer betrachtet und dabei kommen neue und bisher unbekannte Fakten zum Vorschein. Wer mehr über das Leben seiner Lieblings-Schauspieler wissen möchte sollte sich Close Up auf keinen Fall entgehen lassen. Denn hier werden Weltstars in einzigartigen Portraits unter die Lupe genommen(n)</desc>
     <credits>
       <director>Martin Saint Charles</director>
-      <actor>Nicole Kidman</actor>
+      <actor>Drew Barrymore</actor>
       <writer>Martin Saint Charles</writer>
     </credits>
     <category lang="de">Information</category>
@@ -15486,12 +16663,12 @@
     <sub-title lang="de">Fensterlsturz</sub-title>
     <desc lang="de">Fensterlsturz - Als der allseits bekannte Dorfspanner, dessen Ähnlichkeit zu dem berühmten englischen Komiker Mr. Bean zu seinem Spitznahmen Mr. Blien geführt hat, in Ausübung seiner lüsternen Tätigkeit von der Leiter fällt und tot in Klara Mittermeiers Gartenbrünnlein endet, beginnen in Dorf Ilm wie gewohnt fieberhaft die Ermittlungen der Begräbnisweiber. Doch das Eifersuchtsdrama zwischen Klaras Exmann Heinz und deren neuem Freund Bernie eskaliert dadurch umso mehr und so sind unsere Damen nicht ganz unschuldig am Verlauf der Geschichte. Am Ende sind drei Männer tot und Julies Ausflug in des Pfarrers Pool hat ebenfalls nicht zu einem Happy End geführt(n)</desc>
     <credits>
-      <director>Wolfgang Murnberger</director>
+      <director>Claudia Jüptner</director>
       <actor>Adele Neuhauser</actor>
+      <actor>Stefanie Japp</actor>
       <actor>Brigitte Kren</actor>
       <actor>Martina Poel</actor>
       <actor>Georges Kern</actor>
-      <actor>Julia Stinshoff</actor>
       <writer>Uli Brée</writer>
     </credits>
     <category lang="de">Serie</category>
@@ -15765,19 +16942,11 @@
     <title lang="de">MTV Breakfast Club</title>
     <category lang="de">Musik</category>
     <category lang="de">Musikvideos</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/821_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
   </programme>
   <programme start="20200311100000 +0100" stop="20200311130000 +0100" channel="MTV">
     <title lang="de">MTV Hits</title>
     <category lang="de">Musik</category>
     <category lang="de">Musikvideos</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/821_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
   </programme>
   <programme start="20200311130000 +0100" stop="20200311150000 +0100" channel="MTV">
     <title lang="de">MTV Most Wanted - Single Charts</title>
@@ -15820,8 +16989,8 @@
   <programme start="20200311220000 +0100" stop="20200311231000 +0100" channel="MTV">
     <title lang="de">The Challenge: War of the Worlds 2</title>
     <sub-title lang="de">Zero Dark Turbo</sub-title>
-    <category lang="de">Serie</category>
-    <category lang="de">Dokusoap</category>
+    <category lang="de">Show</category>
+    <category lang="de">Realityshow</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2998_478x268.jpg" />
     <episode-num system="onscreen">S34 E7</episode-num>
     <star-rating>
@@ -15832,7 +17001,7 @@
     <title lang="de">Jersey Shore Family Vacation</title>
     <sub-title lang="de">Strippendales</sub-title>
     <category lang="de">Serie</category>
-    <category lang="de">Dokusoap</category>
+    <category lang="de">Realityreihe</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/2998_478x268.jpg" />
     <episode-num system="onscreen">S3 E6</episode-num>
     <star-rating>
@@ -15843,10 +17012,6 @@
     <title lang="de">MTV Approved: R'n'B</title>
     <category lang="de">Musik</category>
     <category lang="de">Clipcharts</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/128_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
   </programme>
   <programme start="20200312005900 +0100" stop="20200312020000 +0100" channel="MTV">
     <title lang="de">MediaShop - Immer etwas neues</title>
@@ -16092,9 +17257,6 @@
     <title lang="de">Planet Wissen</title>
     <sub-title lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich?</sub-title>
     <desc lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich? - Jüdisches Leben in Deutschland ist auch 75 Jahre nach dem Ende der Shoah nicht wieder zur Normalität geworden. Anschläge wie der auf die Synagoge in Halle und Anfeindungen und Angriffe sogar auf offener Straße nehmen zu. Jüdische Einrichtungen stehen unter Polizeischutz. Wie erleben das in Deutschland lebende Juden? Wie wird ihr Alltag davon beeinflusst? Und was muss sich ändern? Darüber diskutieren die deutsch-jüdischen Autorin Linda Rachel Sabiers, Michael Rubinstein vom Landesverband der Jüdischen Gemeinden von Nordrhein und Sina Arnold vom Zentrum für Antisemitismusforschung(n)</desc>
-    <credits>
-      <presenter>Andrea Grießmann</presenter>
-    </credits>
     <category lang="de">Information</category>
     <category lang="de">Wissensmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8536851/8536851_478x268.jpg" />
@@ -16155,7 +17317,7 @@
     <sub-title lang="de">Mit Sport</sub-title>
     <desc lang="de">Mit Sport - Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form(n)</desc>
     <credits>
-      <presenter>Thomas Heyer</presenter>
+      <presenter>Jens Olesen</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Nachrichten</category>
@@ -16258,7 +17420,7 @@
     <title lang="de">WDR aktuell</title>
     <desc lang="de">Die Komplexität des Weltgeschehens verständlich erklärt: Berichterstattung über aktuelle politische, wirtschaftliche, soziale, kulturelle, sportliche und sonstige Ereignisse in komprimierter Form. Außerdem bekommen sie in dieser Sendung von der Verkehrsmeldung bis zur Sturm- und Glatteiswarnung alle relevanten Infos zur aktuellen Lage auf den Straßen und zum Wetter in NRW frei Haus(n)</desc>
     <credits>
-      <presenter>Thomas Heyer</presenter>
+      <presenter>Jens Olesen</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Nachrichten</category>
@@ -16279,13 +17441,8 @@
   </programme>
   <programme start="20200311222500 +0100" stop="20200311231000 +0100" channel="WDR">
     <title lang="de">Kaputte Klassenzimmer - warum sind uns Schüler so wenig wert?</title>
-    <desc lang="de">Das Dreikönigsgymnasium in Köln ist ein Extremfall: Seit Jahren ist es umzäunt, weil ganze Steine von der Fassade herunterfallen. Die Schule kämpft seit Jahren darum, dass das Gebäude grundsaniert werden kann. Doch der Putz bröckelt fast überall in Nordrhein-Westfalen. Vor allem im Ruhrgebiet fehlt es häufig an den nötigen Mitteln für Sanierungsarbeiten. Strukturschwache Kommunen sind überfordert(n)</desc>
     <category lang="de">Information</category>
     <category lang="de">Reportagereihe</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/8686803/8686803_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
   </programme>
   <programme start="20200311231000 +0100" stop="20200311234000 +0100" channel="WDR">
     <title lang="de">sport inside</title>
@@ -16480,6 +17637,9 @@
     <title lang="de">Eisenbahn-Romantik</title>
     <sub-title lang="de">Eine Dampflok entsteht</sub-title>
     <desc lang="de">Eine Dampflok entsteht - In dieser Folge wird die Aufarbeitung verschiedener Dampflokomotiven im früheren RAW Meiningen gezeigt. Im Mittelpunkt steht die Tenderlokomotive 64491, die als Schrotthaufen nach Meiningen geschleppt wurde und ein knappes Jahr später aus eigener Kraft und als Schmuckstück die Thüringer Dampflokschmiede wieder verlassen konnte(n)</desc>
+    <credits>
+      <writer>Kirsten Ruppel</writer>
+    </credits>
     <category lang="de">Information</category>
     <category lang="de">Eisenbahnmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/3322242/3322242_478x268.jpg" />
@@ -16514,9 +17674,6 @@
     <title lang="de">Planet Wissen</title>
     <sub-title lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich?</sub-title>
     <desc lang="de">Jüdisches Leben in Deutschland - Normal oder gefährlich? - Jüdisches Leben in Deutschland ist auch 75 Jahre nach dem Ende der Shoah nicht wieder zur Normalität geworden. Anschläge wie der auf die Synagoge in Halle und Anfeindungen und Angriffe sogar auf offener Straße nehmen zu. Jüdische Einrichtungen stehen unter Polizeischutz. Wie erleben das in Deutschland lebende Juden? Wie wird ihr Alltag davon beeinflusst? Und was muss sich ändern? Darüber diskutieren die deutsch-jüdischen Autorin Linda Rachel Sabiers, Michael Rubinstein vom Landesverband der Jüdischen Gemeinden von Nordrhein und Sina Arnold vom Zentrum für Antisemitismusforschung(n)</desc>
-    <credits>
-      <presenter>Andrea Grießmann</presenter>
-    </credits>
     <category lang="de">Information</category>
     <category lang="de">Wissensmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8536851/8536851_478x268.jpg" />
@@ -16583,6 +17740,9 @@
     <title lang="de">Eisenbahn-Romantik</title>
     <sub-title lang="de">Dampflokfest Dresden</sub-title>
     <desc lang="de">Dampflokfest Dresden - Hauptteil dieser Sendung ist der Bericht über das große Dampflokfest im Betriebswerk Dresden Altstadt, das im Jahr 1996 zum vierten Mal stattfand und alle Rekorde sprengte. Nie zuvor waren mehr betriebsfähige Dampfloks versammelt. Allein sieben Schnellzugdampfloks machten Dresden ihre Aufwartung. Und die Zuschauer kamen in Scharen: Mehr als 48.000 pilgerten Mitte Mai 1996 zu den Dampfveteranen(n)</desc>
+    <credits>
+      <writer>Kirsten Ruppel</writer>
+    </credits>
     <category lang="de">Information</category>
     <category lang="de">Eisenbahnmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/3322242/3322242_478x268.jpg" />
@@ -16594,6 +17754,9 @@
     <title lang="de">Eisenbahn-Romantik</title>
     <sub-title lang="de">Die Weißeritztalbahn</sub-title>
     <desc lang="de">Die Weißeritztalbahn - Die Erfolgsgeschichte der Reihe begann im Jahr 1991 als Pausenfüller. Die besondere Präsentation des Formats mit seinen ruhigen Bildern und die ungebrochene Faszination von Eisenbahn an sich, bescherte der "Eisenbahn-Romantik" schnell viele Fans. So wurde aus dem Pausenfüller eine Mission: die Eisenbahn in das Bewusstsein der Zuschauer zu bringen und die Vielfältigkeit der Eisenbahnwelt zu zeigen(n)</desc>
+    <credits>
+      <writer>Kirsten Ruppel</writer>
+    </credits>
     <category lang="de">Information</category>
     <category lang="de">Eisenbahnmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/3322242/3322242_478x268.jpg" />
@@ -16857,7 +18020,7 @@
       <actor>Brigitte Walbrun</actor>
       <actor>Ursula Erber</actor>
       <actor>Holger Matthias Wilhelm</actor>
-      <actor>Tommy Schwimmer</actor>
+      <actor>Shayan Hartmann</actor>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Heimatserie</category>
@@ -16868,19 +18031,19 @@
   </programme>
   <programme start="20200311063000 +0100" stop="20200311072000 +0100" channel="BR">
     <title lang="de">Sturm der Liebe</title>
-    <desc lang="de">Dirk plagt das schlechte Gewissen gegenüber Tim, und er stellt Nadja zur Rede, wie lange sie Tim ihre Schwangerschaft noch vorspielen möchte. Als Fabien aus Leipzig zu Besuch kommt, bittet Michael Natascha, seine Probleme nicht zu erwähnen. Sie ist hin- und hergerissen, ob sie Michaels Sucht verschweigen soll. Lucys Kuss hat Bela durcheinandergebracht. Sie befürchtet nun, ihn überfordert zu haben(n)</desc>
+    <desc lang="de">Dirk stellt Nadja zur Rede. Michael bittet Natascha um einen Gefallen. Bela bringt sich und Lucy in eine peinliche Situation. Christoph fasst einen Entschluss. Günther und Alfons nähern sich an. Dirk plagt das schlechte Gewissen gegenüber Tim. Daraufhin stellt Dirk Nadja zur Rede, wie lange sie Tim die Schwangerschaft noch vorspielen möchte. Es kommt zum Streit und Nadja stürzt, mit fatalen Folgen ... Als Fabien aus Leipzig zu Besuch kommt, bittet Michael Natascha, ihre Probleme nicht zu erwähnen. Natascha ist hin- und hergerissen, ob sie Michaels Tablettensucht verschweigen soll. Lucys Kuss hat Bela ziemlich durcheinandergebracht und Lucy befürchtet, ihn überfordert zu haben. Und damit hat sie nicht ganz Unrecht. Denn um Lucys Erwartungen zu entsprechen, gibt Bela kurze Zeit später den Draufgänger und küsst Lucy leidenschaftlich in einem Gästezimmer. Doch das bleibt nicht unentdeckt. Annabelle hat Christoph ein lukratives Angebot gemacht: Er bekommt ihre Anteile, wenn er im Gegenzug ihren leiblichen Vater findet. Nach ein paar Startschwierigkeiten haben Alfons und Günther ihre Differenzen beseitigt. Alfons nimmt Günther sogar mit zum "Fürstenhof" und die beiden schwelgen in Erinnerungen. Alfons ahnt nicht, dass sein Bruder nicht ehrlich zu ihm ist .(n)</desc>
     <credits>
       <director>Carsten Meyer-Grohbrügge</director>
-      <actor>Franzi Krummbiegl</actor>
-      <actor>Tim Saalfeld</actor>
-      <actor>Annabelle Sullivan</actor>
-      <actor>Christoph Saalfeld</actor>
-      <actor>Alfons Sonnbichler</actor>
+      <actor>Lucy Scherer</actor>
+      <actor>Moritz Tittel</actor>
+      <actor>Melanie Wiegmann</actor>
+      <actor>Erich Altenkopf</actor>
+      <actor>Sepp Schauer</actor>
+      <writer>Marlene Schwedler</writer>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/1675690/1675690_478x268.jpg" />
-    <episode-num system="onscreen">S16 E3338</episode-num>
     <star-rating>
       <value>4.0</value>
     </star-rating>
@@ -16977,7 +18140,7 @@
       <actor>Jan Niklas Berg</actor>
       <actor>Christoph Hagen Dittmann</actor>
       <actor>Alexa Maria Surholt</actor>
-      <writer>Claus Michael Rohne</writer>
+      <writer>Thomas Freundner</writer>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Krimi-Comedyserie</category>
@@ -17026,7 +18189,7 @@
     <title lang="de">Schnittgut. Alles aus dem Garten</title>
     <desc lang="de">Experten geben Tipps für die Gartenpraxis und die Gestaltung von Gärten, Terrassen und Balkonen. Einen Schwerpunkt bilden Berichte über Pflanzen und Filme über die schönsten Gärten der Welt. Hinzu kommen viele Anregungen und Gestaltungs-Inspirationen sowie Bastelvorschläge, Rezepte und Wissenswertes über Ernährung, Gesundheit und Heilpflanzen. Die Themen der Sendung: Schmetterlings-"Tankstelle" im Garten Winterharte Kakteen: mit Gartenexperte Volker Kugel und Kakteengärtner Matthias Uhlig Lebende Steine Sukkulentengärtner Ulrich Haage informiert über Lithops (lebende Steine) u. a. über die Schutzfunktion des steinähnlichen Äußeren, die Artenvielfalt und die Bodenansprüche. Babyleaf-Salat Anbau von Babyleaf-Salaten in der Bayerischen Landesanstalt für Gartenbau in Bamberg Gartentipps: Botanischer Garten Graz(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Gartenmagazin</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/375_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -17050,7 +18213,7 @@
       <presenter>Sabine Sauer</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8327765/8327765_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -17060,10 +18223,10 @@
     <title lang="de">Frankenschau aktuell</title>
     <desc lang="de">Die Frankenschau aktuell berichtet werktags aus Ihrer Region. Jeden Tag sind wir in Ober-, Mittel- und Unterfranken unterwegs, um Ihnen die neuesten Nachrichten aus Politik, Wirtschaft und Kultur zu präsentieren(n)</desc>
     <credits>
-      <presenter>Julia Büchler</presenter>
+      <presenter>Charly Hilpert</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1011_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
@@ -17072,10 +18235,10 @@
   <programme start="20200311180000 +0100" stop="20200311183000 +0100" channel="BR">
     <title lang="de">Abendschau</title>
     <sub-title lang="de">Das bewegt Bayern heute</sub-title>
-    <desc lang="de">Das bewegt Bayern heute - Schon seit 1954 informiert die "Abendschau" über alle Neuigkeiten und wissenswerten Dinge im Freistaat Bayern. Es ist somit eine der ältesten Fernsehsendungen Deutschlands. Die Berichte zu regionalen Themen werden häufig mit aufwändig recherchiertem Hintergrundwissen ergänzt. Es gibt Beiträge zu Kultur und Musik. Manchmal sprechen die Moderatoren auch mit Studiogästen über bestimmte Themen(n)</desc>
+    <desc lang="de">Das bewegt Bayern heute - Schon seit 1954 informiert die "Abendschau" werktags über alle Neuigkeiten und wissenswerten Dinge im Freistaat Bayern. Es ist somit eine der ältesten Fernsehsendungen Deutschlands(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1011_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
@@ -17084,6 +18247,9 @@
     <title lang="de">Rundschau</title>
     <sub-title lang="de">Nachrichten - Berichte - Wettervorhersage</sub-title>
     <desc lang="de">Nachrichten - Berichte - Wettervorhersage - Täglich informiert: Nachrichten, Wetter, Sport, Verkehr und Regionales für Bayern und Umgebung(n)</desc>
+    <credits>
+      <presenter>Nicole Frank</presenter>
+    </credits>
     <category lang="de">Information</category>
     <category lang="de">Nachrichten</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/842_478x268.jpg" />
@@ -17091,52 +18257,36 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200311190000 +0100" stop="20200311193000 +0100" channel="BR">
-    <title lang="de">STATIONEN</title>
-    <sub-title lang="de">Kirchen-Knigge. Gotteshäuser der Weltreligionen</sub-title>
-    <desc lang="de">Kirchen-Knigge. Gotteshäuser der Weltreligionen - Religion erleben - der Name "STATIONEN" ist Programm. Ob Stationen einer persönlichen Entwicklung oder Stationen des Kirchenjahrs, die Feste der Religionen oder Stationen des Lebens: Die Sendung fragt, wie Menschen denken und glauben und ermöglicht den Zuschauern, Religion (mit) zu erleben und ihre eigene Orientierung in einer komplizierten Welt zu finden. Falsche Anrede, unpassende Kleidung, Lachen oder Klatschen, wenn eigentlich Stille angesagt ist: Es gibt viele Möglichkeiten, sich daneben zu benehmen - vor allem, wenn man von den jeweiligen Gepflogenheiten wenig weiß. Sei es in anderen Ländern, in adligen Kreisen oder auch in einem Gotteshaus. Wer schon lange nicht mehr in der Kirche war, äugt bei Hochzeiten oder Beerdigungen unsicher zu den Nachbarn. In "STATIONEN" wird eine orthodoxe Kirche, eine Synagoge, eine Moschee und ein buddhistischer Tempel vorgestellt und nachgefragt, wie man sich in den Heiligtümern richtig verhält. Moderator Benedikt Schregle bekommt Nachhilfe bei einer Benimm-Gräfin in ihrem Schloss und lernt Neues über Etikette und den guten alten Knigge(n)</desc>
+  <programme start="20200311190000 +0100" stop="20200311220000 +0100" channel="BR">
+    <title lang="de">Auf dem Nockherberg 2020</title>
+    <category lang="de">Show</category>
+  </programme>
+  <programme start="20200311220000 +0100" stop="20200311224500 +0100" channel="BR">
+    <title lang="de">Sauber derbleckt</title>
+    <sub-title lang="de">Die Gesprächsrunde zum Nockherberg</sub-title>
+    <desc lang="de">Die Gesprächsrunde zum Nockherberg - Im Live-Talk "Sauber derbleckt", moderiert von Ursula Heller und Christoph Deumling, werden sich die Gäste am Stammtisch über die Höhepunkte des Starkbieranstichs auf dem Nockherberg 2020 unterhalten. Dabei werden sie Fastenrede und Singspiel noch einmal mit den schönsten Szenen Revue passieren lassen(n)</desc>
     <credits>
-      <presenter>Benedikt Schregle</presenter>
+      <presenter>Christoph Deumling</presenter>
     </credits>
-    <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/6706170/6706170_478x268.jpg" />
+    <category lang="de">Show</category>
+    <category lang="de">Gespräch</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/8533804/8533804_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200311193000 +0100" stop="20200311200000 +0100" channel="BR">
-    <title lang="de">Landgasthäuser Hopfen &amp; Malz</title>
-    <sub-title lang="de">Oberbayern</sub-title>
-    <desc lang="de">Oberbayern - Das weltbekannte "bayerische Reinheitsgebot" für Bier stammt aus dem Jahre 1516 und wurde in Ingolstadt ausgerufen. Mit der feierlichen Verlesung und einem Volksfest würdigt die Stadt an der Donau jedes Jahr diesen Meilenstein. Eine der schönsten Brauereien des Landes steht in Titting im Landkreis Eichstätt. Weil er sein Wasserschloss selten nutzte, ließ der Fürstbischof den Prachtbau zur Braustätte umrüsten. Am Flüsschen Abens kann man dem Hopfen-Lehrpfad durch die Hallertau folgen. Stärken kann man sich unterwegs mit erlesenen Schmankerln: einem Saiblings-Tatar auf Radieserl-Carpaccio, Spanferkel-Schäufele an Weizenbocksoße und Wildschwein in Honig-Balsamico-Marinade(n)</desc>
+  <programme start="20200311224500 +0100" stop="20200311230000 +0100" channel="BR">
+    <title lang="de">Rundschau Magazin</title>
+    <sub-title lang="de">Nachrichten - Berichte - Wettervorhersage</sub-title>
+    <desc lang="de">Nachrichten - Berichte - Wettervorhersage - Die Moderatorin Anouschka Horn informiert über aktuelle Geschehnisse in Bayern, Deutschland und der Welt. Es gibt umfangreiche Berichte zu Themen aus Politik, Wirtschaft, Gesellschaft und Kultur. Sorgfältig recherchierte Fakten sorgen für einen tiefen Einblick in die Geschehnisse und geben dem Zuschauer die Möglichkeit, sich selbst eine Meinung zu dem jeweiligen Thema zu bilden(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Reportagereihe</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/8691831/8691831_478x268.jpg" />
+    <category lang="de">Regionalnachrichten</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/7405194/7405194_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200311200000 +0100" stop="20200311201500 +0100" channel="BR">
-    <title lang="de">Tagesschau</title>
-    <desc lang="de">Aktuelle Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland werden in ausführlichen Hintergrundberichten beleuchtet. In Stellungnahmen und Meinungsäußerungen wird auch unterschiedlichne Standpunkten Raum gegeben(n)</desc>
-    <category lang="de">Information</category>
-    <category lang="de">Nachrichten</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/7493469/7493469_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20200311201500 +0100" stop="20200311210000 +0100" channel="BR">
-    <title lang="de">Kleine Katze - Große Freiheit</title>
-    <desc lang="de">In einem kleinen Dorf im Süden Guyanas, mehr als acht Fahrtstunden von der Hauptstadt Georgetown entfernt, kümmert sich der junge Falton um das verwaiste Margayjunge Ocilla. Die kleine Raubkatze kann nur überleben, wenn sie für die Wildnis fit gemacht wird und in einem geschützten Naturraum ausgewildert wird. Und selbst dann ist noch nicht sicher, ob sie durchkommen wird. Margays sind kleine Raubkatzen, die hauptsächlich durch die Zerstörung der Regenwälder gefährdet sind. Sie leben meist unbemerkt in den Bäumen des Waldes. In einem kleinen Dorf im Süden Guyanas, mehr als acht Fahrtstunden von der Hauptstadt Georgetown entfernt, kümmert sich der junge Falton um das verwaiste Margayjunge Ocilla. Er betreut den Margay ehrenamtlich im Rahmen des Dorfprojektes Yacumbi. In der Wildtierstation landen verwaiste Jungtiere genauso wie von den Behörden beschlagnahmte oder verletzte Tiere. Ocilla ist der erste Margay, der ausgewildert werden soll. Monatelang zieht Falton mit dem kleinen Margay durch den Regenwald. Er lehrt das Tier, was er weiß. Denn er ist hier in der Wildnis aufgewachsen, er weiß wie man im Wald überlebt. Dabei nutzt Falton das überlieferte Wissen seines Volkes der Wapishana. Wo immer es geht, versucht er, das Verhalten der Katzenmutter zu imitieren. Da bisher nur wenig über die seltenen und scheuen Katzen bekannt ist, konzentriert Falton sich darauf, das junge Tier für Gefahren zu sensibilisieren und ihm beizubringen, wo ein Räuber seiner Größe Nahrung finden kann. Das Klettern und die typische Fortbewegung in den Baumkronen wurden der kleinen Raubkatze bereits in die Wiege gelegt. Mehrere Monate ist nicht sicher, ob es Falton gelingen wird, die Katze fit zu machen für ein Leben in Freiheit. Der Margay muss zeigen, dass er sich ernähren und verteidigen kann. Erst danach ist es an der Zeit, ihn in ein entferntes geschütztes Gebiet zu bringen und freizulassen. Und auch dort stehen dem jungen Margay noch Prüfungen bevor(n)</desc>
-    <category lang="de">Information</category>
-    <category lang="de">Dokumentation</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/8251975/8251975_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20200311210000 +0100" stop="20200311214500 +0100" channel="BR">
+  <programme start="20200311230000 +0100" stop="20200311233000 +0100" channel="BR">
     <title lang="de">Kontrovers</title>
     <sub-title lang="de">Das Politikmagazin</sub-title>
     <desc lang="de">Das Politikmagazin - Medizinische Versorgung: Diskussion über Testprobleme Berichte über vergebliche Versuche, sich auf den Corona-Virus testen zu lassen, häufen sich. Die Bayern-SPD fordert zentrale Testzentren für Verdachtsfälle - flächendeckend über den Freistaat verteilt. Die Gesundheitsministerin fürchtet aber, dass sich die Menschen dort erst recht anstecken. Schutzmaßnahmen: Grenzen der Quarantäne Virologen schlagen Alarm: Zu strenge Quarantäne-Regeln beim medizinischen Personal könnten die Versorgung im Gesundheitssystem gefährden. Und auch der Umgang mit Großveranstaltungen ist umstritten. Was steckt dahinter? Und wie kommt das scheinbar uneinheitliche Vorgehen beim Bürger an? Handel und Industrie: Ein Virus infiziert die Wirtschaft. Weite Teile Norditaliens sind abgeriegelt, Zulieferungen aus China bleiben aus, der Tourismus verzeichnet enorme Einbrüche. "Kontrovers" fragt nach: Wie verkraftet die bayerische Wirtschaft die Corona-Krise und was ist für die nächsten Wochen zu erwarten? Home-Office: Arbeiten in der Quarantäne Aus Sicherheitsgründen sollen immer mehr Menschen von zu Hause aus arbeiten. Doch ist die technische Infrastruktur in Deutschland auf die schnell wachsende Home-Office-Nachfrage vorbereitet? Experten sehen Herausforderungen bei Cybersicherheit und Datenschutz. Kommunalwahl: Herausforderungen für den Wahlsonntag Der Kommunalwahlkampf geht in die Endphase - eine ohnehin herausfordernde Zeit für Politiker und Organisatoren. Wegen der Corona-Krise tauchen nun aber ganz neue Fragen auf. In Füssen sind zum Beispiel ein Spitzenkandidat und der Wahlleiter in Quarantäne. "Kontrovers" über eine Wahl in Corona-Zeiten. Jens Spahn: ein Minister im Krisenmodus Krisen bergen für Politiker die Chance, sich zu profilieren oder die Gefahr, politisch abzustürzen. In der aktuellen Corona-Krise geht es für Bundesgesundheitsminister Spahn darum, Macher zu sein, ohne Panik zu schüren. Wie gut gelingt dieser Spagat? Humor in Krisenzeiten: Gibt's noch was zu lachen? Nicht nur wegen Corona haben viele Menschen den Eindruck, in schwierigen Zeiten zu leben. Klimawandel, Kriege, Flüchtlinge und immer mehr rechte Gewalt. Mit Humor gerät man hier schnell an Grenzen - und trotzdem gilt manchmal: Jetzt wird erst recht gelacht(n)</desc>
@@ -17144,27 +18294,16 @@
       <presenter>Andreas Bachmann</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Politikmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/7154072/7154072_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200311214500 +0100" stop="20200311220000 +0100" channel="BR">
-    <title lang="de">Rundschau Magazin</title>
-    <sub-title lang="de">Nachrichten - Berichte - Wettervorhersage</sub-title>
-    <desc lang="de">Nachrichten - Berichte - Wettervorhersage - Die Moderatorin Anouschka Horn informiert über aktuelle Geschehnisse in Bayern, Deutschland und der Welt. Es gibt umfangreiche Berichte zu Themen aus Politik, Wirtschaft, Gesellschaft und Kultur. Sorgfältig recherchierte Fakten sorgen für einen tiefen Einblick in die Geschehnisse und geben dem Zuschauer die Möglichkeit, sich selbst eine Meinung zu dem jeweiligen Thema zu bilden(n)</desc>
-    <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/7405194/7405194_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20200311220000 +0100" stop="20200311233000 +0100" channel="BR">
+  <programme start="20200311233000 +0100" stop="20200312010000 +0100" channel="BR">
     <title lang="de">Bayern, Bier und Politik</title>
     <sub-title lang="de">Das Beste aus 70 Jahren Nockherberg</sub-title>
-    <desc lang="de">Das Beste aus 70 Jahren Nockherberg - Seit 1950 findet jeweils im Frühling der Starkbieranstich auf dem Münchner Nockherberg statt. Die Besonderheit liegt darin, dass zahlreiche Politiker anwesend sind - die erste Maß steht traditionsgemäss dem bayerischen Ministerpräsidenten zu. Höhepunkt der Veranstaltung ist das Derblecken, ein politisches Kabarett. In dieser Sendung werden die besten Szenen aus vergangenen Jahrzehnten präsentiert(n)</desc>
+    <desc lang="de">Das Beste aus 70 Jahren Nockherberg - Seit 1950 findet nach dem Zweiten Weltkrieg wieder der Starkbieranstich auf dem Nockherberg statt. Anfänglich hat das Bayerische Fernsehen nur kurz in schwarz-weiß berichtet, aber seit 1977 zeigt es das Spektakel in seiner ganzen Herrlichkeit. Grund genug, zur diesjährigen Ausgabe von "Bayern, Bier und Politik" auf die besten Szenen zurückzublicken. Auf die Krönung von Franz Josef Strauß auf der Nockherberg-Bühne 1983 beispielsweise. Oder auf das Duell zwischen Renate Schmidt und Edmund Stoiber: "Ich bin so froh, dass ich kein Mädchen bin". Oder darauf, wie sehr sich 2017 Angela Merkel und Martin Schulz bei einem Joint nahekamen. Nicht zu vergessen die Machtkämpfe zwischen Horst Seehofer und Markus Söder. Als Gäste haben Ursula Heller und Werner Schmidbauer diesmal eingeladen: Claudia Roth, Erwin Huber, Christian Ude und Wolfgang Kubicki(n)</desc>
     <credits>
       <director>Meinhard Prill</director>
       <presenter>Ursula Heller</presenter>
@@ -17176,7 +18315,7 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200311233000 +0100" stop="20200311234500 +0100" channel="BR">
+  <programme start="20200312010000 +0100" stop="20200312011500 +0100" channel="BR">
     <title lang="de">kinokino</title>
     <sub-title lang="de">Das Filmmagazin</sub-title>
     <desc lang="de">Das Filmmagazin - Kurzweiliges Kino-Magazin mit den cineastischen Highlights unter den wöchentlichen Neustarts(n)</desc>
@@ -17187,72 +18326,75 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200312012000 +0100" stop="20200312012500 +0100" channel="BR">
+  <programme start="20200312011500 +0100" stop="20200312012000 +0100" channel="BR">
     <title lang="de">Rundschau Nacht</title>
     <sub-title lang="de">Nachrichten - Berichte - Wettervorhersage</sub-title>
     <desc lang="de">Nachrichten - Berichte - Wettervorhersage - Die Rundschau Nacht bringt Sie von Montag bis Freitag zwischen 00.00 Uhr und 3.00 Uhr auf den neuesten Stand. Außerdem pünktlich um 23.30 Uhr nur im Netz(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Nachrichten</category>
+    <category lang="de">Regionalnachrichten</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1012_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200312012500 +0100" stop="20200312024000 +0100" channel="BR">
+  <programme start="20200312012000 +0100" stop="20200312020500 +0100" channel="BR">
+    <title lang="de">Sauber derbleckt</title>
+    <sub-title lang="de">Die Gesprächsrunde zum Nockherberg</sub-title>
+    <desc lang="de">Die Gesprächsrunde zum Nockherberg - Im Live-Talk "Sauber derbleckt", moderiert von Ursula Heller und Christoph Deumling, werden sich die Gäste am Stammtisch über die Höhepunkte des Starkbieranstichs auf dem Nockherberg 2020 unterhalten. Dabei werden sie Fastenrede und Singspiel noch einmal mit den schönsten Szenen Revue passieren lassen(n)</desc>
+    <credits>
+      <presenter>Christoph Deumling</presenter>
+    </credits>
+    <category lang="de">Show</category>
+    <category lang="de">Gespräch</category>
+    <icon src="https://tvdigitalepg.images.dvbdata.com/8533804/8533804_478x268.jpg" />
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200312020500 +0100" stop="20200312032000 +0100" channel="BR">
     <title lang="de">Wir in Bayern</title>
     <desc lang="de">Bayern ist schön und hat viele Facetten. Das ist es, was unsere Heimat so liebens- und lebenswert macht. In der Sendung wird diese Vielfalt gezeigt: fast vergessene Handwerkskunst und gelebte Tradition, traumhafte Landschaften und interessante Menschen. Sabine Sauer und Andrea Lauterbach, Michael Sporer und Dominik Pöll plaudern täglich mit Bayern, die etwas zu erzählen haben(n)</desc>
     <credits>
-      <presenter>Andrea Lauterbach</presenter>
+      <presenter>Sabine Sauer</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://tvdigitalepg.images.dvbdata.com/8327765/8327765_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200312024000 +0100" stop="20200312031000 +0100" channel="BR">
+  <programme start="20200312032000 +0100" stop="20200312035000 +0100" channel="BR">
     <title lang="de">Frankenschau aktuell</title>
     <desc lang="de">Die Frankenschau aktuell berichtet werktags aus Ihrer Region. Jeden Tag sind wir in Ober-, Mittel- und Unterfranken unterwegs, um Ihnen die neuesten Nachrichten aus Politik, Wirtschaft und Kultur zu präsentieren(n)</desc>
     <credits>
-      <presenter>Julia Büchler</presenter>
+      <presenter>Charly Hilpert</presenter>
     </credits>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1011_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200312031000 +0100" stop="20200312034000 +0100" channel="BR">
+  <programme start="20200312035000 +0100" stop="20200312042000 +0100" channel="BR">
     <title lang="de">Abendschau - Der Süden</title>
     <sub-title lang="de">Das Wichtigste aus Südbayern</sub-title>
-    <desc lang="de">Das Wichtigste aus Südbayern - Von Montag bis Freitag liefert die Abendschau des BR als Regionalmagazin aktuelle Informationen aus dem Land. Behandelt werden aktuelle Themen der Landespolitik über Kunst und Musik bis zum Sport(n)</desc>
+    <desc lang="de">Das Wichtigste aus Südbayern - Von Montag bis Freitag liefert die Abendschau des BR als Regionalmagazin aktuelle Informationen aus dem Land. Behandelt werden aktuelle Themen der Landespolitik über Kunst und Musik bis zum Sport. Ob Widerstand gegen Stromtrassen, Shoppen in Augsburg oder Jugendbasketball in der bayerischen Provinz - der thematischen Vielfalt der Sendung sind hier höchstens regionale Grenzen gegeben(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
+    <category lang="de">Regionalmagazin</category>
+    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1011_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20200312034000 +0100" stop="20200312041000 +0100" channel="BR">
+  <programme start="20200312042000 +0100" stop="20200312045000 +0100" channel="BR">
     <title lang="de">Abendschau</title>
     <sub-title lang="de">Das bewegt Bayern heute</sub-title>
     <desc lang="de">Das bewegt Bayern heute - Schon seit 1954 informiert die "Abendschau" über alle Neuigkeiten und wissenswerten Dinge im Freistaat Bayern. Es ist somit eine der ältesten Fernsehsendungen Deutschlands. Die Berichte zu regionalen Themen werden häufig mit aufwändig recherchiertem Hintergrundwissen ergänzt. Es gibt Beiträge zu Kultur und Musik. Manchmal sprechen die Moderatoren auch mit Studiogästen über bestimmte Themen(n)</desc>
     <category lang="de">Information</category>
-    <category lang="de">Magazin</category>
+    <category lang="de">Regionalmagazin</category>
     <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20200312041000 +0100" stop="20200312044500 +0100" channel="BR">
-    <title lang="de">Landgasthäuser Hopfen &amp; Malz</title>
-    <sub-title lang="de">Oberbayern</sub-title>
-    <desc lang="de">Oberbayern - Das weltbekannte "bayerische Reinheitsgebot" für Bier stammt aus dem Jahre 1516 und wurde in Ingolstadt ausgerufen. Mit der feierlichen Verlesung und einem Volksfest würdigt die Stadt an der Donau jedes Jahr diesen Meilenstein. Eine der schönsten Brauereien des Landes steht in Titting im Landkreis Eichstätt. Weil er sein Wasserschloss selten nutzte, ließ der Fürstbischof den Prachtbau zur Braustätte umrüsten. Am Flüsschen Abens kann man dem Hopfen-Lehrpfad durch die Hallertau folgen. Stärken kann man sich unterwegs mit erlesenen Schmankerln: einem Saiblings-Tatar auf Radieserl-Carpaccio, Spanferkel-Schäufele an Weizenbocksoße und Wildschwein in Honig-Balsamico-Marinade(n)</desc>
-    <category lang="de">Information</category>
-    <category lang="de">Reportagereihe</category>
-    <icon src="https://tvdigitalepg.images.dvbdata.com/8691831/8691831_478x268.jpg" />
     <star-rating>
       <value>4.0</value>
     </star-rating>
@@ -17261,8 +18403,13 @@
     <title lang="de">Rote Rosen</title>
     <desc lang="de">Die Geschichten der Telenovela ranken sich um das fiktive Nobelhotel "Drei Könige" in Lüneburg und erzählen von zahlreichen romantischen Liebesbeziehungen, die sich generationsübergreifend zwischen den Mitgliedern mehrerer Familien abspielen. Missgunst, blinde Rachsucht und diverse Missverständnisse führen allerdings auch zu schmerzlichen Trennungen bis hin zu lebenslang währenden Feindschaften(n)</desc>
     <credits>
-      <director>Mattes Reischel</director>
-      <actor>Bruce Willis</actor>
+      <director>Petra Wiemers</director>
+      <actor>Jeannette Rauch</actor>
+      <actor>Angela Roy</actor>
+      <actor>Joachim Raaf</actor>
+      <actor>Gerry Hungbauer</actor>
+      <actor>Sarah Maria Besgen</actor>
+      <writer>Ulla Becker</writer>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
@@ -17275,9 +18422,9 @@
   <programme start="20200311055000 +0100" stop="20200311062000 +0100" channel="MDR">
     <title lang="de">nano</title>
     <sub-title lang="de">Die Welt von morgen</sub-title>
-    <desc lang="de">Die Welt von morgen - Das 3sat-Wissenschaftsmagazin berichtet werktäglich ausführlich, verständlich und aktuell über Technik, Medizin, Wissenschaft und Forschung. "nano" macht Zukunftsvisionen sichtbar und erfahrbar. Durch eine unterhaltsame, spannende und informative Mischung von Wissenschaftsfilmen macht "nano" seine Zuschauer fit für die Welt von morgen. "nano" ist ein aktuelles Magazin und enthält Studio- und Schaltgespräche. Regelmäßig werden Schwerpunkte gesetzt und wissenschaftlich beleuchtet(n)</desc>
+    <desc lang="de">Die Welt von morgen - Das Magazin berichtet werktäglich aktuell und verständlich über Technik, Medizin, Wissenschaft und Forschung(n)</desc>
     <credits>
-      <presenter>Ingolf Baur</presenter>
+      <presenter>Yve Fehring</presenter>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Magazin</category>
@@ -17309,8 +18456,13 @@
     <title lang="de">Rote Rosen</title>
     <desc lang="de">Astrid ist sauer, weil Pia wieder die Schule schwänzt - zugunsten von "Fridays for Future". Pia will sogar ein Jahr mit der Schule aussetzen, um sich für den Klimaschutz zu engagieren. Bei Tina kann sich Astrid aussprechen, doch dann ist Pia plötzlich abgehauen. Gregor lässt Judith abblitzen, er nimmt das Bestechungsgeld nicht zurück. Judith lügt Alex an, dass sie die Angelegenheit zum Guten regeln konnte. Doch Amelie macht ihr deutlich klar, dass Gregor sie nie aus seinen Fängen lassen wird. Prompt wird die hoch nervöse Judith von ihren Ängsten eingeholt. Amelie hat Vivien in Verdacht, im Hotel Stimmung gegen Schwangerschaftsabbrüche zu machen, um ihr damit persönlich zu schaden. Vivien ihrerseits fürchtet, dass Amelie wegen des heimlichen Friseur-Services im Hotel hinter ihr her ist. Johanna verfolgt hartnäckig ihren Plan, bei der Ausstellung von Porträts bedeutender Lüneburger dabei zu sein. Doch sie findet keinen Maler, der sie so kurzfristig porträtiert. Schließlich offenbart sie dem verblüfften Thomas, dass sie beschlossen hat, sich selbst zu malen. Direkt nach der linearen Ausstrahlung einer Folge der Serie gibt es die nächste schon online first und danach für drei Monate in der ARD-Mediathek(n)</desc>
     <credits>
-      <director>Mattes Reischel</director>
-      <actor>Bruce Willis</actor>
+      <director>Petra Wiemers</director>
+      <actor>Jeannette Rauch</actor>
+      <actor>Angela Roy</actor>
+      <actor>Joachim Raaf</actor>
+      <actor>Gerry Hungbauer</actor>
+      <actor>Sarah Maria Besgen</actor>
+      <writer>Ulla Becker</writer>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Telenovela</category>
@@ -17365,13 +18517,8 @@
   </programme>
   <programme start="20200311102800 +0100" stop="20200311103000 +0100" channel="MDR">
     <title lang="de">Länder kompakt</title>
-    <desc lang="de">Der schnelle Überblick über die wichtigsten Ereignisse in Sachsen, Sachsen-Anhalt und Thüringen(n)</desc>
     <category lang="de">Information</category>
     <category lang="de">Regionalnachrichten</category>
-    <icon src="https://ersatzbild.images.dvbdata.com/v2/478x268/1012_478x268.jpg" />
-    <star-rating>
-      <value>4.0</value>
-    </star-rating>
   </programme>
   <programme start="20200311103000 +0100" stop="20200311105500 +0100" channel="MDR">
     <title lang="de">Elefant, Tiger &amp; Co.</title>
@@ -17508,7 +18655,11 @@
     <sub-title lang="de">Raketenflieger Timmi: Streitplanet</sub-title>
     <desc lang="de">Raketenflieger Timmi: Streitplanet - Raktenflieger Timmi und Teddynaut gelangen zum Streitplaneten, der in zwei Hälften aufgeteilt ist. Die eine ist blau, die andere orange, wie die zwei Bewohner, die in den Hälften leben. Sie streiten. Als Timmi und Teddy gleich wieder weg wollen, einigen sich die Bewohner, nicht mehr zu streiten. Und plötzlich besuchen sie sich gegenseitig und haben Spaß zusammen(n)</desc>
     <credits>
-      <director>Andreas Strozyk</director>
+      <director>Martin Reinl</director>
+      <actor>Martin Reinl</actor>
+      <actor>Carsten Morar-Haffke</actor>
+      <actor>Peter Füssenisch</actor>
+      <writer>Martin Reinl</writer>
     </credits>
     <category lang="de">Serie</category>
     <category lang="de">Reihe</category>
@@ -17605,13 +18756,13 @@
     <sub-title lang="de">Totenmesse</sub-title>
     <desc lang="de">Totenmesse - Knapp zwanzig Jahre schon gehen Hagen Peuckert und sein älterer Mentor Caspar Freyberg gemeinsam durchs Berufsleben. Sie teilen Hobbies, Freud und Leid - und ein Geheimnis. Denn der verheiratete Peuckert führt ein Doppelleben mit seiner jungen Geliebten, der Modedesignerin Susanne Scheffler. Die Freundschaft der ehrgeizigen Männer wird auf die Probe gestellt, als Peuckert in den Vorstand seiner Firma, der Urban Invest AG aufsteigen soll. Seine Firma will das Alte Leipziger Messegelände neu gestalten. Vom Projektmanager Peuckert wird ein repräsentativer Bebauungsplan erwartet. Ausgerechnet in dieser angespannten Situation stirbt Margit Baumann, die Buchhalterin des von Peuckert beauftragten Architekten. Sie wurde spät abends von ihrem Balkon gestoßen. Die Kommissare Ehrlicher und Kain finden in ihrer Wohnung Belege über ungewöhnlich kostspielige Einkäufe, die sie unmittelbar vor ihrem Tod getätigt hatte. Wie kann sich eine Buchhalterin so teure Kleidung leisten? Die Analyse einiger grauer Haare vom Tatort ergibt, dass der Täter Heuschnupfen haben muss. Der Verdacht fällt deshalb auf Margit Baumanns verschnupften Chef. Der Architekt Martin Frings erklärt, seine Buchhalterin hätte im vergangenen Jahr 120.000 Mark veruntreut. Frings gibt auch zu, am Vorabend bei ihr gewesen zu sein, um ihr deswegen fristlos zu kündigen. Doch mit dem Mord will er nichts zu tun haben. Auch der verheiratete Hagen Peuckert von der Urban Invest AG kommt unter Druck. Aus anonymer Quelle erfährt er, dass seine Geliebte Susanne für ihr Verhältnis bezahlt worden ist. Am nächsten Morgen wird Susanne tot aufgefunden. Peuckert ist dringend tatverdächtig. Ehrlicher und Kain müssen herausfinden, was die Figuren in diesem tödlichen Spiel miteinander verbindet: Verstrickungen in das Millionenprojekt, verletzte Gefühle und ein ehrgeiziger Kampf um die Karriere(n)</desc>
     <credits>
-      <director>Niki Stein</director>
-      <actor>Richy Müller</actor>
-      <actor>Felix Klare</actor>
-      <actor>Thomas Thieme</actor>
-      <actor>Robert Schupp</actor>
-      <actor>Katja Bürkle</actor>
-      <writer>Niki Stein</writer>
+      <director>Thomas Freundner</director>
+      <actor>Peter Sodann</actor>
+      <actor>Bernd Michael Lade</actor>
+      <actor>Walter Nickel</actor>
+      <actor>Annekathrin Bürger</actor>
+      <actor>Stephan Schwartz</actor>
+      <writer>Andreas Pflüger</writer>
     </credits>
     <category lang="de">Spielfilm</category>
     <category lang="de">Krimi</category>
@@ -17862,7 +19013,7 @@
   <programme start="20200311091500 +0100" stop="20200311100000 +0100" channel="HR">
     <title lang="de">Jetzt mal Klartext!</title>
     <sub-title lang="de">Unterricht - ungenügend!</sub-title>
-    <desc lang="de">Unterricht - ungenügend! - Viel zu wenige Lehrer, Unterrichtsausfall und Quereinsteiger, die überfordert sind: Die Situation an hessischen Schulen ist angespannt. Was bedeutet der Lehrermangel für die Qualität der Schulbildung? Die Moderatoren Daniel Mauke und Julia Tzschätzsch diskutieren mit Eltern, Lehrern, Quereinsteigern, Politikern und Bildungsforschern über die Zukunft der Kinder an deutschen Schulen(n)</desc>
+    <desc lang="de">Unterricht - ungenügend! - Viel zu wenige Lehrer, Unterrichtsausfall und Quereinsteiger, die ins kalte Wasser geworfen werden: Die Situation an hessischen Schulen ist mehr als angespannt. Wir wollen Klartext reden - mit Eltern, Lehrern, Quereinsteigern, Politik und Bildungsforschern. Was bedeutet der Lehrermangel für die Qualität der Schulbildung? Und wie konnte es überhaupt zu einem so gravierenden Engpass kommen? "Plötzlich Lehrerin" ist Petra Boberg, hr-Journalistin. Sie macht den Praxistest als Lehrerin ohne pädagogische Ausbildung an einer Wiesbadener Grundschule und erzählt von ihren Erfahrungen. Wir fragen den hessischen Kultusminister Alexander Lorz: Wie machen Sie jetzt Ihre Hausaufgaben? Wie können wir den Lehrerberuf wieder attraktiver machen? Was muss sich ändern? Der Bildungsforscher Jörg Ramseger sieht eine "Bildungskatastrophe" auf uns zukommen und befürchtet weitreichende Folgen. Daniel Mauke und Julia Tzschätzsch werden ihr mobiles Fernsehstudio aufbauen und Klartext reden: über die Zukunft der Kinder(n)</desc>
     <credits>
       <presenter>Daniel Mauke</presenter>
     </credits>
@@ -18099,7 +19250,7 @@
   </programme>
   <programme start="20200311201500 +0100" stop="20200311210000 +0100" channel="HR">
     <title lang="de">mex. das marktmagazin</title>
-    <desc lang="de">Die Sendung enthält unter anderem einen Beitrag zum Thema "Wilke-Skandal - Warum die tödlichen Keime so lange unentdeckt blieben". Es ist einer der größten Lebensmittel-Skandale der Bundesrepublik Deutschland: Verschiedene Wurst-Sorten des Herstellers Wilke aus Nordhessen enthielten Listerien-Bakterien, an denen mindestens 37 Menschen erkrankten und drei starben. Besonders schwer wiegt, dass die Bakterien schon seit mindestens fünf Jahren in den Wurstwaren auftauchten, die offenkundigen eklatanten Hygienemängel aber nicht abgestellt wurden. Warum nicht? "mex. das marktmagazin" hat monatelang die Hintergründe des Wilke-Skandals recherchiert(n)</desc>
+    <desc lang="de">"mex. das marktmagazin" macht Wirtschaft konkret, menschlich, emotional. Wirtschaftspolitische Streitfragen werden auf die Erfahrungsebene der Zuschauer gebracht. Die Sendung deckt Missstände auf, geht Ärgernissen auf den Grund und zeigt Konflikte auf. "mex. das marktmagazin" fragt nach der Verantwortung und bietet Lösungen. Wichtige Themenfelder sind Arbeit, Gesundheit und Verbraucherrecht. Den Schwerpunkt des Magazins bildet das alltägliche Wirtschaften der Verbraucher. Ihre Probleme mit Preisen, der Qualität und dem Preis-Leistungsverhältnis werden beleuchtet. Der Wirtschaftsalltag wird so authentisch wie möglich abgebildet, um so dem Verbraucher Entscheidungshilfen für den Alltag zu liefern(n)</desc>
     <credits>
       <presenter>Claudia Schick</presenter>
     </credits>
@@ -18246,7 +19397,7 @@
   </programme>
   <programme start="20200312040500 +0100" stop="20200312045000 +0100" channel="HR">
     <title lang="de">mex. das marktmagazin</title>
-    <desc lang="de">Die Sendung enthält unter anderem einen Beitrag zum Thema "Wilke-Skandal - Warum die tödlichen Keime so lange unentdeckt blieben". Es ist einer der größten Lebensmittel-Skandale der Bundesrepublik Deutschland: Verschiedene Wurst-Sorten des Herstellers Wilke aus Nordhessen enthielten Listerien-Bakterien, an denen mindestens 37 Menschen erkrankten und drei starben. Besonders schwer wiegt, dass die Bakterien schon seit mindestens fünf Jahren in den Wurstwaren auftauchten, die offenkundigen eklatanten Hygienemängel aber nicht abgestellt wurden. Warum nicht? "mex. das marktmagazin" hat monatelang die Hintergründe des Wilke-Skandals recherchiert(n)</desc>
+    <desc lang="de">"mex. das marktmagazin" macht Wirtschaft konkret, menschlich, emotional. Wirtschaftspolitische Streitfragen werden auf die Erfahrungsebene der Zuschauer gebracht. Die Sendung deckt Missstände auf, geht Ärgernissen auf den Grund und zeigt Konflikte auf. "mex. das marktmagazin" fragt nach der Verantwortung und bietet Lösungen. Wichtige Themenfelder sind Arbeit, Gesundheit und Verbraucherrecht. Den Schwerpunkt des Magazins bildet das alltägliche Wirtschaften der Verbraucher. Ihre Probleme mit Preisen, der Qualität und dem Preis-Leistungsverhältnis werden beleuchtet. Der Wirtschaftsalltag wird so authentisch wie möglich abgebildet, um so dem Verbraucher Entscheidungshilfen für den Alltag zu liefern(n)</desc>
     <credits>
       <presenter>Claudia Schick</presenter>
     </credits>
