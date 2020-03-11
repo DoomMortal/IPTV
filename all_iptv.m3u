@@ -18,7 +18,7 @@ https://channel-resolver.herokuapp.com/tvi_tv
 https://channel-resolver.herokuapp.com/tvi_24
 #EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Ficção[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_ficcao
-#EXTINF:-1 tvg-id="TVI_REALITY" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Reality[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TVIReality" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Reality[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_reality
 
 

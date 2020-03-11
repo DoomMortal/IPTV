@@ -40,6 +40,10 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.tvi.pt</url>
   </channel>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
   <channel id="Das Erste">
     <display-name lang="de">Das Erste</display-name>
     <icon src="https://senderlogos.images.dvbdata.com/302x190_w/71.png" />
@@ -145,57 +149,52 @@
     <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311150400 +0000" stop="20200311195500 +0000" channel="RTP1">
+  <programme start="20200311150400 +0000" stop="20200311195900 +0000" channel="RTP1">
     <title lang="en">A Nossa Tarde</title>
     <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311195500 +0000" stop="20200311195900 +0000" channel="RTP1">
-    <title lang="en">Direito de Antena</title>
-    <desc lang="en">ANP(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311195900 +0000" stop="20200311210000 +0000" channel="RTP1">
+  <programme start="20200311195900 +0000" stop="20200311211500 +0000" channel="RTP1">
     <title lang="en">Telejornal</title>
     <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311210000 +0000" stop="20200311213800 +0000" channel="RTP1">
+  <programme start="20200311211500 +0000" stop="20200311215300 +0000" channel="RTP1">
     <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
     <desc lang="en">G Pousada - Óscar Geadas - Bragança(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311213800 +0000" stop="20200311223600 +0000" channel="RTP1">
+  <programme start="20200311215300 +0000" stop="20200311224900 +0000" channel="RTP1">
     <title lang="en">Joker</title>
     <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311223600 +0000" stop="20200312000000 +0000" channel="RTP1">
+  <programme start="20200311224900 +0000" stop="20200312001500 +0000" channel="RTP1">
     <title lang="en">Cá Por Casa com Herman José</title>
     <desc lang="en">Quim Barreiros, Manuel Pinto Coelho, Mayra Andrade, Artur Ribeiro, Pedro Lacerda, Vítor D´Andrade(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312000000 +0000" stop="20200312005000 +0000" channel="RTP1">
+  <programme start="20200312001500 +0000" stop="20200312010400 +0000" channel="RTP1">
     <title lang="en">Anatomia de Grey</title>
     <desc lang="en">O drama médico mais famoso da televisão que centra a sua história nas vidas profissionais e pessoais de um grupo de médicos-cirurgiões(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312005000 +0000" stop="20200312014500 +0000" channel="RTP1">
+  <programme start="20200312010400 +0000" stop="20200312020000 +0000" channel="RTP1">
     <title lang="en">Janela Indiscreta</title>
     <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312014500 +0000" stop="20200312024100 +0000" channel="RTP1">
+  <programme start="20200312020000 +0000" stop="20200312025500 +0000" channel="RTP1">
     <title lang="en">Grande Entrevista</title>
     <desc lang="en">Filipe Froes(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312024100 +0000" stop="20200312032500 +0000" channel="RTP1">
+  <programme start="20200312025500 +0000" stop="20200312034000 +0000" channel="RTP1">
     <title lang="en">O Sábio</title>
     <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200312032500 +0000" stop="20200312055900 +0000" channel="RTP1">
+  <programme start="20200312034000 +0000" stop="20200312055900 +0000" channel="RTP1">
     <title lang="en">Televendas</title>
     <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
     <category lang="en">News</category>
@@ -878,19 +877,9 @@
     <desc lang="en">!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311180000 +0000" stop="20200311190000 +0000" channel="RTP2">
+  <programme start="20200311180000 +0000" stop="20200311192500 +0000" channel="RTP2">
     <title lang="en">Os Nuvinhas</title>
     <desc lang="en">Vem explorar o céu com as aventuras destes novos e encantadores amigos(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311190000 +0000" stop="20200311192300 +0000" channel="RTP2">
-    <title lang="en">She-Ra e as Princesas do Poder</title>
-    <desc lang="en">Uma série repleta de aventura, diversão, comédia e coração sincero(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311192300 +0000" stop="20200311192500 +0000" channel="RTP2">
-    <title lang="en">Banda Zig Zag</title>
-    <desc lang="en">!(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311192500 +0000" stop="20200311194800 +0000" channel="RTP2">
@@ -3924,19 +3913,19 @@
     <desc lang="en">Diogo Infante aborda a língua portuguesa, as origens, regras, curiosidades e muitos disparates(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311183000 +0000" stop="20200311191500 +0000" channel="RTP Memória">
+  <programme start="20200311183000 +0000" stop="20200311191100 +0000" channel="RTP Memória">
     <title lang="en">Bem-vindos a Beirais</title>
     <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311191500 +0000" stop="20200311200500 +0000" channel="RTP Memória">
-    <title lang="en">Donos Disto Tudo</title>
-    <desc lang="en">No regresso do humor sobre a atualidade ao prime time da RTP, um grupo de cinco comediantes(n)</desc>
+  <programme start="20200311191100 +0000" stop="20200311191500 +0000" channel="RTP Memória">
+    <title lang="en">Cinemateca Digital</title>
+    <desc lang="en">Microprogramas com pérolas da Cinemateca Digital(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311200500 +0000" stop="20200311201000 +0000" channel="RTP Memória">
-    <title lang="en">Boca de Cena</title>
-    <desc lang="en">Não perca pequenos grandes momentos do teatro português(n)</desc>
+  <programme start="20200311191500 +0000" stop="20200311201000 +0000" channel="RTP Memória">
+    <title lang="en">Donos Disto Tudo</title>
+    <desc lang="en">No regresso do humor sobre a atualidade ao prime time da RTP, um grupo de cinco comediantes(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311201000 +0000" stop="20200311210000 +0000" channel="RTP Memória">
@@ -6381,14 +6370,9 @@
     <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311151100 +0000" stop="20200311195900 +0000" channel="RTP Internacional">
+  <programme start="20200311151100 +0000" stop="20200311210000 +0000" channel="RTP Internacional">
     <title lang="en">A Nossa Tarde</title>
     <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311195900 +0000" stop="20200311210000 +0000" channel="RTP Internacional">
-    <title lang="en">Telejornal</title>
-    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311210000 +0000" stop="20200311213200 +0000" channel="RTP Internacional">
@@ -8206,9 +8190,13 @@
     <desc lang="en">A aproximação da diáspora com origem nas regiões autónomas dos Açores e da Madeira, com os assuntos que marcam a atualidade destas ilhas(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311172500 +0000" stop="20200311190000 +0000" channel="RTP Madeira">
+  <programme start="20200311172500 +0000" stop="20200311185000 +0000" channel="RTP Madeira">
     <title lang="en">Super Especial 2020</title>
     <desc lang="en">Rampa da Camacha(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200311185000 +0000" stop="20200311190000 +0000" channel="RTP Madeira">
+    <title lang="en">Parlamento Madeira - 2020</title>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311190000 +0000" stop="20200311192000 +0000" channel="RTP Madeira">
@@ -8216,13 +8204,8 @@
     <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20200311192000 +0000" stop="20200311210000 +0000" channel="RTP Madeira">
+  <programme start="20200311192000 +0000" stop="20200311215000 +0000" channel="RTP Madeira">
     <title lang="en">Madeira Viva 2020</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200311210000 +0000" stop="20200311215000 +0000" channel="RTP Madeira">
-    <title lang="en">Telejornal Madeira</title>
-    <desc lang="en">Informação de proximidade. De confiança!(n)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20200311215000 +0000" stop="20200311233500 +0000" channel="RTP Madeira">
@@ -9310,6 +9293,359 @@
   <programme start="20200317233200 +0000" stop="20200318004500 +0000" channel="TVI">
     <title lang="pt">Onde está Elisa?</title>
   </programme>
+  <programme start="20200311060000 +0000" stop="20200311070000 +0000" channel="TVI24">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200311070000 +0000" stop="20200311101400 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200311101400 +0000" stop="20200311130000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200311130000 +0000" stop="20200311144500 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200311144500 +0000" stop="20200311161500 +0000" channel="TVI24">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200311161500 +0000" stop="20200311190000 +0000" channel="TVI24">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200311190000 +0000" stop="20200311195700 +0000" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200311195700 +0000" stop="20200311210000 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200311210000 +0000" stop="20200311215500 +0000" channel="TVI24">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200311215500 +0000" stop="20200311233200 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200311233200 +0000" stop="20200312004500 +0000" channel="TVI24">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200312004500 +0000" stop="20200312013000 +0000" channel="TVI24">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200312013000 +0000" stop="20200312022300 +0000" channel="TVI24">
+    <title lang="pt">Defesa à medida</title>
+  </programme>
+  <programme start="20200312022300 +0000" stop="20200312030000 +0000" channel="TVI24">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200312030000 +0000" stop="20200312032500 +0000" channel="TVI24">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200312032500 +0000" stop="20200312034800 +0000" channel="TVI24">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200312034800 +0000" stop="20200312041000 +0000" channel="TVI24">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200312041000 +0000" stop="20200312043000 +0000" channel="TVI24">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200312043000 +0000" stop="20200312060000 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200312060000 +0000" stop="20200312070000 +0000" channel="TVI24">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200312070000 +0000" stop="20200312101400 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200312101400 +0000" stop="20200312130000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200312130000 +0000" stop="20200312144500 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200312144500 +0000" stop="20200312161500 +0000" channel="TVI24">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200312161500 +0000" stop="20200312190000 +0000" channel="TVI24">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200312190000 +0000" stop="20200312195700 +0000" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200312195700 +0000" stop="20200312215500 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200312215500 +0000" stop="20200312233200 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200312233200 +0000" stop="20200313004100 +0000" channel="TVI24">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200313004100 +0000" stop="20200313012700 +0000" channel="TVI24">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200313012700 +0000" stop="20200313021900 +0000" channel="TVI24">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200313021900 +0000" stop="20200313025700 +0000" channel="TVI24">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200313025700 +0000" stop="20200313032100 +0000" channel="TVI24">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200313032100 +0000" stop="20200313034500 +0000" channel="TVI24">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200313034500 +0000" stop="20200313040900 +0000" channel="TVI24">
+    <title lang="pt">Mar de Paixão</title>
+  </programme>
+  <programme start="20200313040900 +0000" stop="20200313043000 +0000" channel="TVI24">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200313043000 +0000" stop="20200313060000 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200313060000 +0000" stop="20200313070000 +0000" channel="TVI24">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200313070000 +0000" stop="20200313101400 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200313101400 +0000" stop="20200313130000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200313130000 +0000" stop="20200313144500 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200313144500 +0000" stop="20200313161500 +0000" channel="TVI24">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200313161500 +0000" stop="20200313191300 +0000" channel="TVI24">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200313191300 +0000" stop="20200313195700 +0000" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200313195700 +0000" stop="20200313215500 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200313215500 +0000" stop="20200313233200 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200313233200 +0000" stop="20200314004100 +0000" channel="TVI24">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200314004100 +0000" stop="20200314012400 +0000" channel="TVI24">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200314012400 +0000" stop="20200314021500 +0000" channel="TVI24">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200314021500 +0000" stop="20200314031700 +0000" channel="TVI24">
+    <title lang="pt">Autores</title>
+    <sub-title lang="pt">Jorge Curvel</sub-title>
+  </programme>
+  <programme start="20200314031700 +0000" stop="20200314034500 +0000" channel="TVI24">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200314034500 +0000" stop="20200314041000 +0000" channel="TVI24">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200314041000 +0000" stop="20200314043000 +0000" channel="TVI24">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200314043000 +0000" stop="20200314060000 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200314060000 +0000" stop="20200314070000 +0000" channel="TVI24">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200314070000 +0000" stop="20200314101400 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200314101400 +0000" stop="20200314130000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200314130000 +0000" stop="20200314144500 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200314144500 +0000" stop="20200314161500 +0000" channel="TVI24">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200314161500 +0000" stop="20200314190000 +0000" channel="TVI24">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200314190000 +0000" stop="20200314195700 +0000" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200314195700 +0000" stop="20200314214500 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Euromilhões</sub-title>
+  </programme>
+  <programme start="20200314214500 +0000" stop="20200314230000 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200314230000 +0000" stop="20200315000000 +0000" channel="TVI24">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
+  <programme start="20200315000000 +0000" stop="20200315010000 +0000" channel="TVI24">
+    <title lang="pt">First Dates</title>
+  </programme>
+  <programme start="20200315010000 +0000" stop="20200315014500 +0000" channel="TVI24">
+    <title lang="pt">Defesa à medida</title>
+    <sub-title lang="pt">Ano 6</sub-title>
+  </programme>
+  <programme start="20200315014500 +0000" stop="20200315021500 +0000" channel="TVI24">
+    <title lang="pt">Mundo ao contrário</title>
+  </programme>
+  <programme start="20200315021500 +0000" stop="20200315040000 +0000" channel="TVI24">
+    <title lang="pt">Cirque du soleil: viagem a mundos distantes</title>
+  </programme>
+  <programme start="20200315040000 +0000" stop="20200315054500 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200315061500 +0000" stop="20200315065500 +0000" channel="TVI24">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200315065500 +0000" stop="20200315080000 +0000" channel="TVI24">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200315080000 +0000" stop="20200315090000 +0000" channel="TVI24">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200315090000 +0000" stop="20200315120000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+    <sub-title lang="pt">Especial</sub-title>
+  </programme>
+  <programme start="20200315120000 +0000" stop="20200315130000 +0000" channel="TVI24">
+    <title lang="pt">Conta-me como és</title>
+  </programme>
+  <programme start="20200315130000 +0000" stop="20200315142000 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200315142000 +0000" stop="20200315195700 +0000" channel="TVI24">
+    <title lang="pt">Somos Portugal</title>
+  </programme>
+  <programme start="20200315195700 +0000" stop="20200315213000 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200315213000 +0000" stop="20200315225200 +0000" channel="TVI24">
+    <title lang="pt">Mental Samurai</title>
+  </programme>
+  <programme start="20200315225200 +0000" stop="20200316000000 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200316000000 +0000" stop="20200316020000 +0000" channel="TVI24">
+    <title lang="pt">Atividade Paranormal 4</title>
+  </programme>
+  <programme start="20200316020000 +0000" stop="20200316021500 +0000" channel="TVI24">
+    <title lang="pt">GTI</title>
+  </programme>
+  <programme start="20200316021500 +0000" stop="20200316024500 +0000" channel="TVI24">
+    <title lang="pt">Louco Amor</title>
+  </programme>
+  <programme start="20200316024500 +0000" stop="20200316031500 +0000" channel="TVI24">
+    <title lang="pt">Doce Tentação</title>
+  </programme>
+  <programme start="20200316031500 +0000" stop="20200316040000 +0000" channel="TVI24">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200316040000 +0000" stop="20200316054500 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200316061500 +0000" stop="20200316064500 +0000" channel="TVI24">
+    <title lang="pt">Todos Iguais</title>
+  </programme>
+  <programme start="20200316064500 +0000" stop="20200316080000 +0000" channel="TVI24">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20200316080000 +0000" stop="20200316090000 +0000" channel="TVI24">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20200316090000 +0000" stop="20200316103000 +0000" channel="TVI24">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20200316103000 +0000" stop="20200316110000 +0000" channel="TVI24">
+    <title lang="pt">Selfie</title>
+  </programme>
+  <programme start="20200316110000 +0000" stop="20200316123000 +0000" channel="TVI24">
+    <title lang="pt">Missa</title>
+    <sub-title lang="pt">Torres Novas</sub-title>
+  </programme>
+  <programme start="20200316123000 +0000" stop="20200316130000 +0000" channel="TVI24">
+    <title lang="pt">Mesa Nacional</title>
+  </programme>
+  <programme start="20200316130000 +0000" stop="20200316140000 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200316140000 +0000" stop="20200316195700 +0000" channel="TVI24">
+    <title lang="pt">Somos Portugal</title>
+    <sub-title lang="pt">Oliveira do Hospital</sub-title>
+  </programme>
+  <programme start="20200316195700 +0000" stop="20200316213000 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20200316213000 +0000" stop="20200317000000 +0000" channel="TVI24">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">A gala</sub-title>
+  </programme>
+  <programme start="20200317000000 +0000" stop="20200317004500 +0000" channel="TVI24">
+    <title lang="pt">Dança com as Estrelas</title>
+    <sub-title lang="pt">Frente-a-frente</sub-title>
+  </programme>
+  <programme start="20200317004500 +0000" stop="20200317031500 +0000" channel="TVI24">
+    <title lang="pt">O Caçador e a Rainha do Gelo</title>
+  </programme>
+  <programme start="20200317031500 +0000" stop="20200317040000 +0000" channel="TVI24">
+    <title lang="pt">Saber Amar</title>
+  </programme>
+  <programme start="20200317040000 +0000" stop="20200317054500 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20200317054500 +0000" stop="20200317060000 +0000" channel="TVI24">
+    <title lang="pt">Batanetes</title>
+  </programme>
+  <programme start="20200317060000 +0000" stop="20200317070000 +0000" channel="TVI24">
+    <title lang="pt">1ª hora</title>
+  </programme>
+  <programme start="20200317070000 +0000" stop="20200317101400 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20200317101400 +0000" stop="20200317130000 +0000" channel="TVI24">
+    <title lang="pt">Você na TV!</title>
+  </programme>
+  <programme start="20200317130000 +0000" stop="20200317144500 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20200317144500 +0000" stop="20200317161500 +0000" channel="TVI24">
+    <title lang="pt">Belmonte</title>
+  </programme>
+  <programme start="20200317161500 +0000" stop="20200317190000 +0000" channel="TVI24">
+    <title lang="pt">A Tarde é Sua</title>
+  </programme>
+  <programme start="20200317190000 +0000" stop="20200317195700 +0000" channel="TVI24">
+    <title lang="pt">Especial Informação</title>
+    <sub-title lang="pt">Covid 19 - Consultório</sub-title>
+  </programme>
+  <programme start="20200317195700 +0000" stop="20200317210000 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+    <sub-title lang="pt">Inclui Euromilhões</sub-title>
+  </programme>
+  <programme start="20200317210000 +0000" stop="20200317215500 +0000" channel="TVI24">
+    <title lang="pt">Ana Leal</title>
+  </programme>
+  <programme start="20200317215500 +0000" stop="20200317233200 +0000" channel="TVI24">
+    <title lang="pt">Na Corda Bamba</title>
+  </programme>
+  <programme start="20200317233200 +0000" stop="20200318004500 +0000" channel="TVI24">
+    <title lang="pt">Onde está Elisa?</title>
+  </programme>
   <programme start="20200311050000 +0100" stop="20200311053000 +0100" channel="Das Erste">
     <title lang="de">Report München</title>
     <desc lang="de">Geplante Themen: Amokläufe und die psychischen Folgen - ein Polizist klagt an • Rechtsextreme in der AfD - Parteiinterner Streit kurz vor der Kommunalwahl • Umfrage: Bedrohung von BürgermeisterInnen stark gestiegen • Corona-Virus - unser Gesundheitssystem im Stresstest(n)</desc>
@@ -9865,11 +10201,11 @@
     <sub-title lang="de">Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD</sub-title>
     <desc lang="de">Kunst und Verbrechen "Im Grunde gut" Gespräch mit Rutger Bregman Raffael in Rom Musikgruppe(n)</desc>
   </programme>
-  <programme start="20200311200000 +0100" stop="20200311201600 +0100" channel="3sat">
+  <programme start="20200311200000 +0100" stop="20200311201500 +0100" channel="3sat">
     <title lang="de">Tagesschau</title>
     <desc lang="de">ARD-Nachrichten aus dem In- und Ausland auf den Punkt gebracht. Die "Tagesschau" bietet die wichtigsten Nachrichten des Tages und zusätzliche Informationen in Text, Bild, Audio und(n)</desc>
   </programme>
-  <programme start="20200311201600 +0100" stop="20200311210700 +0100" channel="3sat">
+  <programme start="20200311201500 +0100" stop="20200311210700 +0100" channel="3sat">
     <title lang="de">Mein anderes Russland (3/4)</title>
     <sub-title lang="de">Odyssee in Sibirien Film von Dave Leins</sub-title>
     <desc lang="de">Sibirien ist rau, kalt, wild und groß. Politkorrespondent Christof Franzen wagt sich auf eine Odyssee durch diese Region und reist zu Rentiernomaden bis an den Rand der(n)</desc>
@@ -13722,12 +14058,12 @@
     <sub-title lang="de">Angkor Wat</sub-title>
     <desc lang="de">Angkor Wat - Die Dokureihe trug ursprünglich den Titel "Alte Baukunst neu entschlüsselt". Es geht darum, die Geheimnisse berühmter, alter Bauwerke zu entschlüsseln. Mittels CGI-Animationen werden Erkenntnisse von Archäologen, Geologen und Altertumsforschern anschaulich dargestellt. Unter den vorgestellten Bauwerken sind beispielsweise der Parthenon, der Big Ben oder die Ruinenstätte Chichén Itzá(n)</desc>
     <credits>
-      <director>Tom Ranson</director>
+      <director>James Franklin</director>
       <actor>Steven Kearney</actor>
-      <actor>Simon Warrack</actor>
-      <actor>Jean-Baptiste Chevance</actor>
-      <actor>Mitch Hendrickson</actor>
-      <actor>Ginevra Boatto</actor>
+      <actor>Jo Buckberry</actor>
+      <actor>Gordon Ewart</actor>
+      <actor>Sue Ovenden</actor>
+      <actor>Adrian Cox</actor>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
@@ -13741,7 +14077,7 @@
     <title lang="de">Moderne Wunder</title>
     <desc lang="de">Hunderte Kilometer vom Land entfernt, begraben unter dem Meeresboden, liegt eine kaum erschlossene Energiequelle. Sie könnte die CO2-Emissionen reduzieren: Erdgas. Doch die ergiebigsten Vorkommen sind zu abgelegen, um sie zu nutzen. Eine neuartige Anlage soll das nun verändern. Erdgas aus entlegenen Vorkommen soll gefördert, verflüssigt und gespeichert werden. Das macht Pipelines überflüssig(n)</desc>
     <credits>
-      <director>Patrick Murray</director>
+      <director>Jeanette Lim</director>
     </credits>
     <category lang="de">Information</category>
     <category lang="de">Dokureihe</category>
