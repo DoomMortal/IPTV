@@ -1,8 +1,320 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="tvi-ficcao">
-    <display-name lang="pt">tvi-ficcao</display-name>
-    <icon src="http://www.guia-tv.pt/logos/tvi-ficcao.png" />
-    <url>http://www.guia-tv.pt</url>
+  <channel id="TVI Reality">
+    <display-name lang="pt">TVI Reality</display-name>
+    <url>http://www.nos.pt</url>
   </channel>
+  <programme start="20200313003000 +0000" stop="20200313013000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 11. Episódio 3</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313013000 +0000" stop="20200313024500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 11. Episódio 4</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313024500 +0000" stop="20200313051500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313051500 +0000" stop="20200313060000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313060000 +0000" stop="20200313071500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313071500 +0000" stop="20200313081500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313081500 +0000" stop="20200313093000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313093000 +0000" stop="20200313120000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313120000 +0000" stop="20200313140000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313140000 +0000" stop="20200313150000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313150000 +0000" stop="20200313161500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313161500 +0000" stop="20200313174500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313174500 +0000" stop="20200313184500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313184500 +0000" stop="20200313200000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313200000 +0000" stop="20200313223000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 12. Episódio 1</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200313223000 +0000" stop="20200314003000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 12. Episódio 2</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314003000 +0000" stop="20200314013000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 12. Episódio 3</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314013000 +0000" stop="20200314023000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 12. Episódio 4</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314023000 +0000" stop="20200314051500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314051500 +0000" stop="20200314060000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314060000 +0000" stop="20200314071500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314071500 +0000" stop="20200314081500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314081500 +0000" stop="20200314093000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314093000 +0000" stop="20200314120000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314120000 +0000" stop="20200314140000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314140000 +0000" stop="20200314150000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314150000 +0000" stop="20200314161500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314161500 +0000" stop="20200314170000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314170000 +0000" stop="20200314174500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314174500 +0000" stop="20200314184500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314184500 +0000" stop="20200314200000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314200000 +0000" stop="20200314223000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 13. Episódio 1</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200314223000 +0000" stop="20200315003000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 13. Episódio 2</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315003000 +0000" stop="20200315013000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 13. Episódio 3</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315013000 +0000" stop="20200315024500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 13. Episódio 4</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315024500 +0000" stop="20200315051500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315051500 +0000" stop="20200315060000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315060000 +0000" stop="20200315071500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315071500 +0000" stop="20200315081500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315081500 +0000" stop="20200315093000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315093000 +0000" stop="20200315111500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315111500 +0000" stop="20200315134500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315134500 +0000" stop="20200315154500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315154500 +0000" stop="20200315164500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315164500 +0000" stop="20200315180000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315180000 +0000" stop="20200315184500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315184500 +0000" stop="20200315200000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315200000 +0000" stop="20200315223000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 14. Episódio 1</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200315223000 +0000" stop="20200316003000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 14. Episódio 2</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316003000 +0000" stop="20200316013000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 14. Episódio 3</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316013000 +0000" stop="20200316024500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Semana 14. Episódio 4</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316024500 +0000" stop="20200316051500 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316051500 +0000" stop="20200316060000 +0000" channel="TVI Reality">
+    <title lang="pt">Big Brother (?)</title>
+    <sub-title lang="pt">Repetição</sub-title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316060000 +0000" stop="20200316120000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316120000 +0000" stop="20200316180000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200316180000 +0000" stop="20200317000000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200317000000 +0000" stop="20200317080000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200317080000 +0000" stop="20200317160000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200317160000 +0000" stop="20200318000000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200318000000 +0000" stop="20200318080000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200318080000 +0000" stop="20200318160000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200318160000 +0000" stop="20200319000000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200319000000 +0000" stop="20200319080000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200319080000 +0000" stop="20200319160000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200319160000 +0000" stop="20200320000000 +0000" channel="TVI Reality">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal (?)</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
 </tv>
