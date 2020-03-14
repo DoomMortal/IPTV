@@ -49,7 +49,7 @@ http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA2[/B][/I][/COLOR]
-rtmp://tv02.logicahost.com.br:1935/tvnovus/
+rtmp://tv02.logicahost.com.br:1935/tvnovus/PlaylistItemStart=mp4:2020_01_11_novo-ano-municipal.mp4 swfUrl=http://tv02.logicahost.com.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf flashVer=WIN 32,0,0,330 pageUrl=http://leiriatv.com/
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
