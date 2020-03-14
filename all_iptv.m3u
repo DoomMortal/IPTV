@@ -6,12 +6,8 @@ http://0.0.0.0:1234
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 2[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
-
-
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]
 https://live.impresa.pt/live/sic/sic.m3u8
-
-
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR green][I][B]TVI[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_tv
 #EXTINF:-1 tvg-id="tvi24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR green][I][B]TVI 24[/B][/I][/COLOR]
@@ -20,12 +16,6 @@ https://channel-resolver.herokuapp.com/tvi_24
 https://channel-resolver.herokuapp.com/tvi_ficcao
 #EXTINF:-1 tvg-id="TVI Reality" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Reality[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_reality
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 3[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b640000_DVR_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR green][I][B]RTP ÁFRICA[/B][/I][/COLOR]
@@ -48,8 +38,18 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=Ap
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA4[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="http://leiriatv.com/imagens/logomenu.png" group-title="PORTUGAL",[COLOR green][I][B]Leiria[/B][/I][/COLOR]
 rtmp://tv02.logicahost.com.br:1935/tvnovus/ playpath=tvnovus swfUrl=http://tv02.logicahost.com.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageURL=http://leiriatv.com/
+#EXTINF:-1 tvg-id="A12" tvg-logo="https://images.a12.com/portala12/source/files/c/209664/60-23-0-0.jpg" group-title="PORTUGAL",[COLOR green][I][B]A12[/B][/I][/COLOR]
+https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
+#EXTINF:-1 tvg-id="Almada TV" tvg-logo="http://www.tvalmada.pt/assets/img/logos/logo-tvalmada.png" group-title="PORTUGAL",[COLOR green][I][B]Almada TV[/B][/I][/COLOR]
+http://pull-vod-203.youoncdn.com/1479cf74e2b9807ab896e03eece0d928/6f7d78c0ca1f4ac1ad65b0213b1658ec_720.mp4
+#EXTINF:-1 tvg-id="Kuriakos TV" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos TV[/B][/I][/COLOR]
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuriakos kids" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos kids[/B][/I][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace TV" tvg-logo="http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png" group-title="PORTUGAL",[COLOR green][I][B]Enlace TV[/B][/I][/COLOR]
+https://player-api.new.livestream.com/accounts/2675843/events/1839332/broadcasts/202860149.secure.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
@@ -110,8 +110,6 @@ https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/playlist.m3u8?wowzatokenhash=K1-NvGAhK7HQZv_Yc19jCVjfKO75ZbaXvo0K1OpvCKc=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Logotipo_da_TV_Brasil.png/230px-Logotipo_da_TV_Brasil.png" group-title="BRASIL",[COLOR green][I][B]TV Brasil [/B][/I][/COLOR]
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_240/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »ALEMANHA « «[/COLOR]
@@ -970,6 +968,7 @@ http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
 
+
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR yellow]» »Webcam Portugal « «[/COLOR]
 http://0.0.0.0:1234
 
@@ -1056,159 +1055,257 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="Radio comercial" group-title="Radio Portugal" radio="true" tvg-logo="https://radiocomercial.iol.pt/images/logo_big.png",Rádio Comercial
 https://mcrwowza4.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RFM" group-title="Radio Portugal" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9c/Logo_rfm_curto.png",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-
 #EXTINF:-1 tvg-name="Cidade FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_amarelo.png",Cidade FM
 https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logoM80_vsWHITE.svg",m80 Radio
 https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 80s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8080s.svg",m80 80´s Radio
 https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Rock Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80ROCK.svg",m80´s Rock Radio
 https://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 90s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8090s.svg",m80 90´s Radio
 https://mcrwowza8.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Ballads Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80BALLADS.svg",m80 Ballads Radio
 https://mcrwowza8.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Pop Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80POP.svg",m80 Pop Radio
 https://mcrwowza8.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 70s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8070s.svg",m80 70´s Radio
 https://mcrwowza8.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Dance Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80DANCE.svg",m80 Dance Radio
 https://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Indie Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80INDIE.svg",m80 Indie Radio
 https://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Nacinal Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80NACIONAL.svg",m80 Nacinal Radio
 https://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 Soul Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M80SOUL.svg",m80 Soul Radio
 https://mcrwowza8.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="m80 60s Radio" group-title="Radio Portugal" radio="true" tvg-logo="https://m80.iol.pt/images/player3/logo_WR_M8060s.svg",m80 60´s Radio
 https://mcrwowza8.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Antena 1" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_vert_RGB.png",Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Antena 2" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena2_positivo_vert_RGB.png",Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Antena 3" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_positivo_vert_RGB.png",Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Internacional" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_vert_RGB.png",RDP Internacional
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Africa" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_vert_RGB.png",RDP Africa
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Memoria" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_vert_RGB.png",RDP Memoria
 https://streaming-live.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antenna 1 Lusitana" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Lusitania_positivo_RGB.png",RDP Antenna 1 Lusitana
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antenna 2 JazzIn" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/JazzIN_positivo_RGB.png",RDP Antenna 2 JazzIn`
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 1 Vida" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Vida_positivo_RGB.png",RDP Antena 1 Vida
 https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP ZigZag" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/09/radioZigZag_w2000_positivo.png",RDP ZigZag
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 1 Fado" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1fado_negativo_RGB_sem-fundo-01.png",RDP Antena 1 Fado
 https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 2 Opera" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A2-Opera_positivo_horiz_RGB.png",RDP Antena 2 Opera
 https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 1 Acores" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Acores_positivo.png",RDP Antena 1 Acores
 https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 1 Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Madeira_positivo_RGB.png",RDP Antena 1 Madeira
 https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RDP Antena 3 Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A3Madeira_positivo_RGB.png",RDP Antena 3 Madeira
 https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Radio Renascenca" group-title="Radio Portugal" radio="true" tvg-logo="https://rr.sapo.pt/img/logoRR.svg",Radio Renascenca
 http://20043.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC
-
 #EXTINF:-1 tvg-name="Smooth FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHFM.SVG",Smooth FM
 https://mcrwowza5.mcr.iol.pt/smooth/smil:smooth.smil/chunklist_w69700259_b64000_ao.m3u8?rnd=46700.5499519954
-
 #EXTINF:-1 tvg-name="Smooth Vocal Jaz FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHVOCALJAZZ.svg",Smooth Vocal Jaz FM
 https://mcrwowza8.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8?rnd=4259.1173930466675
-
 #EXTINF:-1 tvg-name="Smooth Soul FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHSOUL.svg",Smooth Soul FM
 https://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8?rnd=61601.15823427208
-
 #EXTINF:-1 tvg-name="Smooth Blues FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHBLUES.svg",Smooth Blues FM
 https://mcrwowza8.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8?rnd=20314.31699993025
-
 #EXTINF:-1 tvg-name="Smooth Bossa Nova FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHBOSSA.svg",Smooth Bossa Nova FM
 https://mcrwowza8.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8?rnd=76792.86883025143
-
 #EXTINF:-1 tvg-name="Smooth Jazz FM" group-title="Radio Portugal" radio="true" tvg-logo="https://smoothfm.iol.pt/images/webradios/logo_WR_SMOOTHJAZZ.svg",Smooth Jazz FM
 https://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8?rnd=54931.33160015686
-
 #EXTINF:-1 tvg-name="RFM Radio on the Rock" group-title="Radio Portugal" radio="true" tvg-logo="https://rfm.sapo.pt/images/logo18_OTR.png",RFM Radio on the Rock
 http://20103.live.streamtheworld.com:3690/RFMONTHEROCK_SC
-
 #EXTINF:-1 tvg-name="RFM 80s" group-title="Radio Portugal" radio="true" tvg-logo="https://rfm.sapo.pt/images/logo18_80s.png",RFM 80`s
 http://17873.live.streamtheworld.com:3690/GR80SRFM_SC
-
 #EXTINF:-1 tvg-name="RFM Dancefloor" group-title="Radio Portugal" radio="true" tvg-logo="https://rfm.sapo.pt/images/logo18_Dancefloor.png",RFM Dancefloor
 http://21273.live.streamtheworld.com:3690/DANCEONTHEFLOOR_SC
-
 #EXTINF:-1 tvg-name="RFM Oceano Pacifico" group-title="Radio Portugal" radio="true" tvg-logo="https://rfm.sapo.pt/images/logo18_Oceano.png",RFM Oceano Pacifico
 http://21283.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-
 #EXTINF:-1 tvg-name="Radio oxigenio" group-title="Radio Portugal" radio="true" tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2018/11/radio_oxigenio-1.png",Radio oxigenio
 https://proic1.evspt.com/oxigenio_aac
-
 #EXTINF:-1 tvg-name="Radar" group-title="Radio Portugal" radio="true" tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png",Radar
 https://proic1.evspt.com/radar_aac
-
 #EXTINF:-1 tvg-name="Radio Amalia" group-title="Radio Portugal" radio="true" tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Radio Amalia
 https://ajax.mytuner-radio.com/ajax/play/?id=x3mx59ed2roy
-
 #EXTINF:-1 tvg-name="Radio festival" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiofestival.pt/imgs/logo_transparente.png",Radio festival
 http://centova.radio.com.pt:9520/;
-
 #EXTINF:-1 tvg-name="Vodafone FM" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/4c/a4/105281/2/c300.png",Vodafone FM
 https://mcrwowza4.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Sim" group-title="Radio Portugal" radio="true" tvg-logo="https://radiosim.sapo.pt/images/logo.png",Sim - A Radio do seu tempo
 http://20043.live.streamtheworld.com:3690/RADIO_SIM_SC
-
 #EXTINF:-1 tvg-name="98.1 Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://marginal.fm/logomarginal.png",98.1 Marginal
 http://centova.radios.pt/proxy/499?mp=/stream
-
 #EXTINF:-1 tvg-name="Marcoense FM" group-title="Radio Portugal" radio="true" tvg-logo="https://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",Marcoense FM
 http://137.74.160.250:8000/;stream/1
-
 #EXTINF:-1 tvg-name="Radio Vizela" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiovizela.pt/images/logo.png",Radio Vizela
 http://109.71.41.6:8100/stream
-
 #EXTINF:-1 tvg-name="Sao Miguel" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiosaomiguel.pt/wp-content/uploads/2019/05/logo-radio-sao-miguel-93.4.png",Sao Miguel
 http://162.210.196.217:8146/;
-
 #EXTINF:-1 tvg-name="Radio Super Bock" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Radio Super Bock
 https://ajax.mytuner-radio.com/ajax/play/?id=v26q5ng206go
-
 #EXTINF:-1 tvg-name="Rum" group-title="Radio Portugal" radio="true" tvg-logo="https://assets.bondlayer.com/nr1mnwosex/_assets/n8de9rmdufndcujfrwccm.png",Rum
 https://centova.radio.com.pt/proxy/558?mp=/stream
+#EXTINF:-1 tvg-name="Kuriakos Music" group-title="Radio Portugal" radio="true" tvg-logo="http://kuriakosmusic.com/wp-content/uploads/2018/03/Kuriakos-music_170xXXX.png",Kuriakos Music
+http://195.22.22.68:80/kmusic
+#EXTINF:-1 tvg-name="Diana Fm" group-title="Radio Portugal" radio="true" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png",Diana Fm
+https://centova.radio.com.pt/proxy/460?mp=/stream
+#EXTINF:-1 tvg-name="Radio Reginal de Arouca" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/c5/b2/18991/c175.png",Radio Reginal de Arouca
+https://centova.radio.com.pt/proxy/485?mp=/stream
+#EXTINF:-1 tvg-name="RC Alentejo" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/ab/6e/29611/c175.png",RC Alentejo
+https://centova.radio.com.pt/proxy/184?mp=/stream
+#EXTINF:-1 tvg-name="Santiago fm" group-title="Radio Portugal" radio="true" tvg-logo="https://www.guimaraesdigital.com/play/img/santiago_logo_top.jpg",Santiago fm
+http://178.33.71.166:5002/stream
+#EXTINF:-1 tvg-name="Radio TSF" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/tsf.png",Radio TSF
+https://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-name="Radio Radar" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radar.png",Radio Radar
+https://proic1.evspt.com/radar_aac
+#EXTINF:-1 tvg-name="Radio 94 FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/94-fm.png",Radio 94 FM
+http://195.8.58.150:35022/stream/1/
+#EXTINF:-1 tvg-name="Radio Nova Era" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nova-era.png",Radio Nova Era
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:-1 tvg-name="Radio Nove3cinco" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nove3cinco-povoa-de-lanhoso.png",Radio Nove3cinco
+http://centova.radios.pt:9522/stream/1/
+#EXTINF:-1 tvg-name="Radio Cascais" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/cascais-lisboa.png",Radio Cascais
+http://95.217.75.38:9956/;
+#EXTINF:-1 tvg-name="Radio Universitaria do Minho" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/universitaria-do-minho-braga.png",Radio Universitaria do Minho
+http://centova.radios.pt:9558/stream/1/
+#EXTINF:-1 tvg-name="Rádio Meo Sudoeste" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/swtmn-lisboa.png",Rádio Meo Sudoeste
+http://centova.radios.pt:8495/stream/1/
+#EXTINF:-1 tvg-name="Radio Nova" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nova.png",Radio Nova
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:-1 tvg-name="Super FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/super.png",Super FM
+http://95.217.75.38:9962/;
+#EXTINF:-1 tvg-name="Radio Pernes" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.pt/images/broadcasts/0f/ec/29624/1/c175.png",Radio Pernes
+http://162.210.196.217:8066/stream/1/
+#EXTINF:-1 tvg-name="Rádio Campanário" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s109434q.png",Rádio Campanário
+http://centova.radios.pt:8425/stream
+#EXTINF:-1 tvg-name="Tejo Rádio Jornal" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/5c/5b/29590/c300.png",Tejo Rádio Jornal
+http://centova.radios.pt:8531/stream
+#EXTINF:-1 tvg-name="Antena Nove" group-title="Radio Portugal" radio="true" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/33ce7f0947c761ea70765bed98278464.png",Antena Nove
+http://centova.radios.pt:8565/stream
+#EXTINF:-1 tvg-name="Rádio Comercial dos Açores" group-title="Radio Portugal" radio="true" tvg-logo="",Rádio Comercial dos Açores
+http://centova.radios.pt:8243/stream
+#EXTINF:-1 tvg-name="Rádio Castrense" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s83595g.png",Rádio Castrense
+http://centova.radios.pt:8431/stream
+#EXTINF:-1 tvg-name="Rádio Singa FM" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.pt/images/broadcasts/99/ec/13443/c175.png",Rádio Singa FM
+http://centova.radios.pt:8487/stream
+#EXTINF:-1 tvg-name="Rádio Lafões" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.pt/images/broadcasts/dd/24/29562/c175.png",Rádio Lafões
+http://centova.radios.pt:9564/stream
+#EXTINF:-1 tvg-name="Radio Escuro" group-title="Radio Portugal" radio="true" tvg-logo="http://www.radioescuro.com/images/logo.jpg",Radio Escuro
+http://162.210.196.217:8096/stream.mp3?1584136152647
+#EXTINF:-1 tvg-name="Rádio Alto Ave" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.pt/images/broadcasts/24/7c/16890/1/c300.png",Rádio Alto Ave
+http://centova.radios.pt:8517/stream
+#EXTINF:-1 tvg-name="Rádio Ondas do Lima" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/de/8a/29571/c175.png",Rádio Ondas do Lima
+http://centova.radios.pt:8407/stream
+#EXTINF:-1 tvg-name="Rádio Barca" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s48695g.png",Rádio Barca
+http://centova.radios.pt:8483/stream
+#EXTINF:-1 tvg-name="Rádio Ecos da Raia" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rweckqxxpnjb.jpg",Rádio Ecos da Raia
+http://centova.radios.pt:9434/stream
+#EXTINF:-1 tvg-name="Rádio Club Asas do Atlânticoia" group-title="Radio Portugal" radio="true" tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/0/20350.v1.png",Rádio Club Asas do Atlânticoia
+http://centova.radios.pt:9538/stream
+#EXTINF:-1 tvg-name="Radio Nova Cidade" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nova-cidade-ribeira-grande.png",Radio Nova Cidade
+http://95.217.75.38:9818/stream/1/
+#EXTINF:-1 tvg-name="Rádio Barc" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/19769.v2.png",Rádio Barcelos
+http://centova.radios.pt:8563/stream
+#EXTINF:-1 tvg-name="Rádio Ansiães" group-title="Radio Portugal" radio="true" tvg-logo="",Rádio Ansiães
+http://centova.radios.pt:8419/stream
+#EXTINF:-1 tvg-name="Rádio Sines" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiosines.pt/assets/dist/img/logo.png",Rádio Sines
+https://video01.kshost.com.br/associacao9628/associacao9628/playlist.m3u8
+#EXTINF:-1 tvg-name="Geice FM" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/54/e6/29620/c175.png",Geice FM
+http://centova.radios.pt:9448/stream
+#EXTINF:-1 tvg-name="Rádio Alto Minho" group-title="Radio Portugal" radio="true" tvg-logo="https://radioaltominho.pt/wp-content/themes/RAM2018/assets/images/logo.png",Rádio Alto Minho
+http://centova.radios.pt:8403/stream
+#EXTINF:-1 tvg-name="Emissora das Beiras" group-title="Radio Portugal" radio="true" tvg-logo="https://emissoradasbeiras.pt/logo2013.png",Emissora das Beiras
+http://centova.radios.pt:8465/stream
+#EXTINF:-1 tvg-name="Radio No Ar" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/no-ar-porto.png",Radio No Ar
+http://5.189.189.245:8024/stream/1/
+#EXTINF:-1 tvg-name="Radio Voz de Santo Tirso" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/voz-de-santo-tirso.png",Radio Voz de Santo Tirso
+http://213.136.92.8:8034/stream/1/
+#EXTINF:-1 tvg-name="Rádio Nova" group-title="Radio Portugal" radio="true" tvg-logo="http://www.radionova.fm/w/img/radionova_logo-cores.png",Rádio Nova
+http://centova.radios.pt:9528/stream
+#EXTINF:-1 tvg-name="Rádio Clube Penafiel" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/92/26/18989/c175.png",Rádio Clube Penafiel
+http://centova.radios.pt:9476/stream
+#EXTINF:-1 tvg-name="Rádio Felgueiras" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radiofelgueiras.pt/assets/imagens/logo.jpg",Rádio Felgueiras
+http://centova.radios.pt:8459/stream
+#EXTINF:-1 tvg-name="Rádio Portalegre" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radioportalegre.pt/images/radionline.png",Rádio Portalegre
+http://centova.radios.pt:9492/stream
+#EXTINF:-1 tvg-name="Rádio Elvas" group-title="Radio Portugal" radio="true" tvg-logo="http://radioelvas.com/wp-content/uploads/2016/04/radioelvas_logo_small-1.png",Rádio Elvas
+http://radios.dotsi.pt:8025/stream
+#EXTINF:-1 tvg-name="TSF Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/06/03/29580/c300.png",TSF Madeira
+http://centova.radios.pt:9470/stream
+#EXTINF:-1 tvg-name="Rádio Jornal Madeira" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Rf6tkrpgPA.png",Rádio Jornal Madeira
+http://194.38.136.130:8000/?type=http
+#EXTINF:-1 tvg-name="Ultra FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/ultra-vila-franca-de-xira.png",Ultra FM
+http://centova.radios.pt:9506/stream
+#EXTINF:-1 tvg-name="Rádio Clube de Sintra" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/94LtRJGvVR.jpg",Rádio Clube de Sintra
+http://centova.radios.pt:8445/stream
+#EXTINF:-1 tvg-name="Rádio Linear" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/b1/3c/29563/c175.png",Rádio Linear
+http://213.136.92.8:8022/stream/1/
+#EXTINF:-1 tvg-name="Antena Livre" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/4d/60/29551/c300.png",Antena Livre
+http://centova.radios.pt:8571/stream
+#EXTINF:-1 tvg-name="Rádio Concelho de Mafra" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.at/images/broadcasts/e4/97/29560/c175.png",Rádio Concelho de Mafra
+http://centova.radios.pt:8551/stream
+#EXTINF:-1 tvg-name="Rádio Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://www.marginal.fm/logomarginal.png",Rádio Marginal
+http://centova.radios.pt:8499/stream
+#EXTINF:-1 tvg-name="Voz de Alenquer" group-title="Radio Portugal" radio="true" tvg-logo="https://static-media.streema.com/media/cache/88/60/886043cbe2aec80952ee741a098743c3.jpg",Voz de Alenquer
+http://centova.radios.pt:8479/stream
+#EXTINF:-1 tvg-name="Rádio Mais Oeste" group-title="Radio Portugal" radio="true" tvg-logo="http://db.radioline.fr/pictures/radio_a34e9967c17cd1331084316b129b5224/logo200.jpg",Rádio Mais Oeste
+http://centova.radios.pt:8515/stream
+#EXTINF:-1 tvg-name="Rádio Cister" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.at/images/broadcasts/c5/90/13414/c300.png",Rádio Cister
+http://centova.radios.pt:8453/stream
+#EXTINF:-1 tvg-name="Rádio Elmo" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.at/images/broadcasts/62/e2/17227/c175.png",Rádio Elmo
+http://centova.radios.pt:8463/stream
+#EXTINF:-1 tvg-name="Rádio Altitude" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.at/images/broadcasts/8d/ac/13381/c175.png",Rádio Altitude
+http://centova.radios.pt:9034/stream
+#EXTINF:-1 tvg-name="Rádio Horizonte Algarve" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1653g.png",Rádio Horizonte Algarve
+http://centova.radios.pt:9458/stream
+#EXTINF:-1 tvg-name="Rádio Alvor FM" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xCcqdhCRL7.png",Rádio Alvor FM
+http://centova.radios.pt:8469/stream
+#EXTINF:-1 tvg-name="Total FM" group-title="Radio Portugal" radio="true" tvg-logo="https://www.totalfm.pt/images/radio_total_logo_site_v1250.png",Total FM
+http://176.61.144.80:9300/;type=mp3
+#EXTINF:-1 tvg-name="Rádio Universitaria do Algarve" group-title="Radio Portugal" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/RUA_FM_-_R%C3%A1dio_Universit%C3%A1ria_do_Algarve.jpg",Rádio Universitaria do Algarve
+http://centova.radios.pt:9536/stream
+#EXTINF:-1 tvg-name="Kiss FM (Albufeira)" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/b8/49/17424/c300.png",Kiss FM (Albufeira)
+http://162.210.196.217:8070/stream.mp3?1584141847227
+#EXTINF:-1 tvg-name="Radio Regional do Centro (Coimbra)" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/regional-do-centro-coimbra.png",Radio Regional do Centro (Coimbra)
+http://213.239.218.99:7084/stream/1/
+#EXTINF:-1 tvg-name="Rádio Universidade de Coimbra" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/d4/03/4866/c300.png",Rádio Universidade de Coimbra
+http://ruc2.cidadedecoimbra.com:8000/;
+#EXTINF:-1 tvg-name="Rádio Clube de Arganil" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/d0/b1/29556/c300.png",Rádio Clube de Arganil
+http://176.9.43.216:8135/stream
+#EXTINF:-1 tvg-name="Rádio Condestável" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/4nC3Ht7Jwg.jpg",Rádio Condestável
+http://centova.radios.pt:8427/stream
+#EXTINF:-1 tvg-name="Rádio Clube Monsanto" group-title="Radio Portugal" radio="true" tvg-logo="http://db.radioline.fr/pictures/radio_42e409744409f56024d70b682bc13ca0/logo200.jpg",Rádio Clube Monsanto
+http://centova.radios.pt:9424/stream
+#EXTINF:-1 tvg-name="Rádio Cova da Beira" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.at/images/broadcasts/36/0b/13427/c300.png",Rádio Cova da Beira
+http://centova.radios.pt:8467/stream
+#EXTINF:-1 tvg-name="Rádio Cidade Hoje" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/39/f1/18995/c300.png",Rádio Cidade Hoje
+http://centova.radios.pt:8119/stream
+#EXTINF:-1 tvg-name="Digital FM" group-title="Radio Portugal" radio="true" tvg-logo="https://static-media.streema.com/media/cache/3f/1f/3f1f326a5977694f5943810ce94f17da.jpg",Digital FM
+http://digitalfm.dynu.com:8000/digitalfm64
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.de/images/broadcasts/dd/5f/18051/c300.png",Rádio Região de Basto
+http://46.105.172.166:8104/;
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hu8pz6bls8mk.png",Rádio Voz de Basto
+http://213.136.92.8:8008/;
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ZtBbdBSEYW.png",Rádio Terra Quente
+http://centova.radios.pt:9402/stream
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://www.radioplanicie.com/imagens_2015/images/cabeca_01.png",Rádio Planície
+https://audio.ptisp.com:2199/tunein/64983.pls
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://evibe.me/images/radimg250237/pt_Vidigueira.jpg",Rádio Vidigueira
+http://centova.radios.pt:8567/stream
+#EXTINF:-1 tvg-name="Marginal" group-title="Radio Portugal" radio="true" tvg-logo="https://www.vozdaplanicie.pt/assets/dist/img/logo.png",Rádio Voz da Planície
+https://centova.radio.com.pt/proxy/441?mp=/stream
