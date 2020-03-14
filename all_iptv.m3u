@@ -7,7 +7,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-A
 #EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 2[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]
-https://live.impresa.pt/live/sic/sic.m3u8
+http://213.58.196.146:61221/?url=https://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR green][I][B]TVI[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_tv
 #EXTINF:-1 tvg-id="tvi24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR green][I][B]TVI 24[/B][/I][/COLOR]
@@ -40,14 +40,8 @@ http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://leiriatv.com/imagens/logomenu.png" group-title="PORTUGAL",[COLOR green][I][B]Leiria[/B][/I][/COLOR]
 rtmp://tv02.logicahost.com.br:1935/tvnovus/ playpath=tvnovus swfUrl=http://tv02.logicahost.com.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageURL=http://leiriatv.com/
-#EXTINF:-1 tvg-id="A12" tvg-logo="https://images.a12.com/portala12/source/files/c/209664/60-23-0-0.jpg" group-title="PORTUGAL",[COLOR green][I][B]A12[/B][/I][/COLOR]
-https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
 #EXTINF:-1 tvg-id="Almada TV" tvg-logo="http://www.tvalmada.pt/assets/img/logos/logo-tvalmada.png" group-title="PORTUGAL",[COLOR green][I][B]Almada TV[/B][/I][/COLOR]
 http://pull-vod-203.youoncdn.com/1479cf74e2b9807ab896e03eece0d928/6f7d78c0ca1f4ac1ad65b0213b1658ec_720.mp4
-#EXTINF:-1 tvg-id="Kuriakos TV" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos TV[/B][/I][/COLOR]
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Kuriakos kids" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos kids[/B][/I][/COLOR]
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace TV" tvg-logo="http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png" group-title="PORTUGAL",[COLOR green][I][B]Enlace TV[/B][/I][/COLOR]
 https://player-api.new.livestream.com/accounts/2675843/events/1839332/broadcasts/202860149.secure.m3u8
 
@@ -110,6 +104,12 @@ https://5e38d79ac4439.streamlock.net/agrocanal/live/playlist.m3u8?wowzatokenhash
 https://5e38d79ac4439.streamlock.net/canaldoboi/live/playlist.m3u8?wowzatokenhash=K1-NvGAhK7HQZv_Yc19jCVjfKO75ZbaXvo0K1OpvCKc=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Logotipo_da_TV_Brasil.png/230px-Logotipo_da_TV_Brasil.png" group-title="BRASIL",[COLOR green][I][B]TV Brasil [/B][/I][/COLOR]
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_240/index.m3u8
+#EXTINF:-1 tvg-id="A12" tvg-logo="https://images.a12.com/portala12/source/files/c/209664/60-23-0-0.jpg" group-title="PORTUGAL",[COLOR green][I][B]A12[/B][/I][/COLOR]
+https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8
+#EXTINF:-1 tvg-id="Kuriakos TV" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos TV[/B][/I][/COLOR]
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuriakos kids" tvg-logo="http://www.kuriakos-tv.com/img/logo.png" group-title="PORTUGAL",[COLOR green][I][B]Kuriakos kids[/B][/I][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR purple]» »ALEMANHA « «[/COLOR]
@@ -1185,8 +1185,6 @@ http://95.217.75.38:9956/;
 http://centova.radios.pt:9558/stream/1/
 #EXTINF:-1 tvg-name="Rádio Meo Sudoeste" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/swtmn-lisboa.png",Rádio Meo Sudoeste
 http://centova.radios.pt:8495/stream/1/
-#EXTINF:-1 tvg-name="Radio Nova" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/nova.png",Radio Nova
-http://centova.radios.pt:9528/stream/1/
 #EXTINF:-1 tvg-name="Super FM" group-title="Radio Portugal" radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/super.png",Super FM
 http://95.217.75.38:9962/;
 #EXTINF:-1 tvg-name="Radio Pernes" group-title="Radio Portugal" radio="true" tvg-logo="https://static.radio.pt/images/broadcasts/0f/ec/29624/1/c175.png",Radio Pernes
