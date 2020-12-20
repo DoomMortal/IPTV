@@ -8,13 +8,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-A
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]
 https://live.impresa.pt/live/sic/sic.m3u8|proxy=http://213.58.196.146:61221
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR green][I][B]TVI[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_tv
-#EXTINF:-1 tvg-id="tvi24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR green][I][B]TVI 24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="tvi24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_24
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Ficção[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Ficção[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_ficcao
-#EXTINF:-1 tvg-id="TVI Reality" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR green][I][B]TVI Reality[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TVI Reality" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Reality[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_reality
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 3[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b640000_DVR_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
@@ -49,7 +49,7 @@ https://player-api.new.livestream.com/accounts/2675843/events/1839332/broadcasts
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR yellow][I][B]Andalucía TV [/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR green][I][B]Andalucía TV [/B][/I][/COLOR]
 plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 #EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR green][I][B]TV Galicia [/B][/I][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -74,9 +74,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR orange]» »BRASIL « «[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR yellow][I][B]RECORD TV NEWS [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR green][I][B]RECORD TV NEWS [/B][/I][/COLOR]
 plugin://plugin.video.youtube/play/?channel_id=UCuiLR4p6wQ3xLEm15pEn1Xw&live=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR yellow][I][B]JR 24H [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/200px-Logotipo_da_Record_News_%282016%29.png" group-title="BRASIL",[COLOR green][I][B]JR 24H [/B][/I][/COLOR]
 https://r7live15-lh.akamaihd.net/i/pgm15_1@833327/index_480_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/200px-Logotipo_do_SBT.svg.png" group-title="BRASIL",[COLOR green][I][B]SBT [/B][/I][/COLOR]
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
