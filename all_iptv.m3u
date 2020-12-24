@@ -5,17 +5,20 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 1[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 2[/B][/I][/COLOR]
+
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]
 https://live.impresa.pt/live/sic/sic.m3u8|proxy=http://213.58.196.146:61221
+
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
-https://channel-resolver.herokuapp.com/tvi_tv
+https://video-auth4.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCA0OjQ0OjIgUE0maGFzaF92YWx1ZT1iZkFlVy9RczdPWG14VDhVNm1Pa3FBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZhNmViMGMtZWZmYi00OWM1LTg5MDUtZGY2ZGEyODExMzQ1
 #EXTINF:-1 tvg-id="tvi24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
-https://channel-resolver.herokuapp.com/tvi_24
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCA0OjQ0OjIgUE0maGFzaF92YWx1ZT1iZkFlVy9RczdPWG14VDhVNm1Pa3FBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZhNmViMGMtZWZmYi00OWM1LTg5MDUtZGY2ZGEyODExMzQ1
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Ficção[/B][/I][/COLOR]
-https://channel-resolver.herokuapp.com/tvi_ficcao
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMCA0OjQ0OjIgUE0maGFzaF92YWx1ZT1iZkFlVy9RczdPWG14VDhVNm1Pa3FBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjZhNmViMGMtZWZmYi00OWM1LTg5MDUtZGY2ZGEyODExMzQ1
 #EXTINF:-1 tvg-id="TVI Reality" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvireality.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Reality[/B][/I][/COLOR]
 https://channel-resolver.herokuapp.com/tvi_reality
+
 #EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 3[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b640000_DVR_slpt.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR green][I][B]RTP ÁFRICA[/B][/I][/COLOR]
