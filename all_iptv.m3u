@@ -40,7 +40,7 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=Ap
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR green][I][B]TV FÁTIMA[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",[COLOR green][I][B]CANÇÃO NOVA[/B][/I][/COLOR]
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+plugin://plugin.video.youtube/play/?channel_id=UCVrKQMmA2ew9LFzeIDaOFgw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="http://leiriatv.com/imagens/logomenu.png" group-title="PORTUGAL",[COLOR green][I][B]Leiria[/B][/I][/COLOR]
 rtmp://tv02.logicahost.com.br:1935/tvnovus/ playpath=tvnovus swfUrl=http://tv02.logicahost.com.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageURL=http://leiriatv.com/
 #EXTINF:-1 tvg-id="Almada TV" tvg-logo="http://www.tvalmada.pt/assets/img/logos/logo-tvalmada.png" group-title="PORTUGAL",[COLOR green][I][B]Almada TV[/B][/I][/COLOR]
