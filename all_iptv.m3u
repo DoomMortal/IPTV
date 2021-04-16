@@ -3,7 +3,7 @@
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 1[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 2[/B][/I][/COLOR]
 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0&Referer=https://www.rtp.pt/
