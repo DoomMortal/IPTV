@@ -5,8 +5,8 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 1[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?token=1618718400_237d96d4176d395f154483f3b1f75042da6a6a41|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR green][I][B]RTP 2[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8.m3u8?token=1618804800_7d1ce116abd6adfa585a545e38caa4ba1ff1a2bf|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0&Referer=https://www.rtp.pt/
 
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8&token=1618718400_237d96d4176d395f154483f3b1f75042da6a6a41|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0&Referer=https://www.rtp.pt/
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",[COLOR red][I][B]SIC[/B][/I][/COLOR]
 https://live.impresa.pt/live/sic/sic.m3u8|proxy=http://213.58.196.146:61221
 
@@ -68,7 +68,7 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/200px-324_%28CCMA%29_logo.svg.png" group-title="ESPANHA",[COLOR green][I][B]3/24[/B][/I][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR green][I][B]REAL MADRID TV [/B][/I][/COLOR]
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR orange]» »BRASIL « «[/COLOR]
