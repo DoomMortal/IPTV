@@ -68,7 +68,7 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/200px-324_%28CCMA%29_logo.svg.png" group-title="ESPANHA",[COLOR green][I][B]3/24[/B][/I][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR green][I][B]REAL MADRID TV [/B][/I][/COLOR]
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR orange]» »BRASIL « «[/COLOR]
