@@ -48,7 +48,7 @@ https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="Esteves" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR green][I][B]Esteves [/B][/I][/COLOR]
-plugin://plugin.video.youtube/play/?v=bhB4GakZBqg
+https://www.youtube.com/watch?v=bhB4GakZBqg
 #EXTINF:-1 tvg-id="Andalucía TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-4.png" group-title="ESPANHA",[COLOR green][I][B]Andalucía TV [/B][/I][/COLOR]
 plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 #EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1920px-Television_de_Galicia.svg.png" group-title="ESPANHA",[COLOR green][I][B]TV Galicia [/B][/I][/COLOR]
