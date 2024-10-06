@@ -44,7 +44,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCVrKQMmA2ew9LFzeIDaOFgw&live=1
 #EXTINF:-1 tvg-id="Enlace TV" tvg-logo="http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png" group-title="PORTUGAL",[COLOR green][I][B]Enlace TV[/B][/I][/COLOR]
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 
-https://www.youtube.com/watch?v=bhB4GakZBqg
 #EXTINF:-1 tvg-id="" tv-logo=“”,[COLOR cyan]» »ESPANHA « «[/COLOR]
 http://0.0.0.0:1234
 
